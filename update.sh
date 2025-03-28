@@ -31,6 +31,9 @@ fetch_data() {
       continue
     fi
 
+    # clean data - remove null bytes and fix invalid numeric literals
+    data=$(echo "$data" | tr -d '\000' | jq -c .)
+
     return 0
   done
 
