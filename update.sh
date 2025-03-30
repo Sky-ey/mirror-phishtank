@@ -59,6 +59,24 @@ fetch_csv_data() {
       continue
     fi
 
+    # validate CSV header
+    if ! echo "$csv_data" | head -n1 | grep -qE '^phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,target'; then
+      echo "Invalid CSV header. Retrying..."
+      sleep 60
+      continue
+    fi
+
+    # check minimum data rows
+    line_count=$(echo "$csv_data" | wc -l)
+    if [[ $line_count -lt 100 ]]; then
+      echo "CSV data row count too low ($line_count). Retrying..."
+      sleep 60
+      continue
+    fi
+
+    # clean data - remove empty lines and control characters
+    csv_data=$(echo "$csv_data" | sed 's/\x00//g' | grep -v '^$' | tr -d '\r')
+
     return 0
   done
 
