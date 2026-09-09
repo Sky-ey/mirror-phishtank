@@ -1,4 +1,436 @@
 phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,target
+9521510,http://elheidgr.com/vps/,http://www.phishtank.com/phish_detail.php?phish_id=9521510,2026-09-09T17:09:43+00:00,yes,2026-09-09T17:11:54+00:00,yes,Other
+9521509,https://elheidgr.com/vps/,http://www.phishtank.com/phish_detail.php?phish_id=9521509,2026-09-09T17:09:20+00:00,yes,2026-09-09T17:11:54+00:00,yes,Other
+9521508,https://elheidgr.com/vps/turnstile-check,http://www.phishtank.com/phish_detail.php?phish_id=9521508,2026-09-09T17:09:00+00:00,yes,2026-09-09T17:11:54+00:00,yes,Other
+9521504,https://ww.rjvs4571248.pro/,http://www.phishtank.com/phish_detail.php?phish_id=9521504,2026-09-09T16:59:26+00:00,yes,2026-09-09T17:11:54+00:00,yes,Other
+9521503,https://ww.rjvs4571248.pro/captcha.php,http://www.phishtank.com/phish_detail.php?phish_id=9521503,2026-09-09T16:59:15+00:00,yes,2026-09-09T17:11:54+00:00,yes,Other
+9521502,https://delivery3645e.rjvs4571248.pro/captcha.php,http://www.phishtank.com/phish_detail.php?phish_id=9521502,2026-09-09T16:58:58+00:00,yes,2026-09-09T17:02:15+00:00,yes,Other
+9521501,https://update5643r.rjvs4571248.pro/,http://www.phishtank.com/phish_detail.php?phish_id=9521501,2026-09-09T16:58:18+00:00,yes,2026-09-09T17:02:15+00:00,yes,Other
+9521500,https://update5643r.rjvs4571248.pro/captcha.php,http://www.phishtank.com/phish_detail.php?phish_id=9521500,2026-09-09T16:58:03+00:00,yes,2026-09-09T17:02:15+00:00,yes,Other
+9521499,https://update7263j.rjvs4571248.pro/,http://www.phishtank.com/phish_detail.php?phish_id=9521499,2026-09-09T16:57:35+00:00,yes,2026-09-09T17:02:15+00:00,yes,Other
+9521498,https://update7263j.rjvs4571248.pro/captcha.php,http://www.phishtank.com/phish_detail.php?phish_id=9521498,2026-09-09T16:57:21+00:00,yes,2026-09-09T17:02:15+00:00,yes,Other
+9521497,https://update7043j.rjvs4571248.pro/,http://www.phishtank.com/phish_detail.php?phish_id=9521497,2026-09-09T16:56:30+00:00,yes,2026-09-09T17:02:15+00:00,yes,Other
+9521496,https://update7043j.rjvs4571248.pro/captcha.php,http://www.phishtank.com/phish_detail.php?phish_id=9521496,2026-09-09T16:56:18+00:00,yes,2026-09-09T17:02:15+00:00,yes,Other
+9521494,https://share.google/3S9SCWZ2xL078g8sS,http://www.phishtank.com/phish_detail.php?phish_id=9521494,2026-09-09T16:50:10+00:00,yes,2026-09-09T17:02:15+00:00,yes,Other
+9521493,https://movtime131.shop/4oSafI3086GpVh327wnturtktjx87WIRJHIZJMSALFRM846828SPTQ49823c1,http://www.phishtank.com/phish_detail.php?phish_id=9521493,2026-09-09T16:49:56+00:00,yes,2026-09-09T17:02:15+00:00,yes,Other
+9521492,http://movtime131.shop/4yVDkl3086OJLw327cwzpnwcvwk87OMNRNKVMOMVRKAI846828TMBW49823F1,http://www.phishtank.com/phish_detail.php?phish_id=9521492,2026-09-09T16:48:21+00:00,yes,2026-09-09T16:51:53+00:00,yes,Other
+9521491,http://allegro.91289h405h045.mom/,http://www.phishtank.com/phish_detail.php?phish_id=9521491,2026-09-09T16:39:55+00:00,yes,2026-09-09T16:51:53+00:00,yes,Allegro
+9521489,https://rebrand.ly/jj3jat5,http://www.phishtank.com/phish_detail.php?phish_id=9521489,2026-09-09T16:31:51+00:00,yes,2026-09-09T16:41:50+00:00,yes,Other
+9521488,https://scanned.page/M33zwH,http://www.phishtank.com/phish_detail.php?phish_id=9521488,2026-09-09T16:31:19+00:00,yes,2026-09-09T16:41:50+00:00,yes,Other
+9521487,https://carcarrierhub.lk/wp-admin/NL/KL,http://www.phishtank.com/phish_detail.php?phish_id=9521487,2026-09-09T16:30:41+00:00,yes,2026-09-09T16:41:50+00:00,yes,Other
+9521486,https://carcarrierhub.lk/wp-admin/NL/KL/,http://www.phishtank.com/phish_detail.php?phish_id=9521486,2026-09-09T16:30:14+00:00,yes,2026-09-09T16:41:50+00:00,yes,Other
+9521485,https://carcarrierhub.lk/wp-admin/NL/KL/log.php,http://www.phishtank.com/phish_detail.php?phish_id=9521485,2026-09-09T16:29:35+00:00,yes,2026-09-09T16:41:50+00:00,yes,Other
+9521482,http://allegro.5498h45j564.cfd/,http://www.phishtank.com/phish_detail.php?phish_id=9521482,2026-09-09T16:15:40+00:00,yes,2026-09-09T16:32:11+00:00,yes,Allegro
+9521481,http://allegro.12-1-h593g4.lol/,http://www.phishtank.com/phish_detail.php?phish_id=9521481,2026-09-09T16:15:37+00:00,yes,2026-09-09T16:21:55+00:00,yes,Allegro
+9521480,http://allegro.04192h847h45.rest/,http://www.phishtank.com/phish_detail.php?phish_id=9521480,2026-09-09T16:15:36+00:00,yes,2026-09-09T16:21:55+00:00,yes,Allegro
+9521479,http://allegro.92381928h75.rest/,http://www.phishtank.com/phish_detail.php?phish_id=9521479,2026-09-09T16:15:31+00:00,yes,2026-09-09T16:21:56+00:00,yes,Allegro
+9521473,https://noreply-dispatchdepartment.github.io/tescomobile/,http://www.phishtank.com/phish_detail.php?phish_id=9521473,2026-09-09T15:47:43+00:00,yes,2026-09-09T17:02:15+00:00,yes,Tesco
+9521471,http://allegrolokalnie.pl-96077.icu/oferta/garaz-blaszany-magazynek/56761,http://www.phishtank.com/phish_detail.php?phish_id=9521471,2026-09-09T15:40:11+00:00,yes,2026-09-09T15:41:43+00:00,yes,Allegro
+9521453,https://contribuinte-detranes.vercel.app/,http://www.phishtank.com/phish_detail.php?phish_id=9521453,2026-09-09T14:55:27+00:00,yes,2026-09-09T15:02:10+00:00,yes,Other
+9521452,http://allegrolokalnie.pl74646.top,http://www.phishtank.com/phish_detail.php?phish_id=9521452,2026-09-09T14:55:13+00:00,yes,2026-09-09T15:02:10+00:00,yes,Allegro
+9521451,http://allegrolokalnie.lokalna-ofera894032475.lol,http://www.phishtank.com/phish_detail.php?phish_id=9521451,2026-09-09T14:54:31+00:00,yes,2026-09-09T15:02:10+00:00,yes,Allegro
+9521450,http://allegro.lokalna-ofera894032475.lol,http://www.phishtank.com/phish_detail.php?phish_id=9521450,2026-09-09T14:54:24+00:00,yes,2026-09-09T15:02:10+00:00,yes,Allegro
+9521449,https://selfcarearubacc.online/,http://www.phishtank.com/phish_detail.php?phish_id=9521449,2026-09-09T14:51:04+00:00,yes,2026-09-09T14:51:52+00:00,yes,Other
+9521444,https://allegrolokalnie.lokalna412955.cfd/,http://www.phishtank.com/phish_detail.php?phish_id=9521444,2026-09-09T14:41:50+00:00,yes,2026-09-09T14:51:52+00:00,yes,Allegro
+9521439,https://cuponsbahia.com/fritacb78432/,http://www.phishtank.com/phish_detail.php?phish_id=9521439,2026-09-09T14:31:14+00:00,yes,2026-09-09T14:41:55+00:00,yes,Other
+9521436,https://www.gxnnlxzs.com/login,http://www.phishtank.com/phish_detail.php?phish_id=9521436,2026-09-09T14:24:51+00:00,yes,2026-09-09T14:31:54+00:00,yes,Other
+9521433,https://www.csjswc.com/?EJl774feVbhnvJFCAud3oyLh,http://www.phishtank.com/phish_detail.php?phish_id=9521433,2026-09-09T14:24:40+00:00,yes,2026-09-09T14:31:54+00:00,yes,Other
+9521431,https://raku-point-edia.com/,http://www.phishtank.com/phish_detail.php?phish_id=9521431,2026-09-09T14:22:58+00:00,yes,2026-09-09T14:31:54+00:00,yes,Other
+9521428,https://raku-point-gche.com/,http://www.phishtank.com/phish_detail.php?phish_id=9521428,2026-09-09T14:22:03+00:00,yes,2026-09-09T14:31:54+00:00,yes,Other
+9521427,https://raku-point-cebinde.com/,http://www.phishtank.com/phish_detail.php?phish_id=9521427,2026-09-09T14:21:37+00:00,yes,2026-09-09T14:31:54+00:00,yes,Other
+9521426,https://raku-point-ianzi.com/,http://www.phishtank.com/phish_detail.php?phish_id=9521426,2026-09-09T14:21:02+00:00,yes,2026-09-09T14:31:54+00:00,yes,Other
+9521425,https://raku-point-exinxi.com/,http://www.phishtank.com/phish_detail.php?phish_id=9521425,2026-09-09T14:20:35+00:00,yes,2026-09-09T14:31:54+00:00,yes,Other
+9521424,https://sasioncarid-iwang.com/,http://www.phishtank.com/phish_detail.php?phish_id=9521424,2026-09-09T14:20:09+00:00,yes,2026-09-09T14:31:54+00:00,yes,Other
+9521423,https://raku-point-oltys.com/,http://www.phishtank.com/phish_detail.php?phish_id=9521423,2026-09-09T14:19:02+00:00,yes,2026-09-09T14:31:54+00:00,yes,Other
+9521421,https://raku-point-ensheng.com/,http://www.phishtank.com/phish_detail.php?phish_id=9521421,2026-09-09T14:17:12+00:00,yes,2026-09-09T14:31:54+00:00,yes,Other
+9521420,https://raku-point-style.com/,http://www.phishtank.com/phish_detail.php?phish_id=9521420,2026-09-09T14:16:53+00:00,yes,2026-09-09T14:31:54+00:00,yes,Other
+9521419,https://rakupoint-edjacket.com/,http://www.phishtank.com/phish_detail.php?phish_id=9521419,2026-09-09T14:14:21+00:00,yes,2026-09-09T14:21:55+00:00,yes,Other
+9521418,https://rakupoint-iaoyu.com/,http://www.phishtank.com/phish_detail.php?phish_id=9521418,2026-09-09T14:14:05+00:00,yes,2026-09-09T14:21:55+00:00,yes,Other
+9521417,https://rakupoint-nsoltys.com/,http://www.phishtank.com/phish_detail.php?phish_id=9521417,2026-09-09T14:13:46+00:00,yes,2026-09-09T14:21:55+00:00,yes,Other
+9521416,https://rakupoint-rwunda.com/,http://www.phishtank.com/phish_detail.php?phish_id=9521416,2026-09-09T14:13:28+00:00,yes,2026-09-09T14:21:55+00:00,yes,Other
+9521414,https://ruceive-rakntanpointapp.com/,http://www.phishtank.com/phish_detail.php?phish_id=9521414,2026-09-09T14:12:53+00:00,yes,2026-09-09T14:21:55+00:00,yes,Other
+9521413,https://receove-rakntanpointapp.com/,http://www.phishtank.com/phish_detail.php?phish_id=9521413,2026-09-09T14:12:33+00:00,yes,2026-09-09T14:21:55+00:00,yes,Other
+9521412,https://receive-rekntanpointapp.com/,http://www.phishtank.com/phish_detail.php?phish_id=9521412,2026-09-09T14:12:10+00:00,yes,2026-09-09T14:21:55+00:00,yes,Other
+9521407,https://receuve-rakntanpointapp.com/,http://www.phishtank.com/phish_detail.php?phish_id=9521407,2026-09-09T14:07:10+00:00,yes,2026-09-09T14:12:00+00:00,yes,Other
+9521406,https://aagev.com/link/u4Nu4jWBWQ,http://www.phishtank.com/phish_detail.php?phish_id=9521406,2026-09-09T14:06:40+00:00,yes,2026-09-09T14:12:00+00:00,yes,Other
+9521405,https://ekingumpc.com/content/viixshzgcx,http://www.phishtank.com/phish_detail.php?phish_id=9521405,2026-09-09T14:05:36+00:00,yes,2026-09-09T14:12:00+00:00,yes,Other
+9521404,https://bevorithanos.cfd/screen/#/index,http://www.phishtank.com/phish_detail.php?phish_id=9521404,2026-09-09T14:05:26+00:00,yes,2026-09-09T14:12:00+00:00,yes,Other
+9521402,https://www.yizhihuiwu.com/login,http://www.phishtank.com/phish_detail.php?phish_id=9521402,2026-09-09T13:57:37+00:00,yes,2026-09-09T14:02:25+00:00,yes,Other
+9521401,https://inndesigninc.com/kdow,http://www.phishtank.com/phish_detail.php?phish_id=9521401,2026-09-09T13:56:36+00:00,yes,2026-09-09T14:02:25+00:00,yes,Other
+9521399,https://abertoexpres.vercel.app/,http://www.phishtank.com/phish_detail.php?phish_id=9521399,2026-09-09T13:52:52+00:00,yes,2026-09-09T14:02:25+00:00,yes,Other
+9521395,https://zedelivery-pedidos.vercel.app/,http://www.phishtank.com/phish_detail.php?phish_id=9521395,2026-09-09T13:52:19+00:00,yes,2026-09-09T14:02:25+00:00,yes,Other
+9521394,https://expresabertoho.vercel.app/?gad_source=1&amp;gad_campaignid=24164094402&amp;gbraid=0AAAABEjt81yPobsYemnU8X8BS-khqAcjp&amp;gclid=CjwKCAjwkaXUBhASEiwAZI3ds2jhYMMbjpmzwqCH6LkGnB0q5_sltQfBxriwe-4yEXHkC-aEosAXIxoCp6IQAvD_BwE,http://www.phishtank.com/phish_detail.php?phish_id=9521394,2026-09-09T13:51:23+00:00,yes,2026-09-09T14:02:25+00:00,yes,Other
+9521389,https://expressbebida24.vercel.app/,http://www.phishtank.com/phish_detail.php?phish_id=9521389,2026-09-09T13:49:44+00:00,yes,2026-09-09T14:02:25+00:00,yes,Other
+9521388,https://entregazehoje.vercel.app/?gad_source=1&amp;gad_campaignid=24220200903&amp;gclid=CjwKCAjwwfnUBhAtEiwAfQpAYiWM7uVnbmD7MN87vr7h3bMW094QYv7F5EutQOBG-8XgwUxp3fB85RoCaRcQAvD_BwE,http://www.phishtank.com/phish_detail.php?phish_id=9521388,2026-09-09T13:49:21+00:00,yes,2026-09-09T14:02:25+00:00,yes,Other
+9521387,https://www-serasa-feirao-limpanome.vercel.app/?https://www-serasa-feirao-limpanome.vercel.app/&amp;fbclid=IwcGRvZgRleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAR7xGEPGI_n6kLR5iNrYu9Jd3ft-gW-zVd1hUh-A2YEaTgPwMTrKwv9XYHY7WA_aem_4fVLToHpas1xWx5GN8RW5Q,http://www.phishtank.com/phish_detail.php?phish_id=9521387,2026-09-09T13:49:12+00:00,yes,2026-09-09T14:02:25+00:00,yes,Other
+9521386,https://www-serasa-feirao-limpanome.vercel.app/?fbclid=IwcGRvZgRleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAR7XVerMZ-ep1Cdsfz3zP9iTspI8A_rNnyuurEH9KZ-3jBS3UiWAsgbsSSfppA_aem_id-MVxwqfE3YfeXhmm7-OQ,http://www.phishtank.com/phish_detail.php?phish_id=9521386,2026-09-09T13:48:20+00:00,yes,2026-09-09T13:51:58+00:00,yes,Other
+9521372,https://corrieosap0teaam-corrieosap0teaam.netlify.app/,http://www.phishtank.com/phish_detail.php?phish_id=9521372,2026-09-09T13:24:01+00:00,yes,2026-09-09T13:31:58+00:00,yes,Other
+9521369,https://www.person.digitalbd.online/gananet,http://www.phishtank.com/phish_detail.php?phish_id=9521369,2026-09-09T13:21:17+00:00,yes,2026-09-09T13:51:58+00:00,yes,Other
+9521352,https://supporto-ids.eu.cc/app/,http://www.phishtank.com/phish_detail.php?phish_id=9521352,2026-09-09T13:04:58+00:00,yes,2026-09-09T13:11:58+00:00,yes,Other
+9521347,http://cosmic-choux-dbb87e.netlify.app,http://www.phishtank.com/phish_detail.php?phish_id=9521347,2026-09-09T13:00:22+00:00,yes,2026-09-09T13:11:58+00:00,yes,Other
+9521348,https://cosmic-choux-dbb87e.netlify.app/,http://www.phishtank.com/phish_detail.php?phish_id=9521348,2026-09-09T13:00:22+00:00,yes,2026-09-09T13:11:58+00:00,yes,Other
+9521324,http://allegrolokalnie.pl-oferta8432.sbs,http://www.phishtank.com/phish_detail.php?phish_id=9521324,2026-09-09T11:53:35+00:00,yes,2026-09-09T12:02:24+00:00,yes,Allegro
+9521320,https://sms-verif-2755.shop/o/ix118/7316975282811136#selectedbank9,http://www.phishtank.com/phish_detail.php?phish_id=9521320,2026-09-09T11:39:29+00:00,yes,2026-09-09T11:41:49+00:00,yes,Other
+9521319,https://o29skrar0h.click/o/ix118/7316975282811136#selectedbank9,http://www.phishtank.com/phish_detail.php?phish_id=9521319,2026-09-09T11:37:29+00:00,yes,2026-09-09T11:41:49+00:00,yes,Other
+9521318,https://oto-konto-284.top/o/ix118/7316975282811136#selectedbank9,http://www.phishtank.com/phish_detail.php?phish_id=9521318,2026-09-09T11:35:27+00:00,yes,2026-09-09T11:41:49+00:00,yes,Other
+9521317,https://iy7kwx.top/o/ix118/7316975282811136#selectedbank9,http://www.phishtank.com/phish_detail.php?phish_id=9521317,2026-09-09T11:33:28+00:00,yes,2026-09-09T11:41:49+00:00,yes,Other
+9521316,https://dostawa3x.cam/o/ix118/7316975282811136#selectedbank9,http://www.phishtank.com/phish_detail.php?phish_id=9521316,2026-09-09T11:31:28+00:00,yes,2026-09-09T11:41:49+00:00,yes,Other
+9521306,https://dostawa1x.cam/o/ix118/7316975282811136#selectedbank9,http://www.phishtank.com/phish_detail.php?phish_id=9521306,2026-09-09T11:29:28+00:00,yes,2026-09-09T11:41:49+00:00,yes,Other
+9521305,https://p1rank.sbs/o/ix118/7316975282811136#selectedbank9,http://www.phishtank.com/phish_detail.php?phish_id=9521305,2026-09-09T11:27:27+00:00,yes,2026-09-09T11:31:56+00:00,yes,Other
+9521304,https://u4zpdo.casa/o/ix118/7316975282811136#selectedbank9,http://www.phishtank.com/phish_detail.php?phish_id=9521304,2026-09-09T11:25:28+00:00,yes,2026-09-09T11:31:56+00:00,yes,Other
+9521301,https://sms-v-621.shop/o/ix118/7316975282811136#selectedbank9,http://www.phishtank.com/phish_detail.php?phish_id=9521301,2026-09-09T11:23:29+00:00,yes,2026-09-09T11:31:56+00:00,yes,Other
+9521300,https://dostawa2x.cam/o/ix118/7316975282811136#selectedbank9,http://www.phishtank.com/phish_detail.php?phish_id=9521300,2026-09-09T11:21:27+00:00,yes,2026-09-09T11:31:56+00:00,yes,Other
+9521294,https://sms-verif-2755.shop/o/ix118/7316975282811136#merchantpay,http://www.phishtank.com/phish_detail.php?phish_id=9521294,2026-09-09T11:19:27+00:00,yes,2026-09-09T11:21:50+00:00,yes,Other
+9521293,https://o29skrar0h.click/o/ix118/7316975282811136#merchantpay,http://www.phishtank.com/phish_detail.php?phish_id=9521293,2026-09-09T11:17:26+00:00,yes,2026-09-09T11:21:50+00:00,yes,Other
+9521292,https://oto-konto-284.top/o/ix118/7316975282811136#merchantpay,http://www.phishtank.com/phish_detail.php?phish_id=9521292,2026-09-09T11:15:25+00:00,yes,2026-09-09T11:21:50+00:00,yes,Other
+9521291,https://iy7kwx.top/o/ix118/7316975282811136#merchantpay,http://www.phishtank.com/phish_detail.php?phish_id=9521291,2026-09-09T11:13:25+00:00,yes,2026-09-09T11:21:50+00:00,yes,Other
+9521290,https://dostawa3x.cam/o/ix118/7316975282811136#merchantpay,http://www.phishtank.com/phish_detail.php?phish_id=9521290,2026-09-09T11:11:26+00:00,yes,2026-09-09T11:21:50+00:00,yes,Other
+9521288,https://dostawa1x.cam/o/ix118/7316975282811136#merchantpay,http://www.phishtank.com/phish_detail.php?phish_id=9521288,2026-09-09T11:09:25+00:00,yes,2026-09-09T11:11:49+00:00,yes,Other
+9521287,https://p1rank.sbs/o/ix118/7316975282811136#merchantpay,http://www.phishtank.com/phish_detail.php?phish_id=9521287,2026-09-09T11:07:25+00:00,yes,2026-09-09T11:11:49+00:00,yes,Other
+9521286,https://u4zpdo.casa/o/ix118/7316975282811136#merchantpay,http://www.phishtank.com/phish_detail.php?phish_id=9521286,2026-09-09T11:05:25+00:00,yes,2026-09-09T11:11:49+00:00,yes,Other
+9521283,https://sms-v-621.shop/o/ix118/7316975282811136#merchantpay,http://www.phishtank.com/phish_detail.php?phish_id=9521283,2026-09-09T11:03:25+00:00,yes,2026-09-09T11:11:49+00:00,yes,Other
+9521282,https://dostawa2x.cam/o/ix118/7316975282811136#merchantpay,http://www.phishtank.com/phish_detail.php?phish_id=9521282,2026-09-09T11:01:25+00:00,yes,2026-09-09T11:11:49+00:00,yes,Other
+9521281,https://fudheef.com/,http://www.phishtank.com/phish_detail.php?phish_id=9521281,2026-09-09T10:55:24+00:00,yes,2026-09-09T11:02:22+00:00,yes,"SociÃ©tÃ© GÃ©nÃ©rale"
+9521276,https://auth-verifsg-espace.com/5tynbei,http://www.phishtank.com/phish_detail.php?phish_id=9521276,2026-09-09T10:37:53+00:00,yes,2026-09-09T10:41:49+00:00,yes,"SociÃ©tÃ© GÃ©nÃ©rale"
+9521269,https://clongmgl.com,http://www.phishtank.com/phish_detail.php?phish_id=9521269,2026-09-09T09:59:19+00:00,yes,2026-09-09T10:02:20+00:00,yes,Other
+9521267,http://allegrolokalnie.pl-54242.top,http://www.phishtank.com/phish_detail.php?phish_id=9521267,2026-09-09T09:53:46+00:00,yes,2026-09-09T10:02:20+00:00,yes,Allegro
+9521266,http://allegrolokalnie.ippoferta75635423412.sbs,http://www.phishtank.com/phish_detail.php?phish_id=9521266,2026-09-09T09:53:27+00:00,yes,2026-09-09T10:02:20+00:00,yes,Allegro
+9521265,http://allegro.ippoferta75635423412.sbs,http://www.phishtank.com/phish_detail.php?phish_id=9521265,2026-09-09T09:53:24+00:00,yes,2026-09-09T10:02:20+00:00,yes,Allegro
+9521263,https://allegrolokalnie.nr-327439sm32.lol/oferta/konsola-xbox-series-x-1tb-w-zestawie/Wx9j0cIJ,http://www.phishtank.com/phish_detail.php?phish_id=9521263,2026-09-09T09:52:09+00:00,yes,2026-09-09T10:02:20+00:00,yes,Allegro
+9521256,https://allegrolokalnie.pl-oferta87344537.click,http://www.phishtank.com/phish_detail.php?phish_id=9521256,2026-09-09T09:40:09+00:00,yes,2026-09-09T09:51:49+00:00,yes,Allegro
+9521241,https://unholande.com,http://www.phishtank.com/phish_detail.php?phish_id=9521241,2026-09-09T09:12:22+00:00,yes,2026-09-09T09:21:45+00:00,yes,Other
+9521227,http://allegrolokalnie.pl78646.top,http://www.phishtank.com/phish_detail.php?phish_id=9521227,2026-09-09T08:54:50+00:00,yes,2026-09-09T09:02:17+00:00,yes,Allegro
+9521226,http://allegrolokalnie.pl-fs858y692.sbs,http://www.phishtank.com/phish_detail.php?phish_id=9521226,2026-09-09T08:54:30+00:00,yes,2026-09-09T09:02:17+00:00,yes,Allegro
+9521220,https://tehnaoulee.com/,http://www.phishtank.com/phish_detail.php?phish_id=9521220,2026-09-09T08:37:08+00:00,yes,2026-09-09T08:41:58+00:00,yes,Other
+9521219,https://espace-secufr.com/4uhq,http://www.phishtank.com/phish_detail.php?phish_id=9521219,2026-09-09T08:36:47+00:00,yes,2026-09-09T08:41:58+00:00,yes,Other
+9521217,https://postaorganizzata4x9.blob.core.windows.net/7oc0hpxj21/ZrrXroo.html,http://www.phishtank.com/phish_detail.php?phish_id=9521217,2026-09-09T08:32:02+00:00,yes,2026-09-09T08:41:58+00:00,yes,Other
+9521211,https://rubricaufficio4x9.blob.core.windows.net/gnzeql4m3um/DkiLbrnT.html,http://www.phishtank.com/phish_detail.php?phish_id=9521211,2026-09-09T08:30:17+00:00,yes,2026-09-09T08:41:58+00:00,yes,Other
+9521206,https://firebasestorage.googleapis.com/v0/b/iooouuuyyiio.appspot.com/o/RA-ooommnnneu.html?alt=media&token=9d81efb6-100f-44b1-8bc0-5fb98e24471a,http://www.phishtank.com/phish_detail.php?phish_id=9521206,2026-09-09T08:10:26+00:00,yes,2026-09-09T08:21:55+00:00,yes,Other
+9521203,http://allegrolokalnie.962854th.top,http://www.phishtank.com/phish_detail.php?phish_id=9521203,2026-09-09T07:54:17+00:00,yes,2026-09-09T08:02:26+00:00,yes,Allegro
+9521182,https://s-00054051202548410005.scure.org/,http://www.phishtank.com/phish_detail.php?phish_id=9521182,2026-09-09T07:30:29+00:00,yes,2026-09-09T07:31:53+00:00,yes,Other
+9521177,https://at.lcnsrqo.com/rdrddr/rdr1.html,http://www.phishtank.com/phish_detail.php?phish_id=9521177,2026-09-09T07:26:39+00:00,yes,2026-09-09T07:31:53+00:00,yes,Adobe
+9521164,https://brt.ddeem.cc/qsw-it,http://www.phishtank.com/phish_detail.php?phish_id=9521164,2026-09-09T06:51:11+00:00,yes,2026-09-09T06:51:50+00:00,yes,Other
+9521162,https://brt.tlqhc.cc/kzo-it,http://www.phishtank.com/phish_detail.php?phish_id=9521162,2026-09-09T06:48:51+00:00,yes,2026-09-09T06:51:50+00:00,yes,Other
+9521153,https://allegrolokalnie.nr-327439sm32.lol/oferta/jbl-partybox-310/cfa1g81Z,http://www.phishtank.com/phish_detail.php?phish_id=9521153,2026-09-09T06:11:16+00:00,yes,2026-09-09T06:21:59+00:00,yes,Allegro
+9521136,http://oman-2023.pages.dev,http://www.phishtank.com/phish_detail.php?phish_id=9521136,2026-09-09T05:38:54+00:00,yes,2026-09-09T05:41:53+00:00,yes,Other
+9521137,https://oman-2023.pages.dev/,http://www.phishtank.com/phish_detail.php?phish_id=9521137,2026-09-09T05:38:54+00:00,yes,2026-09-09T05:41:53+00:00,yes,Other
+9521127,https://amel-vital.com/,http://www.phishtank.com/phish_detail.php?phish_id=9521127,2026-09-09T05:23:04+00:00,yes,2026-09-09T05:31:53+00:00,yes,Other
+9521126,https://amel-vital.com/index.php,http://www.phishtank.com/phish_detail.php?phish_id=9521126,2026-09-09T05:22:54+00:00,yes,2026-09-09T05:31:53+00:00,yes,Other
+9521125,https://lbp-certcodeinfo.com/,http://www.phishtank.com/phish_detail.php?phish_id=9521125,2026-09-09T05:09:14+00:00,yes,2026-09-09T05:11:59+00:00,yes,"La Banque Postale"
+9521124,https://lbp-certcodeinfo.com/pages/desktop/securite/index.php,http://www.phishtank.com/phish_detail.php?phish_id=9521124,2026-09-09T05:09:02+00:00,yes,2026-09-09T05:11:59+00:00,yes,"La Banque Postale"
+9521123,https://lbp-certcodeinfo.com/pages/mobile/securite/index.php,http://www.phishtank.com/phish_detail.php?phish_id=9521123,2026-09-09T05:08:44+00:00,yes,2026-09-09T05:11:59+00:00,yes,"La Banque Postale"
+9521100,http://www.allegrolokalne.1039837h53.shop,http://www.phishtank.com/phish_detail.php?phish_id=9521100,2026-09-09T03:26:21+00:00,yes,2026-09-09T03:32:00+00:00,yes,Allegro
+9521075,http://www.allegrolokalnie.pl-ogloszenie-prywatne765256384.click,http://www.phishtank.com/phish_detail.php?phish_id=9521075,2026-09-09T02:23:47+00:00,yes,2026-09-09T02:32:01+00:00,yes,Allegro
+9521071,https://allegro.6450t230t2j6.mom,http://www.phishtank.com/phish_detail.php?phish_id=9521071,2026-09-09T02:08:52+00:00,yes,2026-09-09T02:21:56+00:00,yes,Allegro
+9521034,http://allegro.smart82911284.bond,http://www.phishtank.com/phish_detail.php?phish_id=9521034,2026-09-09T00:43:55+00:00,yes,2026-09-09T00:51:56+00:00,yes,Allegro
+9521024,http://allegro.04192h847h45.rest,http://www.phishtank.com/phish_detail.php?phish_id=9521024,2026-09-09T00:20:56+00:00,yes,2026-09-09T00:31:55+00:00,yes,Allegro
+9521017,http://allegrolokalnie.oferte378673.sbs/oferta/xbox-series-x-plus-kontroler,http://www.phishtank.com/phish_detail.php?phish_id=9521017,2026-09-08T23:59:09+00:00,yes,2026-09-09T00:02:44+00:00,yes,Allegro
+9521015,http://allegro.91289h405h045.mom,http://www.phishtank.com/phish_detail.php?phish_id=9521015,2026-09-08T23:56:53+00:00,yes,2026-09-09T00:02:44+00:00,yes,Allegro
+9520991,https://fala-bellacontig.com/Yjeisk1/,http://www.phishtank.com/phish_detail.php?phish_id=9520991,2026-09-08T23:04:53+00:00,yes,2026-09-08T23:11:58+00:00,yes,Other
+9520985,http://allegro.92381928h75.rest,http://www.phishtank.com/phish_detail.php?phish_id=9520985,2026-09-08T22:47:02+00:00,yes,2026-09-08T22:51:47+00:00,yes,Allegro
+9520960,http://allegro.12-1-h593g4.lol,http://www.phishtank.com/phish_detail.php?phish_id=9520960,2026-09-08T21:42:16+00:00,yes,2026-09-08T21:51:46+00:00,yes,Allegro
+9520947,https://connexion-recouvrement.com,http://www.phishtank.com/phish_detail.php?phish_id=9520947,2026-09-08T21:21:28+00:00,yes,2026-09-08T21:31:52+00:00,yes,Other
+9520945,https://i4ydcj.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520945,2026-09-08T21:18:39+00:00,yes,2026-09-08T21:31:52+00:00,yes,Other
+9520944,https://uhiths.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520944,2026-09-08T21:18:30+00:00,yes,2026-09-08T21:31:52+00:00,yes,Other
+9520943,https://r78tnc.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520943,2026-09-08T21:18:23+00:00,yes,2026-09-08T21:31:52+00:00,yes,Other
+9520942,https://y91x5l.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520942,2026-09-08T21:17:53+00:00,yes,2026-09-08T21:31:52+00:00,yes,Other
+9520941,https://c9efbb.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520941,2026-09-08T21:17:51+00:00,yes,2026-09-08T21:31:52+00:00,yes,Other
+9520940,https://6doekh.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520940,2026-09-08T21:17:48+00:00,yes,2026-09-08T21:31:52+00:00,yes,Other
+9520939,https://hjm7yv.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520939,2026-09-08T21:17:46+00:00,yes,2026-09-08T21:31:52+00:00,yes,Other
+9520938,https://ehn8u9.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520938,2026-09-08T21:17:44+00:00,yes,2026-09-08T21:31:52+00:00,yes,Other
+9520937,https://1t1kdt.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520937,2026-09-08T21:17:42+00:00,yes,2026-09-08T21:31:52+00:00,yes,Other
+9520936,https://ra03lc.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520936,2026-09-08T21:17:40+00:00,yes,2026-09-08T21:31:52+00:00,yes,Other
+9520935,https://t1jqju.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520935,2026-09-08T21:17:38+00:00,yes,2026-09-08T21:31:52+00:00,yes,Other
+9520934,https://zhqj5o.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520934,2026-09-08T21:17:35+00:00,yes,2026-09-08T21:31:52+00:00,yes,Other
+9520933,https://0lchsu.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520933,2026-09-08T21:17:32+00:00,yes,2026-09-08T21:31:52+00:00,yes,Other
+9520932,https://6cjiuc.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520932,2026-09-08T21:17:07+00:00,yes,2026-09-08T21:31:52+00:00,yes,Other
+9520931,https://w4ngn0.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520931,2026-09-08T21:17:04+00:00,yes,2026-09-08T21:31:52+00:00,yes,Other
+9520930,https://v62nt2.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520930,2026-09-08T21:17:01+00:00,yes,2026-09-08T21:31:52+00:00,yes,Other
+9520929,https://v8z160.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520929,2026-09-08T21:16:57+00:00,yes,2026-09-08T21:31:52+00:00,yes,Other
+9520928,https://ian4kx.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520928,2026-09-08T21:16:52+00:00,yes,2026-09-08T21:31:52+00:00,yes,Other
+9520927,https://ctech8.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520927,2026-09-08T21:16:49+00:00,yes,2026-09-08T21:21:50+00:00,yes,Other
+9520926,https://xgnodg.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520926,2026-09-08T21:16:47+00:00,yes,2026-09-08T21:21:50+00:00,yes,Other
+9520925,https://n7aas7.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520925,2026-09-08T21:16:45+00:00,yes,2026-09-08T21:21:50+00:00,yes,Other
+9520924,https://0phdtj.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520924,2026-09-08T21:16:43+00:00,yes,2026-09-08T21:21:50+00:00,yes,Other
+9520923,https://9ogikd.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520923,2026-09-08T21:16:41+00:00,yes,2026-09-08T21:21:50+00:00,yes,Other
+9520922,https://qmr53v.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520922,2026-09-08T21:16:30+00:00,yes,2026-09-08T21:21:50+00:00,yes,Other
+9520921,https://7c550q.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520921,2026-09-08T21:16:28+00:00,yes,2026-09-08T21:21:50+00:00,yes,Other
+9520920,https://vjv9mc.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520920,2026-09-08T21:16:26+00:00,yes,2026-09-08T21:21:50+00:00,yes,Other
+9520919,https://0gpvp1.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520919,2026-09-08T21:16:24+00:00,yes,2026-09-08T21:21:50+00:00,yes,Other
+9520918,https://l8xrin.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520918,2026-09-08T21:16:21+00:00,yes,2026-09-08T21:21:50+00:00,yes,Other
+9520917,https://e69sb8.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520917,2026-09-08T21:16:18+00:00,yes,2026-09-08T21:21:50+00:00,yes,Other
+9520916,https://ajdia0.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520916,2026-09-08T21:15:53+00:00,yes,2026-09-08T21:21:50+00:00,yes,Other
+9520915,https://dxa2cc.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520915,2026-09-08T21:15:43+00:00,yes,2026-09-08T21:21:50+00:00,yes,Other
+9520914,https://zpm0k3.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520914,2026-09-08T21:15:32+00:00,yes,2026-09-08T21:21:50+00:00,yes,Other
+9520913,https://z364o1.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520913,2026-09-08T21:15:29+00:00,yes,2026-09-08T21:21:50+00:00,yes,Other
+9520905,https://www.xpmoq.com/fxiqlujck,http://www.phishtank.com/phish_detail.php?phish_id=9520905,2026-09-08T20:57:33+00:00,yes,2026-09-08T21:11:47+00:00,yes,Other
+9520904,https://kfat.top/UlRdrwBP/,http://www.phishtank.com/phish_detail.php?phish_id=9520904,2026-09-08T20:57:15+00:00,yes,2026-09-08T21:11:47+00:00,yes,Other
+9520903,https://www.webjidi.com/,http://www.phishtank.com/phish_detail.php?phish_id=9520903,2026-09-08T20:57:01+00:00,yes,2026-09-08T21:11:47+00:00,yes,"Sumitomo Mitsui Banking Corporation"
+9520902,https://www.lumber3.com/,http://www.phishtank.com/phish_detail.php?phish_id=9520902,2026-09-08T20:56:46+00:00,yes,2026-09-08T21:11:47+00:00,yes,"Sumitomo Mitsui Banking Corporation"
+9520901,https://sapq.top/UlRdrwBP/,http://www.phishtank.com/phish_detail.php?phish_id=9520901,2026-09-08T20:56:28+00:00,yes,2026-09-08T21:11:47+00:00,yes,Other
+9520900,https://www.ejnkj.com/jjlxctm,http://www.phishtank.com/phish_detail.php?phish_id=9520900,2026-09-08T20:56:14+00:00,yes,2026-09-08T21:02:07+00:00,yes,Other
+9520899,http://allegrolokalnie.pl-aukcja834736245.shop,http://www.phishtank.com/phish_detail.php?phish_id=9520899,2026-09-08T20:56:12+00:00,yes,2026-09-08T21:02:07+00:00,yes,Allegro
+9520898,https://www.yqdyi.com/,http://www.phishtank.com/phish_detail.php?phish_id=9520898,2026-09-08T20:56:03+00:00,yes,2026-09-08T21:02:08+00:00,yes,Other
+9520897,https://nvvf.top/UlRdrwBP/,http://www.phishtank.com/phish_detail.php?phish_id=9520897,2026-09-08T20:55:52+00:00,yes,2026-09-08T21:02:08+00:00,yes,Other
+9520896,https://www.yangyongfei.com/zxaihdjk,http://www.phishtank.com/phish_detail.php?phish_id=9520896,2026-09-08T20:55:38+00:00,yes,2026-09-08T21:02:08+00:00,yes,"Sumitomo Mitsui Banking Corporation"
+9520895,https://li7jp6oa.shop/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520895,2026-09-08T20:55:18+00:00,yes,2026-09-08T21:02:08+00:00,yes,Other
+9520894,https://u5hsxpgi.shop/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520894,2026-09-08T20:55:06+00:00,yes,2026-09-08T21:02:08+00:00,yes,Other
+9520891,http://allegrolokalne.pl-ogloszenie-prywatne765256384.click,http://www.phishtank.com/phish_detail.php?phish_id=9520891,2026-09-08T20:54:21+00:00,yes,2026-09-08T21:02:08+00:00,yes,Allegro
+9520889,http://allegrolokalnie.pl-ogloszenie-prywatne765256384.click,http://www.phishtank.com/phish_detail.php?phish_id=9520889,2026-09-08T20:54:16+00:00,yes,2026-09-08T21:02:08+00:00,yes,Allegro
+9520890,http://allegro.pl-ogloszenie-prywatne765256384.click,http://www.phishtank.com/phish_detail.php?phish_id=9520890,2026-09-08T20:54:16+00:00,yes,2026-09-08T21:02:08+00:00,yes,Allegro
+9520888,http://allegro-lokalnie.pl-ogloszenie-prywatne765256384.click,http://www.phishtank.com/phish_detail.php?phish_id=9520888,2026-09-08T20:54:15+00:00,yes,2026-09-08T21:02:08+00:00,yes,Allegro
+9520887,http://allegrolokainie.pl-ogloszenie-prywatne765256384.click,http://www.phishtank.com/phish_detail.php?phish_id=9520887,2026-09-08T20:53:51+00:00,yes,2026-09-08T21:02:08+00:00,yes,Allegro
+9520878,http://allegrolokalnie.pl-oferta2839376.lol,http://www.phishtank.com/phish_detail.php?phish_id=9520878,2026-09-08T20:23:30+00:00,yes,2026-09-08T20:41:49+00:00,yes,Allegro
+9520876,https://i8vqag.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520876,2026-09-08T20:21:25+00:00,yes,2026-09-08T20:41:49+00:00,yes,Other
+9520875,https://haag8x.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520875,2026-09-08T20:21:23+00:00,yes,2026-09-08T20:41:49+00:00,yes,Other
+9520874,https://5jyzer.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520874,2026-09-08T20:21:21+00:00,yes,2026-09-08T20:41:49+00:00,yes,Other
+9520873,http://bradesco.onlinesuportepj.online,http://www.phishtank.com/phish_detail.php?phish_id=9520873,2026-09-08T20:21:18+00:00,yes,2026-09-08T20:41:49+00:00,yes,Other
+9520871,https://akaes-finglobe-smbc.com,http://www.phishtank.com/phish_detail.php?phish_id=9520871,2026-09-08T20:20:51+00:00,yes,2026-09-08T20:41:49+00:00,yes,Other
+9520870,https://finglobesmsbc.finglobesmbc.com,http://www.phishtank.com/phish_detail.php?phish_id=9520870,2026-09-08T20:20:46+00:00,yes,2026-09-08T20:41:49+00:00,yes,Other
+9520869,https://akses.finglobesmbc.com,http://www.phishtank.com/phish_detail.php?phish_id=9520869,2026-09-08T20:20:42+00:00,yes,2026-09-08T20:41:49+00:00,yes,Other
+9520868,https://yro4jl.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520868,2026-09-08T20:20:38+00:00,yes,2026-09-08T20:41:49+00:00,yes,Other
+9520867,https://ksgs1k.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520867,2026-09-08T20:20:30+00:00,yes,2026-09-08T20:41:49+00:00,yes,Other
+9520866,https://x22gb7.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520866,2026-09-08T20:20:27+00:00,yes,2026-09-08T20:41:49+00:00,yes,Other
+9520865,https://r26kz2.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520865,2026-09-08T20:20:25+00:00,yes,2026-09-08T20:41:49+00:00,yes,Other
+9520864,https://ebjem3.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520864,2026-09-08T20:20:22+00:00,yes,2026-09-08T20:41:49+00:00,yes,Other
+9520863,https://lgqu0n.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520863,2026-09-08T20:20:10+00:00,yes,2026-09-08T20:41:49+00:00,yes,Other
+9520862,https://i7dph4.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520862,2026-09-08T20:20:07+00:00,yes,2026-09-08T20:41:49+00:00,yes,Other
+9520861,https://mkd7d4.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520861,2026-09-08T20:20:05+00:00,yes,2026-09-08T20:41:49+00:00,yes,Other
+9520860,https://4r0x4j.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520860,2026-09-08T20:20:03+00:00,yes,2026-09-08T20:41:49+00:00,yes,Other
+9520859,https://w73mia.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520859,2026-09-08T20:20:01+00:00,yes,2026-09-08T20:41:49+00:00,yes,Other
+9520858,https://3pii3v.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520858,2026-09-08T20:19:57+00:00,yes,2026-09-08T20:41:49+00:00,yes,Other
+9520857,https://4dcowv.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520857,2026-09-08T20:19:55+00:00,yes,2026-09-08T20:41:49+00:00,yes,Other
+9520856,https://vrh3mw.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520856,2026-09-08T20:19:53+00:00,yes,2026-09-08T20:41:49+00:00,yes,Other
+9520855,https://hsm0sf.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520855,2026-09-08T20:19:50+00:00,yes,2026-09-08T20:41:49+00:00,yes,Other
+9520854,https://st4pza.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520854,2026-09-08T20:19:47+00:00,yes,2026-09-08T20:41:49+00:00,yes,Other
+9520853,https://tw4hqm.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520853,2026-09-08T20:19:24+00:00,yes,2026-09-08T20:41:49+00:00,yes,Other
+9520852,https://zq0vat.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520852,2026-09-08T20:19:21+00:00,yes,2026-09-08T20:31:53+00:00,yes,Other
+9520851,https://uxzp3y.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520851,2026-09-08T20:19:18+00:00,yes,2026-09-08T20:31:53+00:00,yes,Other
+9520850,https://mqizu5.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520850,2026-09-08T20:19:14+00:00,yes,2026-09-08T20:31:53+00:00,yes,Other
+9520849,https://4hko87.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520849,2026-09-08T20:19:10+00:00,yes,2026-09-08T20:31:53+00:00,yes,Other
+9520848,https://7jubr3.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520848,2026-09-08T20:19:07+00:00,yes,2026-09-08T20:31:53+00:00,yes,Other
+9520847,https://gzi73i.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520847,2026-09-08T20:19:04+00:00,yes,2026-09-08T20:31:53+00:00,yes,Other
+9520846,https://musu0u.shop/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520846,2026-09-08T20:19:00+00:00,yes,2026-09-08T20:31:53+00:00,yes,Other
+9520845,https://lqmg2ll.shop/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520845,2026-09-08T20:18:57+00:00,yes,2026-09-08T20:31:53+00:00,yes,Other
+9520844,https://5549ly.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520844,2026-09-08T20:18:54+00:00,yes,2026-09-08T20:31:53+00:00,yes,Other
+9520843,https://j5jer3.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520843,2026-09-08T20:18:09+00:00,yes,2026-09-08T20:31:53+00:00,yes,Other
+9520842,https://xz7118.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520842,2026-09-08T20:18:03+00:00,yes,2026-09-08T20:31:53+00:00,yes,Other
+9520841,https://m4dmo0.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520841,2026-09-08T20:17:59+00:00,yes,2026-09-08T20:31:53+00:00,yes,Other
+9520840,https://tvxe68.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520840,2026-09-08T20:17:55+00:00,yes,2026-09-08T20:31:53+00:00,yes,Other
+9520839,https://9bnhwl.shop/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520839,2026-09-08T20:17:52+00:00,yes,2026-09-08T20:31:53+00:00,yes,Other
+9520838,https://lbfgey.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520838,2026-09-08T20:17:48+00:00,yes,2026-09-08T20:31:53+00:00,yes,Other
+9520837,https://kd99i3.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520837,2026-09-08T20:17:45+00:00,yes,2026-09-08T20:31:53+00:00,yes,Other
+9520836,https://gei2q5.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520836,2026-09-08T20:17:41+00:00,yes,2026-09-08T20:31:53+00:00,yes,Other
+9520835,https://j4x59.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520835,2026-09-08T20:17:38+00:00,yes,2026-09-08T20:31:53+00:00,yes,Other
+9520834,https://qykxjs.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520834,2026-09-08T20:17:34+00:00,yes,2026-09-08T20:31:53+00:00,yes,Other
+9520833,https://el4ftq.shop/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520833,2026-09-08T20:16:54+00:00,yes,2026-09-08T20:31:53+00:00,yes,Other
+9520832,https://s0bq05.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520832,2026-09-08T20:16:51+00:00,yes,2026-09-08T20:31:53+00:00,yes,Other
+9520831,https://lnft14.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520831,2026-09-08T20:16:47+00:00,yes,2026-09-08T20:31:53+00:00,yes,Other
+9520830,https://yy68ud.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520830,2026-09-08T20:16:43+00:00,yes,2026-09-08T20:31:53+00:00,yes,Other
+9520829,https://cwpeuz.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520829,2026-09-08T20:16:39+00:00,yes,2026-09-08T20:31:53+00:00,yes,Other
+9520828,https://hfqidit.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520828,2026-09-08T20:16:35+00:00,yes,2026-09-08T20:31:53+00:00,yes,Other
+9520827,https://uym3w8.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520827,2026-09-08T20:16:32+00:00,yes,2026-09-08T20:31:53+00:00,yes,Other
+9520826,https://pm5zmc.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520826,2026-09-08T20:16:25+00:00,yes,2026-09-08T20:31:53+00:00,yes,Other
+9520825,https://9ubzya.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520825,2026-09-08T20:16:22+00:00,yes,2026-09-08T20:31:53+00:00,yes,Other
+9520824,https://unmrqg.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520824,2026-09-08T20:16:19+00:00,yes,2026-09-08T20:31:53+00:00,yes,Other
+9520823,https://i0ikao.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520823,2026-09-08T20:15:42+00:00,yes,2026-09-08T20:21:56+00:00,yes,Other
+9520822,https://321m31.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520822,2026-09-08T20:15:33+00:00,yes,2026-09-08T20:21:56+00:00,yes,Other
+9520821,https://s8t36.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520821,2026-09-08T20:15:20+00:00,yes,2026-09-08T20:21:56+00:00,yes,Other
+9520820,https://xq2oud.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520820,2026-09-08T20:15:08+00:00,yes,2026-09-08T20:21:56+00:00,yes,Other
+9520819,https://x04l8du.shop/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520819,2026-09-08T20:15:01+00:00,yes,2026-09-08T20:21:56+00:00,yes,Other
+9520818,https://qk0mtk.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520818,2026-09-08T20:14:57+00:00,yes,2026-09-08T20:21:56+00:00,yes,Other
+9520817,https://1pu5c9.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520817,2026-09-08T20:14:52+00:00,yes,2026-09-08T20:21:56+00:00,yes,Other
+9520816,https://jw77nh.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520816,2026-09-08T20:14:46+00:00,yes,2026-09-08T20:21:56+00:00,yes,Other
+9520815,https://6trhyh.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520815,2026-09-08T20:14:42+00:00,yes,2026-09-08T20:21:56+00:00,yes,Other
+9520814,https://d0wcreo.shop/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520814,2026-09-08T20:14:37+00:00,yes,2026-09-08T20:21:56+00:00,yes,Other
+9520813,https://qohjeu.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520813,2026-09-08T20:14:23+00:00,yes,2026-09-08T20:21:56+00:00,yes,Other
+9520812,https://0vsnbv.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520812,2026-09-08T20:14:20+00:00,yes,2026-09-08T20:21:56+00:00,yes,Other
+9520811,https://ebro9eo.shop/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520811,2026-09-08T20:14:16+00:00,yes,2026-09-08T20:21:56+00:00,yes,Other
+9520810,https://8r5hh6.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520810,2026-09-08T20:14:12+00:00,yes,2026-09-08T20:21:56+00:00,yes,Other
+9520809,https://xyd9l6.shop/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520809,2026-09-08T20:14:09+00:00,yes,2026-09-08T20:21:56+00:00,yes,Other
+9520808,https://w71tkh.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520808,2026-09-08T20:14:05+00:00,yes,2026-09-08T20:21:56+00:00,yes,Other
+9520807,https://3tb4bb.shop/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520807,2026-09-08T20:14:02+00:00,yes,2026-09-08T20:21:56+00:00,yes,Other
+9520806,https://mg8233.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520806,2026-09-08T20:13:58+00:00,yes,2026-09-08T20:21:56+00:00,yes,Other
+9520805,https://rm8haz.shop/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520805,2026-09-08T20:13:56+00:00,yes,2026-09-08T20:21:56+00:00,yes,Other
+9520788,https://pro-dgrfo.com,http://www.phishtank.com/phish_detail.php?phish_id=9520788,2026-09-08T20:01:25+00:00,yes,2026-09-08T20:11:44+00:00,yes,Other
+9520787,https://ozrqyov.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520787,2026-09-08T19:58:59+00:00,yes,2026-09-08T20:11:44+00:00,yes,Other
+9520786,https://www.xuaoka.com/,http://www.phishtank.com/phish_detail.php?phish_id=9520786,2026-09-08T19:58:57+00:00,yes,2026-09-08T20:11:44+00:00,yes,Other
+9520785,https://www.jcsxnuj.com/,http://www.phishtank.com/phish_detail.php?phish_id=9520785,2026-09-08T19:58:55+00:00,yes,2026-09-08T20:11:44+00:00,yes,Other
+9520784,https://sxgv.top/UlRdrwBP/,http://www.phishtank.com/phish_detail.php?phish_id=9520784,2026-09-08T19:58:52+00:00,yes,2026-09-08T20:11:44+00:00,yes,Other
+9520781,https://gv0al9.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520781,2026-09-08T19:58:45+00:00,yes,2026-09-08T20:11:44+00:00,yes,Other
+9520780,https://fcm47.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520780,2026-09-08T19:58:05+00:00,yes,2026-09-08T20:11:44+00:00,yes,Other
+9520779,https://kr2zwz.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520779,2026-09-08T19:57:59+00:00,yes,2026-09-08T20:11:44+00:00,yes,Other
+9520778,https://fedpbam.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520778,2026-09-08T19:57:54+00:00,yes,2026-09-08T20:11:44+00:00,yes,Other
+9520777,https://gxieiui.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520777,2026-09-08T19:57:51+00:00,yes,2026-09-08T20:11:44+00:00,yes,Other
+9520776,https://s3esc5.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520776,2026-09-08T19:57:45+00:00,yes,2026-09-08T20:11:44+00:00,yes,Other
+9520775,https://wubyzus.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520775,2026-09-08T19:57:41+00:00,yes,2026-09-08T20:11:44+00:00,yes,Other
+9520774,https://rx0hgk.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520774,2026-09-08T19:57:36+00:00,yes,2026-09-08T20:11:44+00:00,yes,Other
+9520773,https://czv6vk.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520773,2026-09-08T19:57:24+00:00,yes,2026-09-08T20:11:44+00:00,yes,Other
+9520772,https://autk888wt17.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520772,2026-09-08T19:57:19+00:00,yes,2026-09-08T20:11:44+00:00,yes,Other
+9520771,https://9k2r93.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520771,2026-09-08T19:57:15+00:00,yes,2026-09-08T20:11:44+00:00,yes,Other
+9520770,https://mzyx5.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520770,2026-09-08T19:56:58+00:00,yes,2026-09-08T20:11:44+00:00,yes,Other
+9520769,https://efp8rm.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520769,2026-09-08T19:56:55+00:00,yes,2026-09-08T20:11:44+00:00,yes,Other
+9520768,https://84so7i.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520768,2026-09-08T19:56:53+00:00,yes,2026-09-08T20:11:44+00:00,yes,Other
+9520767,https://w3if0t.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520767,2026-09-08T19:56:50+00:00,yes,2026-09-08T20:11:44+00:00,yes,Other
+9520766,https://vojd1o.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520766,2026-09-08T19:56:47+00:00,yes,2026-09-08T20:11:44+00:00,yes,Other
+9520765,https://wyjyzbj.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520765,2026-09-08T19:56:44+00:00,yes,2026-09-08T20:11:44+00:00,yes,Other
+9520764,https://4mwa92.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520764,2026-09-08T19:56:40+00:00,yes,2026-09-08T20:11:44+00:00,yes,Other
+9520763,https://4ecjb.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520763,2026-09-08T19:56:35+00:00,yes,2026-09-08T20:11:44+00:00,yes,Other
+9520762,https://tpele2.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520762,2026-09-08T19:56:30+00:00,yes,2026-09-08T20:02:10+00:00,yes,Other
+9520761,https://xhlvgc.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520761,2026-09-08T19:56:26+00:00,yes,2026-09-08T20:02:10+00:00,yes,Other
+9520760,https://730rr8.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520760,2026-09-08T19:55:52+00:00,yes,2026-09-08T20:02:10+00:00,yes,Other
+9520759,https://j319u6.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520759,2026-09-08T19:55:48+00:00,yes,2026-09-08T20:02:10+00:00,yes,Other
+9520758,https://detw8o.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520758,2026-09-08T19:55:43+00:00,yes,2026-09-08T20:02:10+00:00,yes,Other
+9520757,https://mbqinyz.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520757,2026-09-08T19:55:40+00:00,yes,2026-09-08T20:02:10+00:00,yes,Other
+9520756,https://5cjf9e.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520756,2026-09-08T19:55:36+00:00,yes,2026-09-08T20:02:10+00:00,yes,Other
+9520755,https://4cugi6.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520755,2026-09-08T19:55:33+00:00,yes,2026-09-08T20:02:10+00:00,yes,Other
+9520754,https://l6giau.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520754,2026-09-08T19:55:28+00:00,yes,2026-09-08T20:02:10+00:00,yes,Other
+9520753,https://g0do4q.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520753,2026-09-08T19:55:21+00:00,yes,2026-09-08T20:02:10+00:00,yes,Other
+9520752,https://zey6c6.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520752,2026-09-08T19:55:18+00:00,yes,2026-09-08T20:02:10+00:00,yes,Other
+9520751,https://r5519x.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520751,2026-09-08T19:55:13+00:00,yes,2026-09-08T20:02:10+00:00,yes,Other
+9520748,https://mdvuewl.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520748,2026-09-08T19:54:53+00:00,yes,2026-09-08T20:02:10+00:00,yes,Other
+9520747,https://a5zapy.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520747,2026-09-08T19:54:50+00:00,yes,2026-09-08T20:02:10+00:00,yes,Other
+9520746,https://0c3ba2.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520746,2026-09-08T19:54:46+00:00,yes,2026-09-08T20:02:10+00:00,yes,Other
+9520745,https://aemnnsd.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520745,2026-09-08T19:54:42+00:00,yes,2026-09-08T20:02:10+00:00,yes,Other
+9520744,https://allegro.130120h945h54.bond/lokalnie/?id=6j2G9b1p0a7O9T7L7u3R2B7d1T9a2p8v,http://www.phishtank.com/phish_detail.php?phish_id=9520744,2026-09-08T19:53:33+00:00,yes,2026-09-08T20:02:10+00:00,yes,Allegro
+9520736,https://zuam.top/dnqTePLY,http://www.phishtank.com/phish_detail.php?phish_id=9520736,2026-09-08T19:44:41+00:00,yes,2026-09-08T20:02:10+00:00,yes,Other
+9520735,https://tvmnx.top/dnqTePLY/,http://www.phishtank.com/phish_detail.php?phish_id=9520735,2026-09-08T19:44:27+00:00,yes,2026-09-08T20:02:10+00:00,yes,"Sumitomo Mitsui Banking Corporation"
+9520721,https://www.hebhg.com/,http://www.phishtank.com/phish_detail.php?phish_id=9520721,2026-09-08T19:20:42+00:00,yes,2026-09-08T19:51:49+00:00,yes,Other
+9520720,https://risj.top/dnqTePLY/,http://www.phishtank.com/phish_detail.php?phish_id=9520720,2026-09-08T19:20:39+00:00,yes,2026-09-08T19:51:49+00:00,yes,Other
+9520718,https://y1y5im.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520718,2026-09-08T19:20:00+00:00,yes,2026-09-08T19:41:50+00:00,yes,Other
+9520717,https://ntb81q.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520717,2026-09-08T19:19:58+00:00,yes,2026-09-08T19:41:50+00:00,yes,Other
+9520716,https://o56jea.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520716,2026-09-08T19:19:55+00:00,yes,2026-09-08T19:41:50+00:00,yes,Other
+9520715,https://ljrz5o.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520715,2026-09-08T19:19:52+00:00,yes,2026-09-08T19:41:50+00:00,yes,Other
+9520714,https://usdhtsr.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520714,2026-09-08T19:19:50+00:00,yes,2026-09-08T19:41:50+00:00,yes,Other
+9520713,https://0nhakx.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520713,2026-09-08T19:19:47+00:00,yes,2026-09-08T19:41:50+00:00,yes,Other
+9520712,https://3ktvmx.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520712,2026-09-08T19:19:42+00:00,yes,2026-09-08T19:41:50+00:00,yes,Other
+9520711,https://qkgtx2.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520711,2026-09-08T19:19:38+00:00,yes,2026-09-08T19:41:50+00:00,yes,Other
+9520710,https://dba9gu1.shop/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520710,2026-09-08T19:19:35+00:00,yes,2026-09-08T19:41:50+00:00,yes,Other
+9520709,https://zftrkh.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520709,2026-09-08T19:19:33+00:00,yes,2026-09-08T19:41:50+00:00,yes,Other
+9520708,https://otiusy.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520708,2026-09-08T19:19:19+00:00,yes,2026-09-08T19:41:50+00:00,yes,Other
+9520707,https://vnaxny.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520707,2026-09-08T19:19:16+00:00,yes,2026-09-08T19:41:50+00:00,yes,Other
+9520706,https://17j3ck.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520706,2026-09-08T19:19:14+00:00,yes,2026-09-08T19:41:50+00:00,yes,Other
+9520705,https://ae722u.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520705,2026-09-08T19:17:36+00:00,yes,2026-09-08T19:41:50+00:00,yes,Other
+9520704,https://vl16ko.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520704,2026-09-08T19:17:11+00:00,yes,2026-09-08T19:41:50+00:00,yes,Other
+9520703,https://3d38y.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520703,2026-09-08T19:16:52+00:00,yes,2026-09-08T19:41:50+00:00,yes,Other
+9520702,https://pa5rkl.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520702,2026-09-08T19:16:46+00:00,yes,2026-09-08T19:41:50+00:00,yes,Other
+9520701,https://lzaazdp.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520701,2026-09-08T19:16:43+00:00,yes,2026-09-08T19:41:50+00:00,yes,Other
+9520700,https://4ogxko.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520700,2026-09-08T19:16:31+00:00,yes,2026-09-08T19:41:50+00:00,yes,Other
+9520698,https://m8mka4.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520698,2026-09-08T19:16:26+00:00,yes,2026-09-08T19:41:50+00:00,yes,Other
+9520699,https://allegrolokalnie.ogloszenie304959781.cyou/felgi-japan-racing-jr23-18-5x1/45545,http://www.phishtank.com/phish_detail.php?phish_id=9520699,2026-09-08T19:16:26+00:00,yes,2026-09-08T19:41:50+00:00,yes,Allegro
+9520697,https://9curnw.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520697,2026-09-08T19:16:13+00:00,yes,2026-09-08T19:41:50+00:00,yes,Other
+9520696,https://5z6by8.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520696,2026-09-08T19:16:11+00:00,yes,2026-09-08T19:41:50+00:00,yes,Other
+9520695,https://57and9.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520695,2026-09-08T19:16:09+00:00,yes,2026-09-08T19:41:50+00:00,yes,Other
+9520694,https://l7vgbj.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520694,2026-09-08T19:16:07+00:00,yes,2026-09-08T19:41:50+00:00,yes,Other
+9520693,https://f2pt4q.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520693,2026-09-08T19:16:05+00:00,yes,2026-09-08T19:41:50+00:00,yes,Other
+9520692,https://7kpz6k.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520692,2026-09-08T19:16:02+00:00,yes,2026-09-08T19:41:50+00:00,yes,Other
+9520691,https://10or4r.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520691,2026-09-08T19:16:00+00:00,yes,2026-09-08T19:31:57+00:00,yes,Other
+9520690,https://bn9njv.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520690,2026-09-08T19:15:58+00:00,yes,2026-09-08T19:31:57+00:00,yes,Other
+9520689,https://ci6f0y.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520689,2026-09-08T19:15:55+00:00,yes,2026-09-08T19:31:57+00:00,yes,Other
+9520688,https://3y4pzo.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520688,2026-09-08T19:15:51+00:00,yes,2026-09-08T19:31:57+00:00,yes,Other
+9520687,https://9vrzp7.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520687,2026-09-08T19:14:44+00:00,yes,2026-09-08T19:31:57+00:00,yes,Other
+9520686,https://aqn8v2.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520686,2026-09-08T19:14:42+00:00,yes,2026-09-08T19:31:57+00:00,yes,Other
+9520685,https://6oaimr.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520685,2026-09-08T19:14:39+00:00,yes,2026-09-08T19:31:57+00:00,yes,Other
+9520684,https://4r00we.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520684,2026-09-08T19:14:37+00:00,yes,2026-09-08T19:31:57+00:00,yes,Other
+9520683,https://eat65e.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520683,2026-09-08T19:14:34+00:00,yes,2026-09-08T19:31:57+00:00,yes,Other
+9520682,https://s8pd2i.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520682,2026-09-08T19:14:32+00:00,yes,2026-09-08T19:31:57+00:00,yes,Other
+9520681,https://lj2kq6.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520681,2026-09-08T19:14:28+00:00,yes,2026-09-08T19:31:57+00:00,yes,Other
+9520680,https://ov5b2q.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520680,2026-09-08T19:14:24+00:00,yes,2026-09-08T19:31:57+00:00,yes,Other
+9520679,https://whflfrd.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520679,2026-09-08T19:14:21+00:00,yes,2026-09-08T19:31:57+00:00,yes,Other
+9520678,https://absxjsj.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520678,2026-09-08T19:14:19+00:00,yes,2026-09-08T19:31:57+00:00,yes,Other
+9520677,https://m-relai-be.bolt.host/,http://www.phishtank.com/phish_detail.php?phish_id=9520677,2026-09-08T19:13:18+00:00,yes,2026-09-08T19:31:57+00:00,yes,Other
+9520676,https://m-relai-be.bolt.host/index.html,http://www.phishtank.com/phish_detail.php?phish_id=9520676,2026-09-08T19:13:06+00:00,yes,2026-09-08T19:31:57+00:00,yes,Other
+9520674,https://n4u0cc.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520674,2026-09-08T19:01:04+00:00,yes,2026-09-08T19:31:57+00:00,yes,Other
+9520672,https://p58d34.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520672,2026-09-08T19:01:00+00:00,yes,2026-09-08T19:31:57+00:00,yes,Other
+9520671,https://7mw3fi.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520671,2026-09-08T19:00:58+00:00,yes,2026-09-08T19:31:57+00:00,yes,Other
+9520670,https://0hgvbf.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520670,2026-09-08T19:00:56+00:00,yes,2026-09-08T19:31:57+00:00,yes,Other
+9520669,https://5isa32.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520669,2026-09-08T19:00:54+00:00,yes,2026-09-08T19:31:57+00:00,yes,Other
+9520667,https://tvwj.top/dnqTePLY/,http://www.phishtank.com/phish_detail.php?phish_id=9520667,2026-09-08T19:00:49+00:00,yes,2026-09-08T19:31:57+00:00,yes,Other
+9520666,https://owkx.top/dnqTePLY/,http://www.phishtank.com/phish_detail.php?phish_id=9520666,2026-09-08T19:00:47+00:00,yes,2026-09-08T19:31:57+00:00,yes,Other
+9520665,https://whr8be.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520665,2026-09-08T19:00:45+00:00,yes,2026-09-08T19:31:57+00:00,yes,Other
+9520664,https://m3kuo.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520664,2026-09-08T19:00:43+00:00,yes,2026-09-08T19:31:57+00:00,yes,Other
+9520663,https://a6gzsy.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520663,2026-09-08T19:00:41+00:00,yes,2026-09-08T19:21:58+00:00,yes,Other
+9520662,https://1u91up.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520662,2026-09-08T19:00:39+00:00,yes,2026-09-08T19:21:58+00:00,yes,Other
+9520661,https://4zpns5.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520661,2026-09-08T19:00:37+00:00,yes,2026-09-08T19:21:58+00:00,yes,Other
+9520660,https://dfo7yy.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520660,2026-09-08T19:00:35+00:00,yes,2026-09-08T19:21:58+00:00,yes,Other
+9520659,https://eltoa8.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520659,2026-09-08T19:00:33+00:00,yes,2026-09-08T19:21:58+00:00,yes,Other
+9520658,https://autk888wt3.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520658,2026-09-08T19:00:31+00:00,yes,2026-09-08T19:21:58+00:00,yes,Other
+9520657,https://ra8y22.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520657,2026-09-08T19:00:29+00:00,yes,2026-09-08T19:21:58+00:00,yes,Other
+9520656,https://30dk06.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520656,2026-09-08T19:00:26+00:00,yes,2026-09-08T19:21:58+00:00,yes,Other
+9520655,https://e9udfb.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520655,2026-09-08T19:00:24+00:00,yes,2026-09-08T19:21:59+00:00,yes,Other
+9520654,https://autk888wt14.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520654,2026-09-08T19:00:22+00:00,yes,2026-09-08T19:21:59+00:00,yes,Other
+9520653,https://fa3rcq.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520653,2026-09-08T19:00:19+00:00,yes,2026-09-08T19:21:59+00:00,yes,Other
+9520652,https://rhom5n.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520652,2026-09-08T19:00:16+00:00,yes,2026-09-08T19:21:59+00:00,yes,Other
+9520651,https://96dpe.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520651,2026-09-08T19:00:14+00:00,yes,2026-09-08T19:21:59+00:00,yes,Other
+9520650,https://1yy6kx.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520650,2026-09-08T19:00:11+00:00,yes,2026-09-08T19:21:59+00:00,yes,Other
+9520649,https://ubpli2.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520649,2026-09-08T19:00:08+00:00,yes,2026-09-08T19:21:59+00:00,yes,Other
+9520648,https://t4ysk5.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520648,2026-09-08T19:00:06+00:00,yes,2026-09-08T19:21:59+00:00,yes,Other
+9520647,https://th3k85.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520647,2026-09-08T19:00:03+00:00,yes,2026-09-08T19:21:59+00:00,yes,Other
+9520646,https://autk888wt2.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520646,2026-09-08T19:00:01+00:00,yes,2026-09-08T19:21:59+00:00,yes,Other
+9520645,https://co4sjv.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520645,2026-09-08T18:59:58+00:00,yes,2026-09-08T19:21:59+00:00,yes,Other
+9520644,https://tnoalqb.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520644,2026-09-08T18:59:56+00:00,yes,2026-09-08T19:21:59+00:00,yes,Other
+9520643,https://u08egt.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520643,2026-09-08T18:59:54+00:00,yes,2026-09-08T19:21:59+00:00,yes,Other
+9520642,https://m5g056.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520642,2026-09-08T18:59:51+00:00,yes,2026-09-08T19:21:59+00:00,yes,Other
+9520641,https://tg32wn.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520641,2026-09-08T18:59:49+00:00,yes,2026-09-08T19:21:59+00:00,yes,Other
+9520640,https://amkpoml.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520640,2026-09-08T18:59:46+00:00,yes,2026-09-08T19:21:59+00:00,yes,Other
+9520639,https://ncjar3.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520639,2026-09-08T18:59:44+00:00,yes,2026-09-08T19:21:59+00:00,yes,Other
+9520638,https://udfb9o.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520638,2026-09-08T18:59:42+00:00,yes,2026-09-08T19:21:59+00:00,yes,Other
+9520637,https://20zlsd.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520637,2026-09-08T18:59:39+00:00,yes,2026-09-08T19:21:59+00:00,yes,Other
+9520636,https://autk888wt16.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520636,2026-09-08T18:59:36+00:00,yes,2026-09-08T19:21:59+00:00,yes,Other
+9520635,https://iu07301.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520635,2026-09-08T18:59:33+00:00,yes,2026-09-08T19:21:59+00:00,yes,Other
+9520634,https://wg4ifx.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520634,2026-09-08T18:59:31+00:00,yes,2026-09-08T19:11:59+00:00,yes,Other
+9520633,http://allegrolokalnie.ogloszenie1008475901.cyou/oferta/id-g9tiipc-konsola-ps5-pro-jak-nowa,http://www.phishtank.com/phish_detail.php?phish_id=9520633,2026-09-08T18:57:34+00:00,yes,2026-09-08T19:11:59+00:00,yes,Allegro
+9520632,https://w4zuod.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520632,2026-09-08T18:56:19+00:00,yes,2026-09-08T19:11:59+00:00,yes,Other
+9520631,https://lgyd68.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520631,2026-09-08T18:56:15+00:00,yes,2026-09-08T19:11:59+00:00,yes,Other
+9520630,https://4rotnb.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520630,2026-09-08T18:56:13+00:00,yes,2026-09-08T19:11:59+00:00,yes,Other
+9520629,https://s8yum.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520629,2026-09-08T18:56:11+00:00,yes,2026-09-08T19:11:59+00:00,yes,Other
+9520628,https://v98a90.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520628,2026-09-08T18:56:08+00:00,yes,2026-09-08T19:11:59+00:00,yes,Other
+9520627,https://br9cfm.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520627,2026-09-08T18:56:06+00:00,yes,2026-09-08T19:11:59+00:00,yes,Other
+9520626,https://mxeub9.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520626,2026-09-08T18:56:04+00:00,yes,2026-09-08T19:11:59+00:00,yes,Other
+9520625,https://autk888wt1.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520625,2026-09-08T18:56:02+00:00,yes,2026-09-08T19:11:59+00:00,yes,Other
+9520624,https://jqi5kv.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520624,2026-09-08T18:56:00+00:00,yes,2026-09-08T19:11:59+00:00,yes,Other
+9520623,https://475oak.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520623,2026-09-08T18:55:58+00:00,yes,2026-09-08T19:11:59+00:00,yes,Other
+9520622,https://v6n59.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520622,2026-09-08T18:55:55+00:00,yes,2026-09-08T19:11:59+00:00,yes,Other
+9520621,https://f5okpz.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520621,2026-09-08T18:55:53+00:00,yes,2026-09-08T19:11:59+00:00,yes,Other
+9520620,https://ayji3e.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520620,2026-09-08T18:55:51+00:00,yes,2026-09-08T19:11:59+00:00,yes,Other
+9520619,https://ujv7zg.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520619,2026-09-08T18:55:49+00:00,yes,2026-09-08T19:11:59+00:00,yes,Other
+9520618,https://0dx829.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520618,2026-09-08T18:55:47+00:00,yes,2026-09-08T19:11:59+00:00,yes,Other
+9520617,https://7uyeev.shop/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520617,2026-09-08T18:55:45+00:00,yes,2026-09-08T19:11:59+00:00,yes,Other
+9520616,https://trsih4.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520616,2026-09-08T18:55:42+00:00,yes,2026-09-08T19:11:59+00:00,yes,Other
+9520615,https://ez3wir.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520615,2026-09-08T18:55:40+00:00,yes,2026-09-08T19:11:59+00:00,yes,Other
+9520613,https://tqonx5.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520613,2026-09-08T18:55:38+00:00,yes,2026-09-08T19:11:59+00:00,yes,Other
+9520614,https://6s2cx5.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520614,2026-09-08T18:55:38+00:00,yes,2026-09-08T19:11:59+00:00,yes,Other
+9520612,https://s7k0t2.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520612,2026-09-08T18:55:05+00:00,yes,2026-09-08T19:11:59+00:00,yes,Other
+9520611,https://0bsj77.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520611,2026-09-08T18:55:03+00:00,yes,2026-09-08T19:11:59+00:00,yes,Other
+9520610,https://soyc8a.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520610,2026-09-08T18:55:01+00:00,yes,2026-09-08T19:11:59+00:00,yes,Other
+9520609,https://j3d3u5.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520609,2026-09-08T18:54:58+00:00,yes,2026-09-08T19:02:22+00:00,yes,Other
+9520608,https://528yt5.shop/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520608,2026-09-08T18:54:56+00:00,yes,2026-09-08T19:02:22+00:00,yes,Other
+9520607,https://kuqtyv.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520607,2026-09-08T18:54:54+00:00,yes,2026-09-08T19:02:22+00:00,yes,Other
+9520606,https://kf5uwo.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520606,2026-09-08T18:54:52+00:00,yes,2026-09-08T19:02:22+00:00,yes,Other
+9520605,https://hepa7i.shop/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520605,2026-09-08T18:54:50+00:00,yes,2026-09-08T19:02:22+00:00,yes,Other
+9520604,https://5g7d2.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520604,2026-09-08T18:54:48+00:00,yes,2026-09-08T19:02:22+00:00,yes,Other
+9520603,https://f4pb9wvw.shop/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520603,2026-09-08T18:54:45+00:00,yes,2026-09-08T19:02:22+00:00,yes,Other
+9520602,https://z8majc.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520602,2026-09-08T18:54:43+00:00,yes,2026-09-08T19:02:22+00:00,yes,Other
+9520601,https://ia5uyi.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520601,2026-09-08T18:54:41+00:00,yes,2026-09-08T19:02:22+00:00,yes,Other
+9520600,https://eha21i.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520600,2026-09-08T18:54:39+00:00,yes,2026-09-08T19:02:22+00:00,yes,Other
+9520599,https://kxifaoz.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520599,2026-09-08T18:54:36+00:00,yes,2026-09-08T19:02:22+00:00,yes,Other
+9520597,https://dk6ee.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520597,2026-09-08T18:54:34+00:00,yes,2026-09-08T19:02:22+00:00,yes,Other
+9520596,https://919ju1.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520596,2026-09-08T18:54:32+00:00,yes,2026-09-08T19:02:22+00:00,yes,Other
+9520595,https://a2byw4.info/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520595,2026-09-08T18:54:28+00:00,yes,2026-09-08T19:02:22+00:00,yes,Other
+9520594,https://5rxypm.shop/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520594,2026-09-08T18:54:25+00:00,yes,2026-09-08T19:02:22+00:00,yes,Other
+9520593,https://efuhr4.shop/7oBbyg,http://www.phishtank.com/phish_detail.php?phish_id=9520593,2026-09-08T18:54:22+00:00,yes,2026-09-08T19:02:22+00:00,yes,Other
+9520584,https://consultareahorabac.help/pa,http://www.phishtank.com/phish_detail.php?phish_id=9520584,2026-09-08T18:21:15+00:00,yes,2026-09-08T18:31:49+00:00,yes,Other
+9520583,https://consultarahorabac.help/pa,http://www.phishtank.com/phish_detail.php?phish_id=9520583,2026-09-08T18:21:10+00:00,yes,2026-09-08T18:31:49+00:00,yes,Other
+9520575,https://www.a6fbb0jc.pro/,http://www.phishtank.com/phish_detail.php?phish_id=9520575,2026-09-08T18:03:31+00:00,yes,2026-09-08T18:11:57+00:00,yes,Other
+9520573,https://avancement9230e.a6fbb0jc.pro/,http://www.phishtank.com/phish_detail.php?phish_id=9520573,2026-09-08T18:03:11+00:00,yes,2026-09-08T18:11:57+00:00,yes,Other
+9520572,https://fiche-655231.com/,http://www.phishtank.com/phish_detail.php?phish_id=9520572,2026-09-08T18:02:37+00:00,yes,2026-09-08T18:11:57+00:00,yes,Other
+9520571,https://fiche-655231.com/suivi,http://www.phishtank.com/phish_detail.php?phish_id=9520571,2026-09-08T18:02:24+00:00,yes,2026-09-08T18:11:57+00:00,yes,Other
+9520564,https://solarservicehouse.com,http://www.phishtank.com/phish_detail.php?phish_id=9520564,2026-09-08T17:22:34+00:00,yes,2026-09-09T16:51:54+00:00,yes,Amazon.com
+9520563,https://www.solarservicehouse.com,http://www.phishtank.com/phish_detail.php?phish_id=9520563,2026-09-08T17:22:24+00:00,yes,2026-09-09T16:51:54+00:00,yes,Amazon.com
+9520557,https://ovou.com/utajalezosowaxad,http://www.phishtank.com/phish_detail.php?phish_id=9520557,2026-09-08T17:10:51+00:00,yes,2026-09-08T17:21:47+00:00,yes,Other
+9520556,https://f005.backblazeb2.com/file/zeropainsinsidehytlm/MTS_Mail-61.html,http://www.phishtank.com/phish_detail.php?phish_id=9520556,2026-09-08T17:10:21+00:00,yes,2026-09-08T17:21:47+00:00,yes,Other
+9520553,https://app.clientepresent.live,http://www.phishtank.com/phish_detail.php?phish_id=9520553,2026-09-08T17:04:18+00:00,yes,2026-09-08T17:21:47+00:00,yes,Bradesco
+9520552,https://acessogerencialnetempresas.digital,http://www.phishtank.com/phish_detail.php?phish_id=9520552,2026-09-08T17:04:13+00:00,yes,2026-09-08T17:21:47+00:00,yes,Bradesco
 9520551,https://acesso-net-empresas.net,http://www.phishtank.com/phish_detail.php?phish_id=9520551,2026-09-08T17:04:08+00:00,yes,2026-09-08T17:11:47+00:00,yes,Bradesco
 9520547,https://empresa-bia.help/,http://www.phishtank.com/phish_detail.php?phish_id=9520547,2026-09-08T17:03:44+00:00,yes,2026-09-08T17:11:47+00:00,yes,Bradesco
 9520546,https://bradesco.sincronizacaopjonline.info,http://www.phishtank.com/phish_detail.php?phish_id=9520546,2026-09-08T17:03:38+00:00,yes,2026-09-08T17:11:47+00:00,yes,Bradesco
@@ -270,7 +702,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9519595,https://outgeud.com/,http://www.phishtank.com/phish_detail.php?phish_id=9519595,2026-09-07T09:09:18+00:00,yes,2026-09-07T09:11:45+00:00,yes,"SociÃ©tÃ© GÃ©nÃ©rale"
 9519589,https://hotlinkcashrefound.wixsite.com/cash,http://www.phishtank.com/phish_detail.php?phish_id=9519589,2026-09-07T09:05:13+00:00,yes,2026-09-07T09:11:45+00:00,yes,Other
 9519586,https://nsakana.blogspot.com/nastchhd,http://www.phishtank.com/phish_detail.php?phish_id=9519586,2026-09-07T08:58:04+00:00,yes,2026-09-07T09:02:24+00:00,yes,Other
-9519585,https://shorturl.at/lsjnr,http://www.phishtank.com/phish_detail.php?phish_id=9519585,2026-09-07T08:57:26+00:00,yes,2026-09-07T09:02:24+00:00,yes,Other
 9519583,http://allegrolokalnie.pl-74162.top,http://www.phishtank.com/phish_detail.php?phish_id=9519583,2026-09-07T08:53:42+00:00,yes,2026-09-07T09:02:24+00:00,yes,Allegro
 9519582,https://do-nb-f39o-lg-tb-a.vercel.app/#,http://www.phishtank.com/phish_detail.php?phish_id=9519582,2026-09-07T08:43:42+00:00,yes,2026-09-07T08:51:51+00:00,yes,Other
 9519577,https://seconnectermonacotelecomwebmail.weebly.com/,http://www.phishtank.com/phish_detail.php?phish_id=9519577,2026-09-07T08:34:53+00:00,yes,2026-09-07T08:41:54+00:00,yes,Other
@@ -288,6 +719,7 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9519472,http://auspost-ticket.com,http://www.phishtank.com/phish_detail.php?phish_id=9519472,2026-09-07T06:04:58+00:00,yes,2026-09-07T06:11:56+00:00,yes,Other
 9519466,https://europe-pian.com/mvypjo,http://www.phishtank.com/phish_detail.php?phish_id=9519466,2026-09-07T05:28:04+00:00,yes,2026-09-07T05:32:00+00:00,yes,Other
 9519437,https://howular.af7119.info/g3EArg/jp,http://www.phishtank.com/phish_detail.php?phish_id=9519437,2026-09-07T03:26:15+00:00,yes,2026-09-07T03:31:57+00:00,yes,Other
+9519429,https://huayuangreen.com/saisan/service-point,http://www.phishtank.com/phish_detail.php?phish_id=9519429,2026-09-07T03:21:22+00:00,yes,2026-09-09T16:51:54+00:00,yes,Other
 9519428,https://comcastcarebusiness.weebly.com/,http://www.phishtank.com/phish_detail.php?phish_id=9519428,2026-09-07T03:19:51+00:00,yes,2026-09-07T03:21:45+00:00,yes,Comcast
 9519427,https://xfinityis.weebly.com/,http://www.phishtank.com/phish_detail.php?phish_id=9519427,2026-09-07T03:18:04+00:00,yes,2026-09-07T03:21:45+00:00,yes,Comcast
 9519426,https://xfinityttt.weebly.com/,http://www.phishtank.com/phish_detail.php?phish_id=9519426,2026-09-07T03:17:02+00:00,yes,2026-09-07T03:21:45+00:00,yes,Comcast
@@ -298,14 +730,21 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9519421,https://ib.200xlove.xyz/iteam/index.php,http://www.phishtank.com/phish_detail.php?phish_id=9519421,2026-09-07T03:09:43+00:00,yes,2026-09-07T03:11:55+00:00,yes,Other
 9519420,https://mysubcription-neftlix.com/,http://www.phishtank.com/phish_detail.php?phish_id=9519420,2026-09-07T03:09:18+00:00,yes,2026-09-07T03:11:55+00:00,yes,Netflix
 9519419,https://www.mysubcription-neftlix.com/,http://www.phishtank.com/phish_detail.php?phish_id=9519419,2026-09-07T03:08:34+00:00,yes,2026-09-07T03:11:55+00:00,yes,Netflix
+9519417,https://sasioncarid-mustee.com/,http://www.phishtank.com/phish_detail.php?phish_id=9519417,2026-09-07T03:05:37+00:00,yes,2026-09-09T16:51:54+00:00,yes,Other
+9519416,https://hongbomedia.com/saisan/service-point,http://www.phishtank.com/phish_detail.php?phish_id=9519416,2026-09-07T03:05:36+00:00,yes,2026-09-09T16:51:54+00:00,yes,Other
 9519415,https://c17pu9o6k3-3755b1f233.vercel.app/,http://www.phishtank.com/phish_detail.php?phish_id=9519415,2026-09-07T03:04:44+00:00,yes,2026-09-07T03:11:55+00:00,yes,Facebook
 9519414,https://sg.internal-support.xyz/sgdbs/,http://www.phishtank.com/phish_detail.php?phish_id=9519414,2026-09-07T02:59:52+00:00,yes,2026-09-07T03:11:55+00:00,yes,Other
 9519413,https://accurate-purple-klawjsq5.edgeone.dev/,http://www.phishtank.com/phish_detail.php?phish_id=9519413,2026-09-07T02:58:47+00:00,yes,2026-09-07T03:02:11+00:00,yes,Other
 9519412,https://docwirelosszip--ftomasmiguel.replit.app/,http://www.phishtank.com/phish_detail.php?phish_id=9519412,2026-09-07T02:57:50+00:00,yes,2026-09-07T03:02:11+00:00,yes,Other
 9519411,https://security-server-landing-page--dianneaagroo.replit.app/,http://www.phishtank.com/phish_detail.php?phish_id=9519411,2026-09-07T02:56:48+00:00,yes,2026-09-07T03:02:11+00:00,yes,Other
+9519410,https://qmres.com/wiki/qOTT5vGtSL,http://www.phishtank.com/phish_detail.php?phish_id=9519410,2026-09-07T02:52:27+00:00,yes,2026-09-09T17:02:16+00:00,yes,Amazon.com
+9519409,https://ejzwz.com/link/r2svhVfJaI,http://www.phishtank.com/phish_detail.php?phish_id=9519409,2026-09-07T02:51:30+00:00,yes,2026-09-09T17:02:16+00:00,yes,Amazon.com
+9519408,https://qmres.com/detail/DVBMvjf1KZ,http://www.phishtank.com/phish_detail.php?phish_id=9519408,2026-09-07T02:50:13+00:00,yes,2026-09-09T17:02:16+00:00,yes,Amazon.com
 9519407,https://mail.bhd-personal.com/,http://www.phishtank.com/phish_detail.php?phish_id=9519407,2026-09-07T02:45:17+00:00,yes,2026-09-07T02:51:48+00:00,yes,Other
 9519406,https://plusbhd.com,http://www.phishtank.com/phish_detail.php?phish_id=9519406,2026-09-07T02:45:08+00:00,yes,2026-09-07T02:51:48+00:00,yes,Other
 9519389,http://allegrolokalnie.pl02.my,http://www.phishtank.com/phish_detail.php?phish_id=9519389,2026-09-07T01:55:36+00:00,yes,2026-09-07T02:02:18+00:00,yes,Allegro
+9519385,https://zodubagasa.z7.web.core.windows.net/wtz1feeubb/,http://www.phishtank.com/phish_detail.php?phish_id=9519385,2026-09-07T01:32:38+00:00,yes,2026-09-09T17:02:16+00:00,yes,Microsoft
+9519384,https://vipipufuy.z38.web.core.windows.net/jz1w2pdd4/,http://www.phishtank.com/phish_detail.php?phish_id=9519384,2026-09-07T01:30:21+00:00,yes,2026-09-09T17:02:16+00:00,yes,Microsoft
 9519380,https://allegro.001029gh9hi.me,http://www.phishtank.com/phish_detail.php?phish_id=9519380,2026-09-07T01:06:38+00:00,yes,2026-09-07T01:11:49+00:00,yes,Allegro
 9519367,http://allegrolokalnie.pl57789.top,http://www.phishtank.com/phish_detail.php?phish_id=9519367,2026-09-06T23:53:50+00:00,yes,2026-09-07T00:05:02+00:00,yes,Allegro
 9519366,http://allegrolokalnie.plloferta763254214.sbs,http://www.phishtank.com/phish_detail.php?phish_id=9519366,2026-09-06T23:53:02+00:00,yes,2026-09-07T00:05:02+00:00,yes,Allegro
@@ -539,6 +978,7 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9517788,https://ax-italy.eu.cc,http://www.phishtank.com/phish_detail.php?phish_id=9517788,2026-09-04T08:13:21+00:00,yes,2026-09-04T23:02:09+00:00,yes,Other
 9517758,https://allegrolokalnie.9618269.mom/oferta/xiaomi-17t-pro-512gb/94713,http://www.phishtank.com/phish_detail.php?phish_id=9517758,2026-09-04T07:18:07+00:00,yes,2026-09-04T22:41:59+00:00,yes,Allegro
 9517757,https://ophtalmovisus.com/jamyershomes/,http://www.phishtank.com/phish_detail.php?phish_id=9517757,2026-09-04T07:17:37+00:00,yes,2026-09-04T22:41:59+00:00,yes,Adobe
+9517740,https://fabulous-embeds-059788.framer.app/,http://www.phishtank.com/phish_detail.php?phish_id=9517740,2026-09-04T06:54:35+00:00,yes,2026-09-09T17:02:16+00:00,yes,Other
 9517729,https://idrav.shop/paypay.ne.jp=Gs0JwOhyzYZJIUM_wGH1dXMMAYUsYojRktgKMrLOequgMve285M7d8LeAoaLkihyNZQUXyZyJkix1BlaCnpk-QZBhGH,http://www.phishtank.com/phish_detail.php?phish_id=9517729,2026-09-04T06:09:11+00:00,yes,2026-09-04T22:31:57+00:00,yes,Other
 9517728,https://gwqf.shop/paypay.ne.jp=Gs0JwOhyzYZJIUM_wGH1dXMMAYUsYojRktgKMrLOequgMve285M7d8LeAoaLkihyNZQUXyZyJkix1BlaCnpk-QZBhGH,http://www.phishtank.com/phish_detail.php?phish_id=9517728,2026-09-04T06:09:10+00:00,yes,2026-09-04T22:31:57+00:00,yes,Other
 9517727,https://isau.shop/paypay.ne.jp=Gs0JwOhyzYZJIUM_wGH1dXMMAYUsYojRktgKMrLOequgMve285M7d8LeAoaLkihyNZQUXyZyJkix1BlaCnpk-QZBhGH,http://www.phishtank.com/phish_detail.php?phish_id=9517727,2026-09-04T06:09:09+00:00,yes,2026-09-04T22:31:57+00:00,yes,Other
@@ -610,7 +1050,10 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9517180,https://banca-enlinea-pichinchasolucion.weebly.com/,http://www.phishtank.com/phish_detail.php?phish_id=9517180,2026-09-03T15:06:20+00:00,yes,2026-09-04T16:31:56+00:00,yes,Other
 9517179,https://banco-pichincha.weebly.com/,http://www.phishtank.com/phish_detail.php?phish_id=9517179,2026-09-03T15:06:13+00:00,yes,2026-09-04T16:31:56+00:00,yes,Other
 9517135,https://msx-italia.eu.cc,http://www.phishtank.com/phish_detail.php?phish_id=9517135,2026-09-03T13:39:31+00:00,yes,2026-09-04T15:41:49+00:00,yes,Other
+9517128,https://zpr.io/saXBVTRCepFW,http://www.phishtank.com/phish_detail.php?phish_id=9517128,2026-09-03T13:18:53+00:00,yes,2026-09-09T17:02:16+00:00,yes,Other
+9517125,https://checkout-694bbcfac862a67e8019289966ebd7a9-checkout.renewplan.cyou/checkout?token=694bbcfac862a67e8019289966ebd7a9,http://www.phishtank.com/phish_detail.php?phish_id=9517125,2026-09-03T13:17:42+00:00,yes,2026-09-09T17:02:16+00:00,yes,Other
 9517124,https://www-auth-domain-lmfa1ig8u024koe1.vercel.app/checkout/694bbcfac862a67e8019289966ebd7a9,http://www.phishtank.com/phish_detail.php?phish_id=9517124,2026-09-03T13:17:27+00:00,yes,2026-09-04T15:31:59+00:00,yes,Other
+9517121,https://url.gsb.gov.zm/Hnx-kJv3Jm,http://www.phishtank.com/phish_detail.php?phish_id=9517121,2026-09-03T13:14:49+00:00,yes,2026-09-09T17:02:16+00:00,yes,Other
 9517113,https://rebrand.ly/areaclienti,http://www.phishtank.com/phish_detail.php?phish_id=9517113,2026-09-03T12:57:47+00:00,yes,2026-09-04T14:51:57+00:00,yes,Other
 9517102,https://moudhgsr-dp4lyapywtjw.edgeone.dev/,http://www.phishtank.com/phish_detail.php?phish_id=9517102,2026-09-03T12:30:29+00:00,yes,2026-09-04T14:41:51+00:00,yes,Other
 9517099,https://infomailsmms.mypixieset.com/,http://www.phishtank.com/phish_detail.php?phish_id=9517099,2026-09-03T12:27:55+00:00,yes,2026-09-04T14:41:51+00:00,yes,Orange
@@ -715,6 +1158,7 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9516219,https://bper-portale.com/pages/nvs0.php,http://www.phishtank.com/phish_detail.php?phish_id=9516219,2026-09-02T12:04:44+00:00,yes,2026-09-02T12:11:58+00:00,yes,Other
 9516218,https://cs-relax.eu.cc/,http://www.phishtank.com/phish_detail.php?phish_id=9516218,2026-09-02T12:04:25+00:00,yes,2026-09-02T12:11:58+00:00,yes,Other
 9516217,https://bper-portale.com/captcha.php,http://www.phishtank.com/phish_detail.php?phish_id=9516217,2026-09-02T12:04:21+00:00,yes,2026-09-02T12:11:58+00:00,yes,Other
+9516216,https://bper-portale.com/AX78F,http://www.phishtank.com/phish_detail.php?phish_id=9516216,2026-09-02T12:04:20+00:00,yes,2026-09-09T16:51:55+00:00,yes,Other
 9516185,https://www.ledgerwellat.com/,http://www.phishtank.com/phish_detail.php?phish_id=9516185,2026-09-02T11:08:28+00:00,yes,2026-09-02T11:21:54+00:00,yes,Other
 9516181,https://dev.base-man.shop/pB7TpEDvqJdCcjDN,http://www.phishtank.com/phish_detail.php?phish_id=9516181,2026-09-02T10:55:33+00:00,yes,2026-09-02T11:21:54+00:00,yes,Other
 9516180,https://ledgerlivewebapp.com/,http://www.phishtank.com/phish_detail.php?phish_id=9516180,2026-09-02T10:52:09+00:00,yes,2026-09-02T11:21:54+00:00,yes,Other
@@ -1350,6 +1794,8 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9511976,https://vakeugde.com/5tynbei,http://www.phishtank.com/phish_detail.php?phish_id=9511976,2026-08-27T08:45:51+00:00,yes,2026-08-27T08:52:03+00:00,yes,Other
 9511973,https://vakeugde.com/,http://www.phishtank.com/phish_detail.php?phish_id=9511973,2026-08-27T08:35:08+00:00,yes,2026-08-27T08:41:51+00:00,yes,Other
 9511972,https://espacce-secure-ce.com/5tynbei,http://www.phishtank.com/phish_detail.php?phish_id=9511972,2026-08-27T08:34:51+00:00,yes,2026-08-27T08:41:51+00:00,yes,Other
+9511965,https://zpr.io/ZGeWhV24ZKBa,http://www.phishtank.com/phish_detail.php?phish_id=9511965,2026-08-27T08:09:13+00:00,yes,2026-09-09T17:02:17+00:00,yes,Other
+9511963,https://cyberpanel-vkff1kio.s3.eu-west-2.amazonaws.com/login.html#a@b.com,http://www.phishtank.com/phish_detail.php?phish_id=9511963,2026-08-27T08:07:34+00:00,yes,2026-09-09T17:02:17+00:00,yes,Other
 9511960,https://allegrolokalnie.nr-32435423.lol/,http://www.phishtank.com/phish_detail.php?phish_id=9511960,2026-08-27T08:05:05+00:00,yes,2026-08-27T08:12:09+00:00,yes,Allegro
 9511959,https://areaclienti-ar.offc.uk/ecdb5bca1618465122828ae0c32afc37/AreaUtenti_Lang.php,http://www.phishtank.com/phish_detail.php?phish_id=9511959,2026-08-27T07:59:18+00:00,yes,2026-08-27T08:02:44+00:00,yes,Other
 9511958,https://redaru.handballmarathonhscgraz.at/?45NVN=45VBV,http://www.phishtank.com/phish_detail.php?phish_id=9511958,2026-08-27T07:59:04+00:00,yes,2026-08-27T08:02:44+00:00,yes,Other
@@ -1540,11 +1986,12 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9510914,https://intuit-sec.s3.us-east-1.amazonaws.com/QuickBook-Google.html#,http://www.phishtank.com/phish_detail.php?phish_id=9510914,2026-08-25T15:32:50+00:00,yes,2026-08-25T18:12:20+00:00,yes,"Internal Revenue Service"
 9510912,https://info475985.wixsite.com/so/5aQ0osgUc/c?w=gjutQTW2OGfvIGZId4SSagYZbjJYNKtr5TXcQZdhMjA.eyJ1IjoiaHR0cHM6Ly9zaXRlcy5nb29nbGUuY29tL2F1c3RpbmZpbmFuY2lhbC51cy9pbnR1aXQ_dXNwPXNoYXJpbmciLCJyIjoiMWZkZGJhYjItNmI0Yy00YjZjLWJkMWItOTI2OTkyYmNjZDc1IiwibSI6Im1haWwiLCJjIjoiNGJiZGZjNjItMThhMy00ZDJlLWE5M2ItMTUxMjQ5OGU1ZWFlIn0,http://www.phishtank.com/phish_detail.php?phish_id=9510912,2026-08-25T15:31:56+00:00,yes,2026-08-25T15:42:08+00:00,yes,"Internal Revenue Service"
 9510911,https://sites.google.com/austinfinancial.us/intuit?usp=sharing,http://www.phishtank.com/phish_detail.php?phish_id=9510911,2026-08-25T15:31:37+00:00,yes,2026-08-25T15:42:08+00:00,yes,"Internal Revenue Service"
+9510910,https://id-crediabanqsupport7262927.fabie.de/0x80/?MVP5O=10100111001,http://www.phishtank.com/phish_detail.php?phish_id=9510910,2026-08-25T15:30:57+00:00,yes,2026-09-09T17:02:17+00:00,yes,Other
+9510909,https://beatmungspflege24.net/ausbildungausseneinsatz-zukunft-z-cr,http://www.phishtank.com/phish_detail.php?phish_id=9510909,2026-08-25T15:30:53+00:00,yes,2026-09-09T17:02:17+00:00,yes,Other
 9510906,https://acbuw7-q4to7p-thlker-5zjzjz9ly6.s3.us-east-1.amazonaws.com/12cnc81lsxx8ogmjsd9q2sac21wvdc,http://www.phishtank.com/phish_detail.php?phish_id=9510906,2026-08-25T15:30:09+00:00,yes,2026-08-25T15:42:08+00:00,yes,Other
 9510877,https://muinfogreffe.com/OTSDE/yndicomians/mx/frax/core/login.php,http://www.phishtank.com/phish_detail.php?phish_id=9510877,2026-08-25T14:54:40+00:00,yes,2026-08-26T22:11:58+00:00,yes,Other
 9510873,http://allegrolokalne.oferta-id01932847654.online,http://www.phishtank.com/phish_detail.php?phish_id=9510873,2026-08-25T14:47:15+00:00,yes,2026-08-25T14:52:10+00:00,yes,Allegro
 9510872,http://allegrolokalne.oferta-id01932847654.online/191296408,http://www.phishtank.com/phish_detail.php?phish_id=9510872,2026-08-25T14:47:07+00:00,yes,2026-08-25T14:52:10+00:00,yes,Allegro
-9510871,https://prime-annulation-essai.com/vos-commandes,http://www.phishtank.com/phish_detail.php?phish_id=9510871,2026-08-25T14:43:35+00:00,yes,2026-08-26T22:11:58+00:00,yes,Other
 9510868,https://information-greece.blogspot.com/,http://www.phishtank.com/phish_detail.php?phish_id=9510868,2026-08-25T14:21:42+00:00,yes,2026-08-25T15:02:26+00:00,yes,Other
 9510867,https://myapp.netcomengineering.com.kh/sir,http://www.phishtank.com/phish_detail.php?phish_id=9510867,2026-08-25T14:21:16+00:00,yes,2026-08-25T15:02:26+00:00,yes,Other
 9510866,https://auth-domain-kay9dvf2iam7exgu.vercel.app/checkout/fb5c0f120ae89590501057458947d059,http://www.phishtank.com/phish_detail.php?phish_id=9510866,2026-08-25T14:20:58+00:00,yes,2026-08-25T14:32:12+00:00,yes,Other
@@ -1592,8 +2039,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9510792,https://oportunidadesunicaswebaumentoonline.com/login.php?MTc4NzUzOTcxODIwNjJmYWE5YzJjMjY2NzZmZjVjZjE2Zjg3MWZkYzkzYTk0YmU1MGY0MjNlZTgwOTU1N2YzZTE3ZDkzOTNmYTI1YzllYWMyYQ==,http://www.phishtank.com/phish_detail.php?phish_id=9510792,2026-08-25T12:46:02+00:00,yes,2026-08-25T12:52:02+00:00,yes,Other
 9510789,https://www.oportunidadesunicaswebaumentoonline.com/login.php?MTc4NzUzOTcyMTU3MDZlMDYwNjYwOTc1ZjM0ZmJlNjNkYzY3N2NkZDRhNWI1MjhhNzUyYzAyNmUzZWJiMWM1OTk1MDc4NWM5NTNmNzNmMzI4OA==,http://www.phishtank.com/phish_detail.php?phish_id=9510789,2026-08-25T12:44:32+00:00,yes,2026-08-25T12:52:02+00:00,yes,Other
 9510788,https://allegro.r230f203f023.casa/lokalnie/?id=7m9O1D7y8k3a2X0a1T2e8O6L7n6r6r0m,http://www.phishtank.com/phish_detail.php?phish_id=9510788,2026-08-25T12:44:24+00:00,yes,2026-08-25T12:52:02+00:00,yes,Allegro
-9510781,http://cp.handhonline.net/~techbaza/post,http://www.phishtank.com/phish_detail.php?phish_id=9510781,2026-08-25T12:35:46+00:00,yes,2026-08-25T12:42:07+00:00,yes,Other
-9510782,http://cp.handhonline.net/~techbaza/post/,http://www.phishtank.com/phish_detail.php?phish_id=9510782,2026-08-25T12:35:46+00:00,yes,2026-08-25T13:52:00+00:00,yes,Other
 9510780,https://cp.handhonline.net/~techbaza/post,http://www.phishtank.com/phish_detail.php?phish_id=9510780,2026-08-25T12:35:24+00:00,yes,2026-08-25T12:42:07+00:00,yes,Other
 9510779,https://techbazaronline.co.uk/des,http://www.phishtank.com/phish_detail.php?phish_id=9510779,2026-08-25T12:34:34+00:00,yes,2026-08-25T12:42:08+00:00,yes,Other
 9510778,https://techbazaronline.co.uk/des/,http://www.phishtank.com/phish_detail.php?phish_id=9510778,2026-08-25T12:34:06+00:00,yes,2026-08-25T12:42:08+00:00,yes,Other
@@ -1656,6 +2101,8 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9510614,https://support-xlp.eu.cc,http://www.phishtank.com/phish_detail.php?phish_id=9510614,2026-08-25T07:10:43+00:00,yes,2026-08-25T07:12:19+00:00,yes,Amazon.com
 9510590,https://allegrolokalnie.lokalna-667.sbs/,http://www.phishtank.com/phish_detail.php?phish_id=9510590,2026-08-25T06:15:12+00:00,yes,2026-08-25T06:22:55+00:00,yes,Allegro
 9510581,https://allegrolokalnie.pl-234832.click,http://www.phishtank.com/phish_detail.php?phish_id=9510581,2026-08-25T04:45:15+00:00,yes,2026-08-25T04:51:56+00:00,yes,Allegro
+9510580,https://bet.hkjc.com/,http://www.phishtank.com/phish_detail.php?phish_id=9510580,2026-08-25T04:27:15+00:00,yes,2026-09-09T17:02:17+00:00,yes,Other
+9510579,https://zhaojunhui.com/u_o8nh6yfd/verify?ticket=ueDdLBNc,http://www.phishtank.com/phish_detail.php?phish_id=9510579,2026-08-25T04:27:14+00:00,yes,2026-09-09T17:02:17+00:00,yes,Other
 9510578,https://mannger-us-checcksupports-verrification.click/,http://www.phishtank.com/phish_detail.php?phish_id=9510578,2026-08-25T04:17:02+00:00,yes,2026-08-25T04:22:05+00:00,yes,Facebook
 9510577,https://mannger-us-checcksupports-verrification.click/login,http://www.phishtank.com/phish_detail.php?phish_id=9510577,2026-08-25T04:16:41+00:00,yes,2026-08-25T04:22:05+00:00,yes,Facebook
 9510575,https://security-messenger-notification.art/,http://www.phishtank.com/phish_detail.php?phish_id=9510575,2026-08-25T04:11:33+00:00,yes,2026-08-25T04:22:05+00:00,yes,Facebook
@@ -1668,8 +2115,12 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9510567,https://surveyupdatesnow.weebly.com/,http://www.phishtank.com/phish_detail.php?phish_id=9510567,2026-08-25T03:48:50+00:00,yes,2026-08-25T03:51:59+00:00,yes,Comcast
 9510566,https://credi-miles--y626262j77.replit.app/,http://www.phishtank.com/phish_detail.php?phish_id=9510566,2026-08-25T03:46:13+00:00,yes,2026-08-25T03:51:59+00:00,yes,Other
 9510564,https://dazzled-package-964009.framer.app/,http://www.phishtank.com/phish_detail.php?phish_id=9510564,2026-08-25T03:43:33+00:00,yes,2026-08-25T03:51:59+00:00,yes,Other
+9510561,https://c1ezn8.info/8ae0482/ouhbmuu,http://www.phishtank.com/phish_detail.php?phish_id=9510561,2026-08-25T03:29:24+00:00,yes,2026-09-09T17:02:17+00:00,yes,Apple
+9510558,https://psychostics.com/drgapmuh/,http://www.phishtank.com/phish_detail.php?phish_id=9510558,2026-08-25T03:23:58+00:00,yes,2026-09-09T17:02:17+00:00,yes,Apple
+9510557,https://psychostics.com/drgapmuh,http://www.phishtank.com/phish_detail.php?phish_id=9510557,2026-08-25T03:23:57+00:00,yes,2026-09-09T17:02:17+00:00,yes,Apple
 9510556,https://frpinterest.com/drgapmuh/,http://www.phishtank.com/phish_detail.php?phish_id=9510556,2026-08-25T03:23:37+00:00,yes,2026-08-25T03:32:13+00:00,yes,Apple
 9510555,https://frpinterest.com/drgapmuh,http://www.phishtank.com/phish_detail.php?phish_id=9510555,2026-08-25T03:23:36+00:00,yes,2026-08-25T03:32:13+00:00,yes,Apple
+9510554,https://www.jyzxcz.com/vpass/mermbers/logs/index,http://www.phishtank.com/phish_detail.php?phish_id=9510554,2026-08-25T03:20:16+00:00,yes,2026-09-09T17:02:17+00:00,yes,"Sumitomo Mitsui Banking Corporation"
 9510537,http://allegrolokalnie.oferta-lokalana694502304235.lol,http://www.phishtank.com/phish_detail.php?phish_id=9510537,2026-08-25T01:53:27+00:00,yes,2026-08-25T02:02:45+00:00,yes,Allegro
 9510529,http://app.bancosolpromocion.com/,http://www.phishtank.com/phish_detail.php?phish_id=9510529,2026-08-25T00:54:41+00:00,yes,2026-08-25T01:02:44+00:00,yes,Other
 9510516,https://thankful-times-524452.framer.app/,http://www.phishtank.com/phish_detail.php?phish_id=9510516,2026-08-25T00:09:57+00:00,yes,2026-08-25T00:22:22+00:00,yes,Optus
@@ -1730,7 +2181,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9510198,https://bhdactivarusuario2026.weebly.com/,http://www.phishtank.com/phish_detail.php?phish_id=9510198,2026-08-24T13:52:12+00:00,yes,2026-08-24T14:03:07+00:00,yes,Other
 9510197,https://validaracceso-bhdactivarusuario.iceiy.com,http://www.phishtank.com/phish_detail.php?phish_id=9510197,2026-08-24T13:51:51+00:00,yes,2026-08-24T14:03:07+00:00,yes,Other
 9510195,https://encuestaecuador.lat/3gKhsRHNWn?adset_name=%7B%7Badset.name%7D%7D&amp;adset_id=%7B%7Badset.id%7D%7D&amp;ad_id=%7B%7Bad.id%7D%7D&amp;campaign_name=%7B%7Bcampaign.name%7D%7D&amp;placement=%7B%7Bplacement%7D%7D&amp;site_source_name=%7B%7Bsite_source_name%7D%7D&amp;ad_campaign_id=%7B%7Bcampaign.id%7D%7D,http://www.phishtank.com/phish_detail.php?phish_id=9510195,2026-08-24T13:51:35+00:00,yes,2026-08-24T14:03:07+00:00,yes,Other
-9510189,https://uninetaprende.blog/,http://www.phishtank.com/phish_detail.php?phish_id=9510189,2026-08-24T13:43:06+00:00,yes,2026-09-07T16:02:12+00:00,yes,Other
 9510187,https://cliente-a-limpfeirao.shop/,http://www.phishtank.com/phish_detail.php?phish_id=9510187,2026-08-24T13:42:29+00:00,yes,2026-08-24T13:46:12+00:00,yes,Other
 9510186,http://www.cliente-a-limpfeirao.shop,http://www.phishtank.com/phish_detail.php?phish_id=9510186,2026-08-24T13:42:28+00:00,yes,2026-08-24T13:46:12+00:00,yes,Other
 9510179,https://security-server-page--hollywoodcoache.replit.app/,http://www.phishtank.com/phish_detail.php?phish_id=9510179,2026-08-24T13:28:54+00:00,yes,2026-08-24T13:32:39+00:00,yes,Microsoft
@@ -1748,6 +2198,8 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9510152,https://allegro.anonservice.lol,http://www.phishtank.com/phish_detail.php?phish_id=9510152,2026-08-24T13:06:02+00:00,yes,2026-08-24T13:12:22+00:00,yes,Allegro
 9510140,https://super-emp-seven.vercel.app/1.html,http://www.phishtank.com/phish_detail.php?phish_id=9510140,2026-08-24T12:54:32+00:00,yes,2026-08-24T13:02:59+00:00,yes,Other
 9510139,http://about.pb3.duckdns.org/,http://www.phishtank.com/phish_detail.php?phish_id=9510139,2026-08-24T12:53:47+00:00,yes,2026-08-24T13:02:59+00:00,yes,Other
+9510137,https://recoverypro.live/,http://www.phishtank.com/phish_detail.php?phish_id=9510137,2026-08-24T12:49:15+00:00,yes,2026-09-09T17:02:17+00:00,yes,"Her Majesty's Revenue and Customs"
+9510136,https://evr.1e92830.com/,http://www.phishtank.com/phish_detail.php?phish_id=9510136,2026-08-24T12:47:22+00:00,yes,2026-09-09T17:02:17+00:00,yes,Other
 9510134,https://adm.pb3.duckdns.org/,http://www.phishtank.com/phish_detail.php?phish_id=9510134,2026-08-24T12:44:59+00:00,yes,2026-08-24T12:52:22+00:00,yes,Other
 9510133,http://help.pb3.duckdns.org/,http://www.phishtank.com/phish_detail.php?phish_id=9510133,2026-08-24T12:44:55+00:00,yes,2026-08-24T12:52:22+00:00,yes,Other
 9510125,http://allegrolokalnie.pl-oferta594583.shop,http://www.phishtank.com/phish_detail.php?phish_id=9510125,2026-08-24T12:39:37+00:00,yes,2026-08-24T12:52:22+00:00,yes,Allegro
@@ -1910,9 +2362,13 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9509534,https://eg-vr-support.ydns.eu/,http://www.phishtank.com/phish_detail.php?phish_id=9509534,2026-08-23T09:06:40+00:00,yes,2026-08-23T09:12:23+00:00,yes,Other
 9509533,https://sdncontabil.com.br/wp2/wp-includes/js/tinymce/skins/lightgray/fonts/ui/index.html?e=a@b.com,http://www.phishtank.com/phish_detail.php?phish_id=9509533,2026-08-23T09:06:17+00:00,yes,2026-08-23T09:12:23+00:00,yes,Other
 9509532,https://logon.confirmation.vu/notifications.aspx?valid=a@b.com,http://www.phishtank.com/phish_detail.php?phish_id=9509532,2026-08-23T09:05:06+00:00,yes,2026-08-23T09:12:23+00:00,yes,Other
+9509531,https://tnews.day/NoCCP,http://www.phishtank.com/phish_detail.php?phish_id=9509531,2026-08-23T09:04:47+00:00,yes,2026-09-09T17:02:17+00:00,yes,Other
+9509528,https://zpr.io/SpP2hEv3nn6x,http://www.phishtank.com/phish_detail.php?phish_id=9509528,2026-08-23T09:02:46+00:00,yes,2026-09-09T17:02:17+00:00,yes,Other
+9509527,https://shorturl.asia/0TOo8,http://www.phishtank.com/phish_detail.php?phish_id=9509527,2026-08-23T09:02:02+00:00,yes,2026-09-09T17:02:17+00:00,yes,Other
 9509525,https://www.supportautomatique-abovideo.help,http://www.phishtank.com/phish_detail.php?phish_id=9509525,2026-08-23T09:00:46+00:00,yes,2026-08-23T09:12:23+00:00,yes,Amazon.com
 9509524,https://supportautomatique-abovideo.help/,http://www.phishtank.com/phish_detail.php?phish_id=9509524,2026-08-23T09:00:25+00:00,yes,2026-08-23T09:12:23+00:00,yes,Amazon.com
 9509522,https://supportautomatique-abovideo.help/captcha.php,http://www.phishtank.com/phish_detail.php?phish_id=9509522,2026-08-23T09:00:08+00:00,yes,2026-08-23T09:12:23+00:00,yes,Amazon.com
+9509521,https://scan.page/AW8d6r,http://www.phishtank.com/phish_detail.php?phish_id=9509521,2026-08-23T08:59:13+00:00,yes,2026-09-09T17:02:17+00:00,yes,Other
 9509473,https://vanillaturel.fr/,http://www.phishtank.com/phish_detail.php?phish_id=9509473,2026-08-23T07:31:49+00:00,yes,2026-08-23T07:42:25+00:00,yes,PayPal
 9509472,https://rubrique-historique-transaction.fr,http://www.phishtank.com/phish_detail.php?phish_id=9509472,2026-08-23T07:31:12+00:00,yes,2026-08-23T07:42:25+00:00,yes,PayPal
 9509471,https://rubrique-historique-transaction.fr/app,http://www.phishtank.com/phish_detail.php?phish_id=9509471,2026-08-23T07:31:02+00:00,yes,2026-08-23T07:42:25+00:00,yes,PayPal
@@ -2200,7 +2656,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9508682,https://lyncdiscover.pb3.duckdns.org/,http://www.phishtank.com/phish_detail.php?phish_id=9508682,2026-08-21T12:30:57+00:00,yes,2026-08-21T12:32:46+00:00,yes,Other
 9508681,https://it.pb3.duckdns.org/,http://www.phishtank.com/phish_detail.php?phish_id=9508681,2026-08-21T12:30:34+00:00,yes,2026-08-21T12:32:46+00:00,yes,Other
 9508680,https://orange.espaceparticulier.com/index.php,http://www.phishtank.com/phish_detail.php?phish_id=9508680,2026-08-21T12:19:21+00:00,yes,2026-08-21T12:22:37+00:00,yes,Orange
-9508679,https://orange.espaceparticulier.com,http://www.phishtank.com/phish_detail.php?phish_id=9508679,2026-08-21T12:19:06+00:00,yes,2026-08-21T12:22:37+00:00,yes,Orange
 9508670,https://mmcglobal.passkeyconnect.com/sign-in/,http://www.phishtank.com/phish_detail.php?phish_id=9508670,2026-08-21T11:32:37+00:00,yes,2026-08-21T11:42:37+00:00,yes,Other
 9508669,http://mmcglobal.passkeyconnect.com,http://www.phishtank.com/phish_detail.php?phish_id=9508669,2026-08-21T11:32:36+00:00,yes,2026-08-21T11:42:37+00:00,yes,Other
 9508658,https://altro-dz.com/kdi/sdfi,http://www.phishtank.com/phish_detail.php?phish_id=9508658,2026-08-21T11:25:19+00:00,yes,2026-08-21T12:42:37+00:00,yes,Other
@@ -2247,6 +2702,7 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9508540,https://verifysecurenow.weebly.com/,http://www.phishtank.com/phish_detail.php?phish_id=9508540,2026-08-21T03:12:11+00:00,yes,2026-08-21T03:22:29+00:00,yes,Comcast
 9508537,http://allegrolokalnie.lokalna-2328222239.lol,http://www.phishtank.com/phish_detail.php?phish_id=9508537,2026-08-21T02:53:24+00:00,yes,2026-08-21T03:03:28+00:00,yes,Allegro
 9508535,https://log-kdckqdcjqwranmcbaqaqmsmqlfvsyh.opalooman.com/1NiIsInR5cCI6IkpXVCJ9yJvcmlnaW5hbFVybCI6Imh0dHBzOi8vbWFpbGVyLWkxZHh4dGE3aWJvbHoweG5lbXVpZms3d2dieGI1YjN5bXQzZG5lbXVpZms3d2#aaaa@example.jp,http://www.phishtank.com/phish_detail.php?phish_id=9508535,2026-08-21T02:26:41+00:00,yes,2026-09-08T02:11:56+00:00,yes,Other
+9508536,https://log-kdckqdcjqwranmcbaqaqmsmqlfvsyh.opalooman.com/1NiIsInR5cCI6IkpXVCJ9yJvcmlnaW5hbFVybCI6Imh0dHBzOi8vbWFpbGVyLWkxZHh4dGE3aWJvbHoweG5lbXVpZms3d2dieGI1YjN5bXQzZG5lbXVpZms3d2/,http://www.phishtank.com/phish_detail.php?phish_id=9508536,2026-08-21T02:26:41+00:00,yes,2026-09-09T17:02:18+00:00,yes,Other
 9508508,http://allegrolokalnie.pl-45566.top,http://www.phishtank.com/phish_detail.php?phish_id=9508508,2026-08-20T23:52:32+00:00,yes,2026-08-21T00:04:05+00:00,yes,Allegro
 9508507,https://gtttn.top/jp,http://www.phishtank.com/phish_detail.php?phish_id=9508507,2026-08-20T23:52:22+00:00,yes,2026-08-21T00:04:05+00:00,yes,Other
 9508506,https://gtttv.top/jp,http://www.phishtank.com/phish_detail.php?phish_id=9508506,2026-08-20T23:52:07+00:00,yes,2026-08-21T00:04:05+00:00,yes,Other
@@ -2479,8 +2935,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9507720,https://ssagovgov.com/id2/,http://www.phishtank.com/phish_detail.php?phish_id=9507720,2026-08-19T18:04:02+00:00,yes,2026-08-19T18:32:36+00:00,yes,"Internal Revenue Service"
 9507718,https://ontwig.com/zhNacmH?/Hccnd,http://www.phishtank.com/phish_detail.php?phish_id=9507718,2026-08-19T18:02:49+00:00,yes,2026-08-19T18:32:36+00:00,yes,"Internal Revenue Service"
 9507710,http://allegrolokalnie.rezerwacja7624.lol/oferta/playstation-5-slim-1tb-nap%C4%99d-34-gry-cfji-2016a-gwarancja/194421945,http://www.phishtank.com/phish_detail.php?phish_id=9507710,2026-08-19T17:53:37+00:00,yes,2026-08-19T18:03:05+00:00,yes,Allegro
-9507700,https://zeydbuabj7367.com/,http://www.phishtank.com/phish_detail.php?phish_id=9507700,2026-08-19T17:39:00+00:00,yes,2026-08-20T08:03:07+00:00,yes,Other
-9507699,http://zeydbuabj7367.com,http://www.phishtank.com/phish_detail.php?phish_id=9507699,2026-08-19T17:38:59+00:00,yes,2026-08-19T17:52:19+00:00,yes,Other
 9507696,https://company-prodloan-limits.s3.us-east-005.backblazeb2.com/aumento.html,http://www.phishtank.com/phish_detail.php?phish_id=9507696,2026-08-19T17:34:20+00:00,yes,2026-08-19T17:42:32+00:00,yes,Other
 9507690,https://bratsk.pb3.duckdns.org/,http://www.phishtank.com/phish_detail.php?phish_id=9507690,2026-08-19T17:14:21+00:00,yes,2026-08-19T17:22:29+00:00,yes,Other
 9507689,http://mi.pb3.duckdns.org/,http://www.phishtank.com/phish_detail.php?phish_id=9507689,2026-08-19T17:12:29+00:00,yes,2026-08-19T17:22:29+00:00,yes,Other
@@ -2701,7 +3155,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9506825,https://allegrolokalnie.pl-oferta764129783.cfd/profesjonalny-t%C5%82umacz-translat/90511,http://www.phishtank.com/phish_detail.php?phish_id=9506825,2026-08-18T12:51:36+00:00,yes,2026-08-18T13:02:59+00:00,yes,Allegro
 9506817,https://prime-moncompte.info/,http://www.phishtank.com/phish_detail.php?phish_id=9506817,2026-08-18T12:43:39+00:00,yes,2026-08-18T12:52:28+00:00,yes,Amazon.com
 9506816,https://www.prime-moncompte.info/,http://www.phishtank.com/phish_detail.php?phish_id=9506816,2026-08-18T12:43:26+00:00,yes,2026-08-18T12:52:28+00:00,yes,Amazon.com
-9506806,https://3uwe63we.hair/offers/1d5epzty0?send_id=awxytlIAwOABfBsG,http://www.phishtank.com/phish_detail.php?phish_id=9506806,2026-08-18T12:05:19+00:00,yes,2026-08-21T21:22:25+00:00,yes,Other
 9506799,http://claim-771.netlify.app/,http://www.phishtank.com/phish_detail.php?phish_id=9506799,2026-08-18T11:54:35+00:00,yes,2026-08-18T12:03:07+00:00,yes,Other
 9506800,https://claim-771.netlify.app/,http://www.phishtank.com/phish_detail.php?phish_id=9506800,2026-08-18T11:54:35+00:00,yes,2026-08-18T12:03:07+00:00,yes,Other
 9506794,https://moncompteespaceclient.com/,http://www.phishtank.com/phish_detail.php?phish_id=9506794,2026-08-18T11:44:30+00:00,yes,2026-08-18T11:52:35+00:00,yes,Other
@@ -2920,8 +3373,13 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9505801,https://justotakuthings.com/deal/nglqoiqral,http://www.phishtank.com/phish_detail.php?phish_id=9505801,2026-08-17T03:57:21+00:00,yes,2026-08-17T04:03:10+00:00,yes,Apple
 9505799,https://yeydynoxqryw.top/jp,http://www.phishtank.com/phish_detail.php?phish_id=9505799,2026-08-17T03:56:09+00:00,yes,2026-08-17T04:03:10+00:00,yes,Amazon.com
 9505798,https://colagenoyhialuronico.com/deal/jozpfftevx,http://www.phishtank.com/phish_detail.php?phish_id=9505798,2026-08-17T03:54:57+00:00,yes,2026-08-17T04:03:10+00:00,yes,Amazon.com
+9505795,https://mzbep.com/wiki/9zHTcpxpXx,http://www.phishtank.com/phish_detail.php?phish_id=9505795,2026-08-17T03:03:39+00:00,yes,2026-09-09T17:02:18+00:00,yes,Amazon.com
+9505791,https://mxlvz.com/forward/mT8Xhm1vos,http://www.phishtank.com/phish_detail.php?phish_id=9505791,2026-08-17T02:52:25+00:00,yes,2026-09-09T17:02:18+00:00,yes,Amazon.com
+9505790,https://mlpxp.com/view/si2YbXxy4c,http://www.phishtank.com/phish_detail.php?phish_id=9505790,2026-08-17T02:51:56+00:00,yes,2026-09-09T17:02:18+00:00,yes,Amazon.com
 9505789,https://www.halsocrest.shop/domesticescv/shoufu/standardsets/reevglularcidio=PR1002,http://www.phishtank.com/phish_detail.php?phish_id=9505789,2026-08-17T02:50:40+00:00,yes,2026-08-17T03:03:24+00:00,yes,Other
 9505787,https://tr.ee/Xh77da,http://www.phishtank.com/phish_detail.php?phish_id=9505787,2026-08-17T02:29:35+00:00,yes,2026-08-17T02:32:34+00:00,yes,Apple
+9505769,https://highdpi-ads.com/uid_jsMNcaeo/DQsBV?ticket=6uEVXvM6,http://www.phishtank.com/phish_detail.php?phish_id=9505769,2026-08-17T02:06:51+00:00,yes,2026-09-09T17:02:18+00:00,yes,"JCB Card"
+9505768,https://highdpi-ads.com/uid_gM05Yf7u/ss307?ticket=Eq5ivbUf,http://www.phishtank.com/phish_detail.php?phish_id=9505768,2026-08-17T01:54:22+00:00,yes,2026-09-09T17:02:18+00:00,yes,"JCB Card"
 9505766,https://justekg.com/hlbn,http://www.phishtank.com/phish_detail.php?phish_id=9505766,2026-08-17T01:23:40+00:00,yes,2026-08-19T13:32:17+00:00,yes,Other
 9505765,https://mxlvz.com/out/esW1oitLRn,http://www.phishtank.com/phish_detail.php?phish_id=9505765,2026-08-17T01:23:12+00:00,yes,2026-08-17T01:32:21+00:00,yes,Other
 9505761,https://allegrolokalnie.lokalna-833.sbs/,http://www.phishtank.com/phish_detail.php?phish_id=9505761,2026-08-17T00:48:50+00:00,yes,2026-08-17T00:52:26+00:00,yes,Allegro
@@ -2933,8 +3391,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9505749,https://p93u1.bgp04.sbs/,http://www.phishtank.com/phish_detail.php?phish_id=9505749,2026-08-17T00:20:47+00:00,yes,2026-08-17T00:22:27+00:00,yes,Other
 9505748,https://p93u1.bgp04.sbs/?r=,http://www.phishtank.com/phish_detail.php?phish_id=9505748,2026-08-17T00:20:30+00:00,yes,2026-08-17T00:22:28+00:00,yes,Other
 9505747,https://suuzwsvomtk.sixiakq.com/,http://www.phishtank.com/phish_detail.php?phish_id=9505747,2026-08-17T00:19:48+00:00,yes,2026-08-17T00:22:28+00:00,yes,Other
-9505746,https://suuzwsvomtk.sixiakq.com/mljouqd/?r=,http://www.phishtank.com/phish_detail.php?phish_id=9505746,2026-08-17T00:18:50+00:00,yes,2026-08-17T12:02:51+00:00,yes,Other
-9505745,https://suuzwsvomtk.sixiakq.com/mljouqd?r=,http://www.phishtank.com/phish_detail.php?phish_id=9505745,2026-08-17T00:18:48+00:00,yes,2026-08-17T00:22:28+00:00,yes,Other
 9505743,https://allegrolokalnie.rezerwacja5645.lol,http://www.phishtank.com/phish_detail.php?phish_id=9505743,2026-08-17T00:05:56+00:00,yes,2026-08-17T00:12:34+00:00,yes,Allegro
 9505741,https://gastric-turquoise-uqpzxsmk.edgeone.dev/,http://www.phishtank.com/phish_detail.php?phish_id=9505741,2026-08-16T23:51:47+00:00,yes,2026-08-17T00:03:25+00:00,yes,Other
 9505740,https://cpcontacts.129-121-126-107.cprapid.com/login/,http://www.phishtank.com/phish_detail.php?phish_id=9505740,2026-08-16T23:50:30+00:00,yes,2026-08-17T00:03:25+00:00,yes,Other
@@ -3526,6 +3982,8 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9503218,https://facebook.market-34545647656.club/,http://www.phishtank.com/phish_detail.php?phish_id=9503218,2026-08-12T10:21:46+00:00,yes,2026-08-12T10:32:34+00:00,yes,Facebook
 9503217,https://facebook.market-34545647656.club/index.php,http://www.phishtank.com/phish_detail.php?phish_id=9503217,2026-08-12T10:21:36+00:00,yes,2026-08-12T10:32:34+00:00,yes,Facebook
 9503205,https://eiffage-recrutement-chantier.com,http://www.phishtank.com/phish_detail.php?phish_id=9503205,2026-08-12T09:59:16+00:00,yes,2026-08-12T10:03:10+00:00,yes,Other
+9503202,https://hm.revenue-declarations.com/,http://www.phishtank.com/phish_detail.php?phish_id=9503202,2026-08-12T09:53:37+00:00,yes,2026-09-09T17:02:19+00:00,yes,"Her Majesty's Revenue and Customs"
+9503203,https://hm.revenue-declarations.com/home.php,http://www.phishtank.com/phish_detail.php?phish_id=9503203,2026-08-12T09:53:37+00:00,yes,2026-09-09T17:02:19+00:00,yes,"Her Majesty's Revenue and Customs"
 9503186,http://allegrolokalnie.283101.pl/allegrolokalnie.js?v=1786440650866,http://www.phishtank.com/phish_detail.php?phish_id=9503186,2026-08-12T09:25:01+00:00,yes,2026-08-12T09:32:32+00:00,yes,Allegro
 9503180,http://allegrolokalnie.283101.pl/guard.js?v=1786440650870,http://www.phishtank.com/phish_detail.php?phish_id=9503180,2026-08-12T09:19:27+00:00,yes,2026-08-12T09:22:28+00:00,yes,Allegro
 9503167,https://focused-ivory-owl.31-22-7-7.cpanel.site/alt/in/,http://www.phishtank.com/phish_detail.php?phish_id=9503167,2026-08-12T08:10:27+00:00,yes,2026-08-12T08:22:29+00:00,yes,Other
@@ -3686,7 +4144,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9502608,https://prime-renew.co/blog/blog.php,http://www.phishtank.com/phish_detail.php?phish_id=9502608,2026-08-11T13:47:13+00:00,yes,2026-08-11T13:52:22+00:00,yes,Amazon.com
 9502607,https://prime-renew.co/index.php,http://www.phishtank.com/phish_detail.php?phish_id=9502607,2026-08-11T13:47:12+00:00,yes,2026-08-11T13:52:22+00:00,yes,Amazon.com
 9502591,https://allegrolokalnie.lokalna-ofeta8265384.lol/oferta/Du%C5%BCy-basen-ogrodowy-Intex-o-wymiarach-730366132/650881563,http://www.phishtank.com/phish_detail.php?phish_id=9502591,2026-08-11T13:22:43+00:00,yes,2026-08-11T13:32:32+00:00,yes,Allegro
-9502577,https://3wr6xkt.casa/offers/p3hxp2jnb?send_id=GN2004TiRaHPwSUP,http://www.phishtank.com/phish_detail.php?phish_id=9502577,2026-08-11T12:42:59+00:00,yes,2026-08-17T22:12:21+00:00,yes,Other
 9502557,https://netfiix-supp.com/,http://www.phishtank.com/phish_detail.php?phish_id=9502557,2026-08-11T12:03:45+00:00,yes,2026-08-11T12:12:23+00:00,yes,Netflix
 9502556,https://netfiix-supp.com/calcul,http://www.phishtank.com/phish_detail.php?phish_id=9502556,2026-08-11T12:03:36+00:00,yes,2026-08-11T12:12:23+00:00,yes,Netflix
 9502518,https://sofnco.com/,http://www.phishtank.com/phish_detail.php?phish_id=9502518,2026-08-11T10:14:54+00:00,yes,2026-08-11T11:22:30+00:00,yes,Other
@@ -3778,7 +4235,11 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9502010,https://uivvasortemais.vercel.app/,http://www.phishtank.com/phish_detail.php?phish_id=9502010,2026-08-10T15:18:42+00:00,yes,2026-08-10T19:22:25+00:00,yes,Other
 9502004,https://client.nexusjewell.com/,http://www.phishtank.com/phish_detail.php?phish_id=9502004,2026-08-10T15:09:29+00:00,yes,2026-08-10T19:22:25+00:00,yes,Other
 9502003,https://client.nexusjewell.com/captcha.php,http://www.phishtank.com/phish_detail.php?phish_id=9502003,2026-08-10T15:09:15+00:00,yes,2026-08-10T19:22:25+00:00,yes,Other
+9501974,https://tax-crypto-declare.com/home.php,http://www.phishtank.com/phish_detail.php?phish_id=9501974,2026-08-10T14:48:07+00:00,yes,2026-09-09T17:02:19+00:00,yes,"Her Majesty's Revenue and Customs"
+9501973,https://tax-crypto-declare.com/,http://www.phishtank.com/phish_detail.php?phish_id=9501973,2026-08-10T14:48:06+00:00,yes,2026-09-09T17:02:19+00:00,yes,"Her Majesty's Revenue and Customs"
 9501969,https://portalpf.seunovomundo.site/inicio,http://www.phishtank.com/phish_detail.php?phish_id=9501969,2026-08-10T14:46:38+00:00,yes,2026-08-10T19:12:17+00:00,yes,Bradesco
+9501962,https://hm.revenue-declarations.com/app/home.php,http://www.phishtank.com/phish_detail.php?phish_id=9501962,2026-08-10T14:46:06+00:00,yes,2026-09-09T17:02:19+00:00,yes,"Her Majesty's Revenue and Customs"
+9501959,https://driving.review-gb.com/,http://www.phishtank.com/phish_detail.php?phish_id=9501959,2026-08-10T14:43:21+00:00,yes,2026-09-09T17:02:19+00:00,yes,"Her Majesty's Revenue and Customs"
 9501956,https://apple.pay-wallet-review.com/,http://www.phishtank.com/phish_detail.php?phish_id=9501956,2026-08-10T14:40:54+00:00,yes,2026-08-10T19:12:17+00:00,yes,Apple
 9501939,https://registro-digital-apkjm-2026.cr-web.workers.dev,http://www.phishtank.com/phish_detail.php?phish_id=9501939,2026-08-10T14:28:18+00:00,yes,2026-08-10T19:03:00+00:00,yes,Other
 9501930,https://storage.googleapis.com/jintylost/addfrar/adhaidddhaw/rsdgmaiallfrend/adhaaidlab.html#redirect.html?4100876KQ17164917vt120080620nW5900pD24Ovr251851yN,http://www.phishtank.com/phish_detail.php?phish_id=9501930,2026-08-10T14:15:50+00:00,yes,2026-08-10T17:32:30+00:00,yes,"Internal Revenue Service"
@@ -3887,8 +4348,11 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9501605,https://credit.agricole-aide.com/,http://www.phishtank.com/phish_detail.php?phish_id=9501605,2026-08-10T04:43:20+00:00,yes,2026-08-10T04:52:17+00:00,yes,Other
 9501604,https://credit.agricole-aide.com/index.php,http://www.phishtank.com/phish_detail.php?phish_id=9501604,2026-08-10T04:43:10+00:00,yes,2026-08-10T04:52:17+00:00,yes,Other
 9501594,https://cornhqcv-online.icu/?secure_connect=jgpmiB&_subid=2tgv2t4.32.2q1pl&_token=pmbu8u3nqvi4f.1786416978.1.2453d49bd404bb2f2b8e0b413559315c,http://www.phishtank.com/phish_detail.php?phish_id=9501594,2026-08-10T03:56:59+00:00,yes,2026-08-10T04:03:16+00:00,yes,Other
+9501593,https://shengfucheng.com/Scx7gLCD?ticket=YwhypsGV8N,http://www.phishtank.com/phish_detail.php?phish_id=9501593,2026-08-10T03:51:01+00:00,yes,2026-09-09T17:02:19+00:00,yes,Other
 9501589,http://testificaria.us/update/index.php?emp=aaaa@example.jp,http://www.phishtank.com/phish_detail.php?phish_id=9501589,2026-08-10T03:27:55+00:00,yes,2026-08-10T03:32:44+00:00,yes,Other
+9501584,https://bjlivecircle.com/slkg/wigd,http://www.phishtank.com/phish_detail.php?phish_id=9501584,2026-08-10T02:50:46+00:00,yes,2026-09-09T17:02:19+00:00,yes,Amazon.com
 9501582,https://shgesheng.com/page/ukhdhtkitf,http://www.phishtank.com/phish_detail.php?phish_id=9501582,2026-08-10T02:38:14+00:00,yes,2026-08-10T02:52:15+00:00,yes,Other
+9501576,https://shkelou.com/?label=38d5d963ea7b76e6df243da9ec4a9205,http://www.phishtank.com/phish_detail.php?phish_id=9501576,2026-08-10T02:28:03+00:00,yes,2026-09-09T17:02:19+00:00,yes,"Sumitomo Mitsui Banking Corporation"
 9501572,https://new-safe.com/,http://www.phishtank.com/phish_detail.php?phish_id=9501572,2026-08-10T02:13:10+00:00,yes,2026-08-10T02:52:15+00:00,yes,Other
 9501570,https://jh-sl.com/,http://www.phishtank.com/phish_detail.php?phish_id=9501570,2026-08-10T02:09:36+00:00,yes,2026-08-10T02:52:15+00:00,yes,Other
 9501569,https://ana-co.cafelevain.com/amc-tamerun-jp,http://www.phishtank.com/phish_detail.php?phish_id=9501569,2026-08-10T02:09:09+00:00,yes,2026-08-10T02:52:15+00:00,yes,Other
@@ -3946,8 +4410,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9501231,http://musanedsa.netlify.app,http://www.phishtank.com/phish_detail.php?phish_id=9501231,2026-08-09T16:21:04+00:00,yes,2026-08-10T01:32:38+00:00,yes,Other
 9501232,https://musanedsa.netlify.app/,http://www.phishtank.com/phish_detail.php?phish_id=9501232,2026-08-09T16:21:04+00:00,yes,2026-08-10T01:32:38+00:00,yes,Other
 9501221,http://allegrolokalnie.pl-oferta75328953.surf/oferta/jbl-partybox-720-nowa-z-2-akumulatorami-i-gwarancja,http://www.phishtank.com/phish_detail.php?phish_id=9501221,2026-08-09T15:53:35+00:00,yes,2026-08-10T01:32:38+00:00,yes,Allegro
-9501193,https://ulys-rappel.fr/,http://www.phishtank.com/phish_detail.php?phish_id=9501193,2026-08-09T14:17:31+00:00,yes,2026-08-09T14:22:22+00:00,yes,Other
-9501192,https://ulys-rappel.fr/support/alert/,http://www.phishtank.com/phish_detail.php?phish_id=9501192,2026-08-09T14:17:21+00:00,yes,2026-08-09T14:22:22+00:00,yes,Other
 9501191,https://fcedback-al1egro.pl6p.ink/5325667/?comment=d3r55fbe43701111deg5376aec3221ba,http://www.phishtank.com/phish_detail.php?phish_id=9501191,2026-08-09T14:14:01+00:00,yes,2026-08-09T14:22:22+00:00,yes,Allegro
 9501190,https://placid-checkbox-480096.framer.app/,http://www.phishtank.com/phish_detail.php?phish_id=9501190,2026-08-09T14:10:40+00:00,yes,2026-08-09T14:22:22+00:00,yes,Other
 9501136,https://rapid-scene-df90.2415054122105.workers.dev/,http://www.phishtank.com/phish_detail.php?phish_id=9501136,2026-08-09T12:59:11+00:00,yes,2026-08-09T13:03:16+00:00,yes,Other
@@ -4591,6 +5053,7 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9499492,http://4sesor14d3cuenta.webcindario.com/,http://www.phishtank.com/phish_detail.php?phish_id=9499492,2026-08-07T13:46:31+00:00,yes,2026-08-07T13:52:30+00:00,yes,Other
 9499462,https://lhp.pyz.mybluehost.me/login///,http://www.phishtank.com/phish_detail.php?phish_id=9499462,2026-08-07T13:27:47+00:00,yes,2026-08-07T13:33:14+00:00,yes,Other
 9499460,https://tr.ee/a67KBs,http://www.phishtank.com/phish_detail.php?phish_id=9499460,2026-08-07T13:25:30+00:00,yes,2026-08-07T13:33:14+00:00,yes,Other
+9499444,https://1b6mq64vhc.coachbart.be/?id=dspace.cuni.cz&amp;token=53246646afadfeb4a5afe4,http://www.phishtank.com/phish_detail.php?phish_id=9499444,2026-08-07T13:12:12+00:00,yes,2026-09-09T16:32:17+00:00,yes,Other
 9499416,https://sav-customer-reglementation.com/,http://www.phishtank.com/phish_detail.php?phish_id=9499416,2026-08-07T12:54:34+00:00,yes,2026-08-07T13:03:18+00:00,yes,Other
 9499415,https://sav-customer-reglementation.com/captcha,http://www.phishtank.com/phish_detail.php?phish_id=9499415,2026-08-07T12:54:23+00:00,yes,2026-08-07T13:03:18+00:00,yes,Other
 9499401,http://moonshot-listing-ken.netlify.app/,http://www.phishtank.com/phish_detail.php?phish_id=9499401,2026-08-07T12:42:34+00:00,yes,2026-08-07T12:52:25+00:00,yes,Other
@@ -4636,7 +5099,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9499227,https://allegrolokalnie.bezpieczna-transakcja583741926815407.click,http://www.phishtank.com/phish_detail.php?phish_id=9499227,2026-08-07T09:36:50+00:00,yes,2026-08-07T09:42:28+00:00,yes,Allegro
 9499224,http://msjulxsk.us.cc/5g/home.html,http://www.phishtank.com/phish_detail.php?phish_id=9499224,2026-08-07T09:25:13+00:00,yes,2026-08-07T09:33:06+00:00,yes,Other
 9499207,https://rest0.fr/Lpg,http://www.phishtank.com/phish_detail.php?phish_id=9499207,2026-08-07T08:03:31+00:00,yes,2026-08-07T08:12:34+00:00,yes,"SociÃ©tÃ© GÃ©nÃ©rale"
-9499206,https://particuliers-sgverificationauthentifications.connexionservicecon.com/YlAmzuIzpa896,http://www.phishtank.com/phish_detail.php?phish_id=9499206,2026-08-07T08:03:06+00:00,yes,2026-08-07T08:12:34+00:00,yes,"SociÃ©tÃ© GÃ©nÃ©rale"
 9499203,http://m40721831.pro/,http://www.phishtank.com/phish_detail.php?phish_id=9499203,2026-08-07T07:46:57+00:00,yes,2026-08-07T07:52:12+00:00,yes,Other
 9499202,http://suivre5996t.m40721831.pro/,http://www.phishtank.com/phish_detail.php?phish_id=9499202,2026-08-07T07:46:34+00:00,yes,2026-08-07T07:52:12+00:00,yes,Other
 9499183,https://ebok-pl.a1one.cc/pages/login.php,http://www.phishtank.com/phish_detail.php?phish_id=9499183,2026-08-07T06:41:37+00:00,yes,2026-08-07T06:52:32+00:00,yes,Other
@@ -5023,7 +5485,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9498058,https://heavenly-friday-987120.framer.app/,http://www.phishtank.com/phish_detail.php?phish_id=9498058,2026-08-06T03:22:21+00:00,yes,2026-08-06T17:22:36+00:00,yes,Other
 9498057,https://signinxfinity.weebly.com/,http://www.phishtank.com/phish_detail.php?phish_id=9498057,2026-08-06T03:22:19+00:00,yes,2026-08-06T17:22:36+00:00,yes,Other
 9498056,https://first-light-service-374685.weebly.com/,http://www.phishtank.com/phish_detail.php?phish_id=9498056,2026-08-06T03:22:16+00:00,yes,2026-08-06T17:22:36+00:00,yes,Other
-9498055,https://idmeorangelogin.framer.ai/,http://www.phishtank.com/phish_detail.php?phish_id=9498055,2026-08-06T03:22:14+00:00,yes,2026-08-06T17:22:36+00:00,yes,Other
 9498054,https://everwlseioglnaccssuth.weebly.com/,http://www.phishtank.com/phish_detail.php?phish_id=9498054,2026-08-06T03:22:11+00:00,yes,2026-08-06T17:22:36+00:00,yes,Other
 9498053,https://aaavvveeronsss.framer.website/,http://www.phishtank.com/phish_detail.php?phish_id=9498053,2026-08-06T03:22:09+00:00,yes,2026-08-06T17:22:36+00:00,yes,Other
 9498052,https://mailupdatecomcast.weebly.com/,http://www.phishtank.com/phish_detail.php?phish_id=9498052,2026-08-06T03:22:06+00:00,yes,2026-08-06T17:22:36+00:00,yes,Other
@@ -5086,7 +5547,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9497955,https://lo928372.pro/,http://www.phishtank.com/phish_detail.php?phish_id=9497955,2026-08-05T23:19:56+00:00,yes,2026-08-05T23:32:31+00:00,yes,Other
 9497954,https://votre-cm9.pro/?continuer29293,http://www.phishtank.com/phish_detail.php?phish_id=9497954,2026-08-05T23:19:23+00:00,yes,2026-08-05T23:32:31+00:00,yes,Other
 9497947,https://lar2938840.pro/,http://www.phishtank.com/phish_detail.php?phish_id=9497947,2026-08-05T22:40:06+00:00,yes,2026-08-05T22:52:27+00:00,yes,Other
-9497945,https://gerer-suivi0293.pro/?d1sp4tc3n,http://www.phishtank.com/phish_detail.php?phish_id=9497945,2026-08-05T22:39:30+00:00,yes,2026-08-05T22:42:34+00:00,yes,Other
 9497935,http://allegrolokalinie.pl-8749014.shop/oferta/dji-osmo-pocket-4-standard-combo-4k-nowa-e4a81f3b,http://www.phishtank.com/phish_detail.php?phish_id=9497935,2026-08-05T22:33:06+00:00,yes,2026-08-05T22:42:34+00:00,yes,Allegro
 9497928,https://login.bitbrowserw.cn/login,http://www.phishtank.com/phish_detail.php?phish_id=9497928,2026-08-05T22:28:52+00:00,yes,2026-08-05T22:32:23+00:00,yes,Other
 9497927,https://login.9b2019.com/,http://www.phishtank.com/phish_detail.php?phish_id=9497927,2026-08-05T22:28:39+00:00,yes,2026-08-05T22:32:23+00:00,yes,Other
@@ -5425,8 +5885,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9496884,https://secupassactualisation-sg.com/,http://www.phishtank.com/phish_detail.php?phish_id=9496884,2026-08-04T21:45:34+00:00,yes,2026-08-04T21:52:18+00:00,yes,"SociÃ©tÃ© GÃ©nÃ©rale"
 9496883,https://secupassactualisation-sg.com/index.php,http://www.phishtank.com/phish_detail.php?phish_id=9496883,2026-08-04T21:45:22+00:00,yes,2026-08-04T21:52:18+00:00,yes,"SociÃ©tÃ© GÃ©nÃ©rale"
 9496878,https://sandeepkalsi.in/map/index.html,http://www.phishtank.com/phish_detail.php?phish_id=9496878,2026-08-04T21:29:06+00:00,yes,2026-08-07T21:22:30+00:00,yes,Other
-9496859,https://activation-secur.com/,http://www.phishtank.com/phish_detail.php?phish_id=9496859,2026-08-04T21:08:34+00:00,yes,2026-08-05T00:12:38+00:00,yes,"SociÃ©tÃ© GÃ©nÃ©rale"
-9496858,https://activation-secur.com/index.php,http://www.phishtank.com/phish_detail.php?phish_id=9496858,2026-08-04T21:08:33+00:00,yes,2026-08-04T21:12:34+00:00,yes,"SociÃ©tÃ© GÃ©nÃ©rale"
 9496849,https://mu.jpjy-08.shop/,http://www.phishtank.com/phish_detail.php?phish_id=9496849,2026-08-04T21:02:13+00:00,yes,2026-08-04T21:12:34+00:00,yes,Other
 9496833,https://allegrolokalnie.alleprodukt58932.sbs/oferta/Gogle-VR-Meta-Quest-3/655691063?fbclid=IwY2xjawTfFDtleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR489krSel4wE-UoWpT1taV2KRzD_9um6IvemQ8xPPIGk4M3pmeIVQjBTwER_Q_aem_OoT4qIEhF5atoOEMl2zjcg,http://www.phishtank.com/phish_detail.php?phish_id=9496833,2026-08-04T20:54:44+00:00,yes,2026-08-04T21:03:11+00:00,yes,Allegro
 9496822,https://prime-subscrition.info/,http://www.phishtank.com/phish_detail.php?phish_id=9496822,2026-08-04T20:42:05+00:00,yes,2026-08-04T20:52:22+00:00,yes,Amazon.com
@@ -5750,6 +6208,7 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9495403,https://netrenuevaes.com/,http://www.phishtank.com/phish_detail.php?phish_id=9495403,2026-08-03T07:20:38+00:00,yes,2026-08-03T07:22:28+00:00,yes,Netflix
 9495402,https://netrenuevaes.com/captcha,http://www.phishtank.com/phish_detail.php?phish_id=9495402,2026-08-03T07:20:30+00:00,yes,2026-08-03T07:22:28+00:00,yes,Netflix
 9495398,https://register-gov.ap-my1.com/trg/,http://www.phishtank.com/phish_detail.php?phish_id=9495398,2026-08-03T07:05:16+00:00,yes,2026-08-05T10:32:47+00:00,yes,Other
+9495392,https://zupgn.dtpxkt.com/f2adb8b2-0564-b9e2-d132-2d73cfc0cf41/%E2%93%8A%E2%99%AB%E3%8A%AA%E2%99%AE%E2%99%95%E2%9E%B9%E2%9E%B5=kpqmtn,http://www.phishtank.com/phish_detail.php?phish_id=9495392,2026-08-03T06:56:07+00:00,yes,2026-09-09T17:02:20+00:00,yes,Other
 9495387,https://aruba-secure.connessione-sicura.online/ITALIA/POST/LGN.php,http://www.phishtank.com/phish_detail.php?phish_id=9495387,2026-08-03T06:51:39+00:00,yes,2026-08-03T07:03:05+00:00,yes,Other
 9495386,https://905874987verxgdfsdaswffavdsg79ad77aadfgsbghdr5.s3-eu-central-2.ionoscloud.com/sso/index.html?data=aW9kQHBrb2JwLnBs,http://www.phishtank.com/phish_detail.php?phish_id=9495386,2026-08-03T06:51:33+00:00,yes,2026-08-07T21:22:30+00:00,yes,Other
 9495380,https://aruba-secure.connessione-sicura.online/ITALIA/CIAO/LGN/index.php,http://www.phishtank.com/phish_detail.php?phish_id=9495380,2026-08-03T06:42:14+00:00,yes,2026-08-03T06:52:19+00:00,yes,Other
@@ -5769,6 +6228,8 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9495288,https://mailbox-dpr3yixp1qk1.edgeone.dev/,http://www.phishtank.com/phish_detail.php?phish_id=9495288,2026-08-03T03:47:25+00:00,yes,2026-08-03T03:52:24+00:00,yes,Other
 9495285,https://remarkable-tetragon-108690.framer.app/,http://www.phishtank.com/phish_detail.php?phish_id=9495285,2026-08-03T03:45:11+00:00,yes,2026-08-03T03:52:24+00:00,yes,Orange
 9495284,https://bt-home-107437fvg.weeblysite.com/,http://www.phishtank.com/phish_detail.php?phish_id=9495284,2026-08-03T03:43:07+00:00,yes,2026-08-03T03:52:24+00:00,yes,"British Telecom"
+9495255,https://dlshouxian.com/content/zxmsQuLU5B,http://www.phishtank.com/phish_detail.php?phish_id=9495255,2026-08-03T02:14:01+00:00,yes,2026-09-09T17:02:21+00:00,yes,Amazon.com
+9495250,https://hongchalinsh.com/entry/djL5EQMShH,http://www.phishtank.com/phish_detail.php?phish_id=9495250,2026-08-03T01:58:26+00:00,yes,2026-09-09T17:02:21+00:00,yes,Amazon.com
 9495245,https://naissess.xjfllxa.cn/eD9490/index,http://www.phishtank.com/phish_detail.php?phish_id=9495245,2026-08-03T01:35:27+00:00,yes,2026-08-03T01:42:25+00:00,yes,Other
 9495234,https://stockhouse.com/registration/social-login?ec=a37aa67a-aec2-4afa-88c1-8f2fdb9762a5&amp;returnUrl=https://revviewfiles.es/jppppsss?email=aaaa@example.jp,http://www.phishtank.com/phish_detail.php?phish_id=9495234,2026-08-03T00:55:02+00:00,yes,2026-08-03T01:02:54+00:00,yes,Other
 9495233,http://allegrolokalnie.xoferta.lat,http://www.phishtank.com/phish_detail.php?phish_id=9495233,2026-08-03T00:53:28+00:00,yes,2026-08-03T01:02:54+00:00,yes,Allegro
@@ -6526,7 +6987,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9493890,https://vital-info.com/explain,http://www.phishtank.com/phish_detail.php?phish_id=9493890,2026-08-01T20:16:16+00:00,yes,2026-08-01T20:52:29+00:00,yes,Other
 9493883,http://allegro.0129g98349129.rest/lokalnie/?id=8p1u2o8z0i8s3p0h0j0a2v5u4g5v3a0p,http://www.phishtank.com/phish_detail.php?phish_id=9493883,2026-08-01T19:47:52+00:00,yes,2026-08-01T20:52:29+00:00,yes,Allegro
 9493882,http://allegro.0129g98349129.rest/lokalnie?id=8p1u2o8z0i8s3p0h0j0a2v5u4g5v3a0p,http://www.phishtank.com/phish_detail.php?phish_id=9493882,2026-08-01T19:47:51+00:00,yes,2026-08-01T20:52:29+00:00,yes,Allegro
-9493873,https://ppl-logacces.com/,http://www.phishtank.com/phish_detail.php?phish_id=9493873,2026-08-01T19:16:56+00:00,yes,2026-08-02T00:42:34+00:00,yes,PayPal
 9493872,https://ppl-logacces.com/index.php,http://www.phishtank.com/phish_detail.php?phish_id=9493872,2026-08-01T19:16:40+00:00,yes,2026-08-01T20:42:33+00:00,yes,PayPal
 9493862,https://allegrolokalnie.pl-oferta658937811.cfd/zamowienie/mlotowiertarka-milwaukee-k750s-sds-max-radio-m18/V56NCNou,http://www.phishtank.com/phish_detail.php?phish_id=9493862,2026-08-01T18:16:41+00:00,yes,2026-08-01T18:22:22+00:00,yes,Allegro
 9493848,http://metaamusk-un-wuleet.gitbook.io,http://www.phishtank.com/phish_detail.php?phish_id=9493848,2026-08-01T18:09:12+00:00,yes,2026-08-01T18:12:30+00:00,yes,Other
@@ -6667,7 +7127,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9493146,https://antai-dossier-1009.com/,http://www.phishtank.com/phish_detail.php?phish_id=9493146,2026-07-31T19:28:46+00:00,yes,2026-07-31T20:03:12+00:00,yes,Other
 9493144,https://antai-dossier-1009.com/index.php,http://www.phishtank.com/phish_detail.php?phish_id=9493144,2026-07-31T19:28:35+00:00,yes,2026-07-31T20:03:12+00:00,yes,Other
 9493131,https://allegrolokalnie.hpttl.sbs/oferta/Nintendo-Switch-2-konsola-w-bardzo-dobrym-stanie-akcesoria/820024302,http://www.phishtank.com/phish_detail.php?phish_id=9493131,2026-07-31T18:54:24+00:00,yes,2026-07-31T19:52:42+00:00,yes,Allegro
-9493120,https://abc-production-8bc4.up.railway.app/?c=d2&amp;m=500,http://www.phishtank.com/phish_detail.php?phish_id=9493120,2026-07-31T18:22:06+00:00,yes,2026-07-31T19:52:42+00:00,yes,Other
 9493113,https://www.google.hu/share.google?q=HKnuZQRgRsKQVPzsV,http://www.phishtank.com/phish_detail.php?phish_id=9493113,2026-07-31T18:10:45+00:00,yes,2026-07-31T19:52:42+00:00,yes,Other
 9493110,https://www.verkrs.vercel.app/,http://www.phishtank.com/phish_detail.php?phish_id=9493110,2026-07-31T18:08:57+00:00,yes,2026-07-31T19:42:34+00:00,yes,Other
 9493109,https://hometax.wuaze.com/?naps,http://www.phishtank.com/phish_detail.php?phish_id=9493109,2026-07-31T18:08:53+00:00,yes,2026-07-31T19:42:34+00:00,yes,Other
@@ -7516,7 +7975,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9492001,https://streaminghost.myvnc.com/captcha,http://www.phishtank.com/phish_detail.php?phish_id=9492001,2026-07-31T10:40:44+00:00,yes,2026-07-31T14:22:51+00:00,yes,Other
 9491983,https://fatturapagamento.click/.submit/unpaid.php,http://www.phishtank.com/phish_detail.php?phish_id=9491983,2026-07-31T10:00:48+00:00,yes,2026-07-31T14:22:51+00:00,yes,Other
 9491964,https://email-social.com,http://www.phishtank.com/phish_detail.php?phish_id=9491964,2026-07-31T09:08:06+00:00,yes,2026-08-01T21:12:50+00:00,yes,Other
-9491961,https://securipass-sosomaness.co/,http://www.phishtank.com/phish_detail.php?phish_id=9491961,2026-07-31T08:52:05+00:00,yes,2026-07-31T14:12:34+00:00,yes,"SociÃ©tÃ© GÃ©nÃ©rale"
 9491960,https://www.securipass-sosomaness.co/,http://www.phishtank.com/phish_detail.php?phish_id=9491960,2026-07-31T08:51:55+00:00,yes,2026-07-31T14:12:34+00:00,yes,"SociÃ©tÃ© GÃ©nÃ©rale"
 9491956,https://securipassinfo-sg.com/,http://www.phishtank.com/phish_detail.php?phish_id=9491956,2026-07-31T08:13:32+00:00,yes,2026-07-31T08:22:26+00:00,yes,"SociÃ©tÃ© GÃ©nÃ©rale"
 9491955,https://securipassinfo-sg.com/index.php,http://www.phishtank.com/phish_detail.php?phish_id=9491955,2026-07-31T08:13:21+00:00,yes,2026-07-31T08:22:26+00:00,yes,"SociÃ©tÃ© GÃ©nÃ©rale"
@@ -8368,7 +8826,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9490143,https://shaggy-tenets-541262.framer.app/,http://www.phishtank.com/phish_detail.php?phish_id=9490143,2026-07-29T12:32:56+00:00,yes,2026-07-29T13:32:39+00:00,yes,Other
 9490132,https://mon-colis-mrelay.info/,http://www.phishtank.com/phish_detail.php?phish_id=9490132,2026-07-29T12:18:51+00:00,yes,2026-07-29T13:22:40+00:00,yes,Other
 9490131,https://mon-colis-mrelay.info/captcha.php,http://www.phishtank.com/phish_detail.php?phish_id=9490131,2026-07-29T12:18:41+00:00,yes,2026-07-29T13:22:40+00:00,yes,Other
-9490129,https://idx-fattura456287.com/,http://www.phishtank.com/phish_detail.php?phish_id=9490129,2026-07-29T12:17:53+00:00,yes,2026-08-19T05:52:21+00:00,yes,Other
 9490116,https://yournetflixaccount.com/pages/index.php,http://www.phishtank.com/phish_detail.php?phish_id=9490116,2026-07-29T12:02:01+00:00,yes,2026-07-29T13:12:56+00:00,yes,Netflix
 9490115,https://yournetflixaccount.com/,http://www.phishtank.com/phish_detail.php?phish_id=9490115,2026-07-29T12:02:00+00:00,yes,2026-07-29T13:12:56+00:00,yes,Netflix
 9490114,https://yournetflixaccount.com/pages/captcha.php,http://www.phishtank.com/phish_detail.php?phish_id=9490114,2026-07-29T12:01:49+00:00,yes,2026-07-29T13:12:56+00:00,yes,Netflix
@@ -9052,7 +9509,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9486695,https://numerous-meerkat-769463.framer.app/,http://www.phishtank.com/phish_detail.php?phish_id=9486695,2026-07-24T03:48:15+00:00,yes,2026-07-26T17:03:09+00:00,yes,Other
 9486694,https://multiple-walkthroughs-956359.framer.app/,http://www.phishtank.com/phish_detail.php?phish_id=9486694,2026-07-24T03:46:26+00:00,yes,2026-07-26T17:03:09+00:00,yes,Other
 9486693,https://newone101.framer.website/,http://www.phishtank.com/phish_detail.php?phish_id=9486693,2026-07-24T03:44:11+00:00,yes,2026-07-26T17:03:09+00:00,yes,Microsoft
-9486685,https://ker3000.com/A3ZLRGKcjM.okinawa.jp,http://www.phishtank.com/phish_detail.php?phish_id=9486685,2026-07-24T02:49:47+00:00,yes,2026-08-01T20:03:19+00:00,yes,Amazon.com
 9486682,https://001dda.top/authenticationtokenDeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9yJvcmlnaW5hbFVybCI6Imh0dHBzOi8vbWFpbGVyLWkxZHh4dGE3aWJvbHoweG5lbXVpZms3d2dieGI1YjN5bXQzZG5lbXVpZms3d2?email=aaaa@example.jp,http://www.phishtank.com/phish_detail.php?phish_id=9486682,2026-07-24T02:21:27+00:00,yes,2026-07-26T17:03:09+00:00,yes,Other
 9486683,https://001dda.top/authenticationtokenDeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9yJvcmlnaW5hbFVybCI6Imh0dHBzOi8vbWFpbGVyLWkxZHh4dGE3aWJvbHoweG5lbXVpZms3d2dieGI1YjN5bXQzZG5lbXVpZms3d2/?email=aaaa@example.jp,http://www.phishtank.com/phish_detail.php?phish_id=9486683,2026-07-24T02:21:27+00:00,yes,2026-07-26T17:03:09+00:00,yes,Other
 9486675,https://sprl.me/DBS-SG,http://www.phishtank.com/phish_detail.php?phish_id=9486675,2026-07-24T01:07:21+00:00,yes,2026-07-26T17:03:09+00:00,yes,"Development Bank of Singapore"
@@ -9363,8 +9819,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9485081,http://allegrolokalnie.pl-7938485.click,http://www.phishtank.com/phish_detail.php?phish_id=9485081,2026-07-21T19:53:01+00:00,yes,2026-07-24T00:05:39+00:00,yes,Allegro
 9485067,https://zedelliveryoficial.vercel.app/,http://www.phishtank.com/phish_detail.php?phish_id=9485067,2026-07-21T19:33:53+00:00,yes,2026-07-24T00:05:39+00:00,yes,Other
 9485044,https://onlines-orderis.rest/orders/ce16694a/meble/bank/id24426?excluded_banks=id24424%2Cid24430,http://www.phishtank.com/phish_detail.php?phish_id=9485044,2026-07-21T18:56:24+00:00,yes,2026-07-24T00:05:39+00:00,yes,Other
-9485028,https://jcdredirecsociete.com/,http://www.phishtank.com/phish_detail.php?phish_id=9485028,2026-07-21T18:30:23+00:00,yes,2026-07-24T00:05:39+00:00,yes,Other
-9485027,https://jcdredirecsociete.com/index.php,http://www.phishtank.com/phish_detail.php?phish_id=9485027,2026-07-21T18:30:13+00:00,yes,2026-07-24T00:05:39+00:00,yes,Other
 9485001,https://atualizarbrad.dynv6.net/mobile/index.php?hash=3761489406a5f94561833e3.86355475,http://www.phishtank.com/phish_detail.php?phish_id=9485001,2026-07-21T18:05:10+00:00,yes,2026-07-24T00:05:39+00:00,yes,Other
 9484999,https://tinyurl.com/njbst7sx,http://www.phishtank.com/phish_detail.php?phish_id=9484999,2026-07-21T18:05:05+00:00,yes,2026-07-24T00:05:39+00:00,yes,Other
 9484986,https://klelnanzeigen-deutch.xtlgj.com/62H1omJQo0?m=12,http://www.phishtank.com/phish_detail.php?phish_id=9484986,2026-07-21T17:55:23+00:00,yes,2026-07-24T00:05:39+00:00,yes,Other
@@ -9682,8 +10136,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9483405,https://metsxmasklognux.gitbook.io/us,http://www.phishtank.com/phish_detail.php?phish_id=9483405,2026-07-19T12:41:32+00:00,yes,2026-07-22T00:05:22+00:00,yes,Other
 9483404,https://armantraders.com/wp/wp-content/doc/payslip.html,http://www.phishtank.com/phish_detail.php?phish_id=9483404,2026-07-19T12:39:09+00:00,yes,2026-07-22T00:05:22+00:00,yes,Other
 9483403,https://facebooks-logins.onrender.com/,http://www.phishtank.com/phish_detail.php?phish_id=9483403,2026-07-19T12:36:18+00:00,yes,2026-07-22T00:05:22+00:00,yes,Facebook
-9483402,https://www.service-mksports.com/account/,http://www.phishtank.com/phish_detail.php?phish_id=9483402,2026-07-19T12:28:29+00:00,yes,2026-07-22T00:05:22+00:00,yes,"American Express"
-9483401,https://www.service-mksports.com/account/turnstile-check,http://www.phishtank.com/phish_detail.php?phish_id=9483401,2026-07-19T12:27:43+00:00,yes,2026-07-22T00:05:22+00:00,yes,"American Express"
 9483399,https://pcesv-onllme.xyz/?secure_connect=207kka*d&_subid=3jjirb1.4b.2ehdr&_token=30t2ntatnuft.1784549768.1.806b0ce1ae0fe20613b327f5a9c88d39,http://www.phishtank.com/phish_detail.php?phish_id=9483399,2026-07-19T12:17:34+00:00,yes,2026-07-22T00:05:22+00:00,yes,Other
 9483387,https://live-usnew.wixstudio.com/us-en,http://www.phishtank.com/phish_detail.php?phish_id=9483387,2026-07-19T11:10:44+00:00,yes,2026-07-22T00:05:22+00:00,yes,Other
 9483386,https://home-ledge-apps.wixstudio.com/us-en,http://www.phishtank.com/phish_detail.php?phish_id=9483386,2026-07-19T11:10:35+00:00,yes,2026-07-22T00:05:22+00:00,yes,Other
@@ -9774,7 +10226,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9482920,https://ferreteria-itauhin-dd46ca.netlify.app/,http://www.phishtank.com/phish_detail.php?phish_id=9482920,2026-07-18T15:25:45+00:00,yes,2026-07-22T00:05:24+00:00,yes,Other
 9482911,http://allegrolokalnie.2848124.sbs,http://www.phishtank.com/phish_detail.php?phish_id=9482911,2026-07-18T14:54:04+00:00,yes,2026-07-22T00:05:24+00:00,yes,Allegro
 9482910,http://allegro.2848124.sbs,http://www.phishtank.com/phish_detail.php?phish_id=9482910,2026-07-18T14:53:58+00:00,yes,2026-07-22T00:05:24+00:00,yes,Allegro
-9482906,https://usps.us-tcpyj.life/,http://www.phishtank.com/phish_detail.php?phish_id=9482906,2026-07-18T14:43:49+00:00,yes,2026-07-22T00:05:24+00:00,yes,Other
 9482902,http://allegrolokalnie.pl-oferta8298749.click,http://www.phishtank.com/phish_detail.php?phish_id=9482902,2026-07-18T13:57:10+00:00,yes,2026-07-22T00:05:24+00:00,yes,Allegro
 9482901,http://allegrolokalnie.lokalna-93882713232.sbs,http://www.phishtank.com/phish_detail.php?phish_id=9482901,2026-07-18T13:57:05+00:00,yes,2026-07-22T00:05:24+00:00,yes,Allegro
 9482900,http://allegrolokalnie.pl-oferta0183001830101898.click,http://www.phishtank.com/phish_detail.php?phish_id=9482900,2026-07-18T13:57:01+00:00,yes,2026-07-22T00:05:24+00:00,yes,Allegro
@@ -9980,7 +10431,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9482049,https://maindoc-app-md8gw.ondigitalocean.app/,http://www.phishtank.com/phish_detail.php?phish_id=9482049,2026-07-17T04:16:01+00:00,yes,2026-07-18T06:12:31+00:00,yes,DocuSign
 9482048,https://website-a66beb8a.fcp.wnv.mybluehost.me/,http://www.phishtank.com/phish_detail.php?phish_id=9482048,2026-07-17T04:13:51+00:00,yes,2026-07-18T06:12:31+00:00,yes,Apple
 9482046,https://drfarzanamatin.com/wp-includes/coge,http://www.phishtank.com/phish_detail.php?phish_id=9482046,2026-07-17T04:11:25+00:00,yes,2026-07-18T06:12:31+00:00,yes,Other
-9482045,https://drfarzanamatin.com/wp-includes/coge/,http://www.phishtank.com/phish_detail.php?phish_id=9482045,2026-07-17T04:11:00+00:00,yes,2026-07-18T06:12:31+00:00,yes,Other
 9482044,https://server-index-page--gutpunchedac.replit.app/,http://www.phishtank.com/phish_detail.php?phish_id=9482044,2026-07-17T04:07:05+00:00,yes,2026-07-18T06:12:31+00:00,yes,Microsoft
 9482043,https://server-docs--aero-hold.replit.app/,http://www.phishtank.com/phish_detail.php?phish_id=9482043,2026-07-17T04:05:49+00:00,yes,2026-07-18T06:12:31+00:00,yes,Microsoft
 9482042,https://ndaxogln.webflow.io/,http://www.phishtank.com/phish_detail.php?phish_id=9482042,2026-07-17T04:02:51+00:00,yes,2026-07-18T06:12:31+00:00,yes,Other
@@ -11360,7 +11810,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9477915,http://allegrolokalne.pl-smart758718581.pl,http://www.phishtank.com/phish_detail.php?phish_id=9477915,2026-07-13T17:38:35+00:00,yes,2026-07-13T17:52:41+00:00,yes,Allegro
 9477914,http://allegrolokainie.pl-smart758718581.pl,http://www.phishtank.com/phish_detail.php?phish_id=9477914,2026-07-13T17:38:32+00:00,yes,2026-07-13T17:52:41+00:00,yes,Allegro
 9477913,http://allegro-lokalnie.pl-smart758718581.pl,http://www.phishtank.com/phish_detail.php?phish_id=9477913,2026-07-13T17:38:26+00:00,yes,2026-07-13T17:52:41+00:00,yes,Allegro
-9477911,https://ciub-prime-videos.fr/,http://www.phishtank.com/phish_detail.php?phish_id=9477911,2026-07-13T17:38:04+00:00,yes,2026-07-13T21:52:57+00:00,yes,Amazon.com
 9477910,https://ciub-prime-videos.fr/index.php,http://www.phishtank.com/phish_detail.php?phish_id=9477910,2026-07-13T17:37:55+00:00,yes,2026-07-13T17:52:41+00:00,yes,Amazon.com
 9477909,https://klelnanzeigen-deutch.service-de249264.info/getpaymentm/198977347/m2,http://www.phishtank.com/phish_detail.php?phish_id=9477909,2026-07-13T17:37:29+00:00,yes,2026-07-13T17:52:41+00:00,yes,Other
 9477903,https://alfinbancope.z13.web.core.windows.net,http://www.phishtank.com/phish_detail.php?phish_id=9477903,2026-07-13T17:32:20+00:00,yes,2026-07-13T18:52:37+00:00,yes,Other
@@ -12751,7 +13200,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9472950,https://zainumniahorangejor5.pages.dev/,http://www.phishtank.com/phish_detail.php?phish_id=9472950,2026-07-09T08:41:06+00:00,yes,2026-07-09T08:52:16+00:00,yes,Other
 9472946,https://leavia.pt/versa/,http://www.phishtank.com/phish_detail.php?phish_id=9472946,2026-07-09T08:36:31+00:00,yes,2026-07-09T08:52:16+00:00,yes,Other
 9472942,https://tipsal.pt/versa/,http://www.phishtank.com/phish_detail.php?phish_id=9472942,2026-07-09T08:34:49+00:00,yes,2026-07-09T08:52:16+00:00,yes,Other
-9472929,https://prime-video.app/?token=e36df3f8,http://www.phishtank.com/phish_detail.php?phish_id=9472929,2026-07-09T08:12:18+00:00,yes,2026-07-09T08:22:39+00:00,yes,Amazon.com
 9472920,https://allegrolokalnie.20-35784276584.surf/oferta/id-a0fv5x-JBL-Partybox710-gw-uzywany-rok?fbclid=IwY2xjawS7gNRleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR4KRreX8s8Rh98JOaPoP3ZVR5Un7XjO6mFjrAwxKO8EPy9_QXX_Z5v-M5rvLw_aem_QOE4YLOaEOhUpGdGdOmcEA,http://www.phishtank.com/phish_detail.php?phish_id=9472920,2026-07-09T07:56:56+00:00,yes,2026-07-09T08:03:27+00:00,yes,Allegro
 9472917,https://accapps-trexorcdn.wixstudio.com/en-us,http://www.phishtank.com/phish_detail.php?phish_id=9472917,2026-07-09T07:46:21+00:00,yes,2026-07-09T07:52:19+00:00,yes,Other
 9472916,https://index-suites.wixstudio.com/en-us,http://www.phishtank.com/phish_detail.php?phish_id=9472916,2026-07-09T07:46:08+00:00,yes,2026-07-09T07:52:19+00:00,yes,Other
@@ -13209,7 +13657,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9471056,http://allegrolokalnie.974325.lat/oferta/id-jtmg0qk-karta-graficzna-zotac-nvidia-rtx-4070-ti-trinity-12gb,http://www.phishtank.com/phish_detail.php?phish_id=9471056,2026-07-06T23:10:41+00:00,yes,2026-07-06T23:22:46+00:00,yes,Allegro
 9471051,https://allegrolokalnie.01836431344.surf,http://www.phishtank.com/phish_detail.php?phish_id=9471051,2026-07-06T22:59:07+00:00,yes,2026-07-06T23:03:22+00:00,yes,Allegro
 9471050,https://allegrolokalnie.lokalna-ofeta2570076.shop/oferta/Xbox-Series-S-+-kontroler/372035953,http://www.phishtank.com/phish_detail.php?phish_id=9471050,2026-07-06T22:59:05+00:00,yes,2026-07-06T23:03:22+00:00,yes,Allegro
-9471043,https://tam-6883.twil.io/sdk8d,http://www.phishtank.com/phish_detail.php?phish_id=9471043,2026-07-06T22:13:10+00:00,yes,2026-07-06T22:22:48+00:00,yes,Optus
 9471042,https://hostpichincha.zya.me/?i=1,http://www.phishtank.com/phish_detail.php?phish_id=9471042,2026-07-06T22:02:48+00:00,yes,2026-07-06T22:22:48+00:00,yes,Other
 9471041,https://ser.cn-ssl-okooo.com/m/,http://www.phishtank.com/phish_detail.php?phish_id=9471041,2026-07-06T21:57:43+00:00,yes,2026-07-06T22:22:48+00:00,yes,Other
 9471039,https://aacredltvmlan-online.xyz/?secure_connect=f523c*&_subid=15ld5h3.4c.21re7&_token=3r8o4ab41odak.1783441019.221.4f006e114aa0bf5da3ec2bc4006e3555,http://www.phishtank.com/phish_detail.php?phish_id=9471039,2026-07-06T21:55:15+00:00,yes,2026-07-06T22:22:48+00:00,yes,Other
@@ -13365,7 +13812,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9470491,https://ledge-liv.wixstudio.com/us-en,http://www.phishtank.com/phish_detail.php?phish_id=9470491,2026-07-06T08:42:34+00:00,yes,2026-07-06T08:52:07+00:00,yes,Other
 9470490,https://io-ledzerlive.wixstudio.com/live-us,http://www.phishtank.com/phish_detail.php?phish_id=9470490,2026-07-06T08:42:04+00:00,yes,2026-07-06T08:52:07+00:00,yes,Other
 9470489,http://iostarted-ledgrcdn.wixstudio.com/en-us,http://www.phishtank.com/phish_detail.php?phish_id=9470489,2026-07-06T08:41:49+00:00,yes,2026-07-06T08:52:07+00:00,yes,Other
-9470485,https://yasminpuncak.com/?VCgiYTfE&ref=dGVycnkubWFpb2xvQG92aGNsb3VkLmNvbQ==,http://www.phishtank.com/phish_detail.php?phish_id=9470485,2026-07-06T08:38:44+00:00,yes,2026-07-10T12:22:53+00:00,yes,Other
 9470483,http://allegrolokainie.pl92838282.shop,http://www.phishtank.com/phish_detail.php?phish_id=9470483,2026-07-06T08:37:38+00:00,yes,2026-07-06T08:52:07+00:00,yes,Allegro
 9470479,http://allegrolokalne.pl92838282.shop,http://www.phishtank.com/phish_detail.php?phish_id=9470479,2026-07-06T08:36:05+00:00,yes,2026-07-06T08:52:07+00:00,yes,Allegro
 9470477,http://allegro.pl-1284339.shop,http://www.phishtank.com/phish_detail.php?phish_id=9470477,2026-07-06T08:35:54+00:00,yes,2026-07-06T08:52:07+00:00,yes,Allegro
@@ -14067,6 +14513,7 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9468019,https://global-ledzerlive.wixstudio.com/en-us,http://www.phishtank.com/phish_detail.php?phish_id=9468019,2026-07-02T09:11:54+00:00,yes,2026-07-02T09:12:52+00:00,yes,Other
 9468016,http://allegrolokalnie.pl-oferta76538.shop,http://www.phishtank.com/phish_detail.php?phish_id=9468016,2026-07-02T08:56:26+00:00,yes,2026-07-02T09:12:52+00:00,yes,Allegro
 9468015,https://www.google.com/share.google?q=d90k1vD39eDFzPcIT,http://www.phishtank.com/phish_detail.php?phish_id=9468015,2026-07-02T08:52:46+00:00,yes,2026-07-02T09:12:52+00:00,yes,Other
+9468002,https://scan.page/708tSs,http://www.phishtank.com/phish_detail.php?phish_id=9468002,2026-07-02T08:05:51+00:00,yes,2026-09-09T17:02:26+00:00,yes,Other
 9467994,https://allegrolokalnie.pl-8724387287.biz/oferta/id-e2adidzf-meta-quest-3-vr-512-gb-z-akcesoriami,http://www.phishtank.com/phish_detail.php?phish_id=9467994,2026-07-02T07:36:21+00:00,yes,2026-07-02T07:52:33+00:00,yes,Allegro
 9467985,https://sbcverify-f0f7ef.webflow.io/,http://www.phishtank.com/phish_detail.php?phish_id=9467985,2026-07-02T07:15:56+00:00,yes,2026-07-02T07:52:33+00:00,yes,Other
 9467984,https://statement346784.weebly.com/,http://www.phishtank.com/phish_detail.php?phish_id=9467984,2026-07-02T07:15:53+00:00,yes,2026-07-02T07:52:33+00:00,yes,Other
@@ -14257,6 +14704,8 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9467531,https://3ih4ju4.skin/ke0c3ep7/BYxxWU/pVfjK2,http://www.phishtank.com/phish_detail.php?phish_id=9467531,2026-07-01T16:44:24+00:00,yes,2026-07-01T16:52:40+00:00,yes,Other
 9467526,https://1t2tgf.skin/ke0c3ep7/BYxxWU/pVfjK2,http://www.phishtank.com/phish_detail.php?phish_id=9467526,2026-07-01T16:38:25+00:00,yes,2026-07-01T16:52:40+00:00,yes,Other
 9467525,http://allegrolokalnie.pl-oferta483hdmn4fd.click,http://www.phishtank.com/phish_detail.php?phish_id=9467525,2026-07-01T16:23:29+00:00,yes,2026-07-01T16:32:47+00:00,yes,Allegro
+9467524,https://gjcrb.nourtperrlio.click/5k6ozps/6a0e15475d2eafe234ef6d65.html#mma@b.com,http://www.phishtank.com/phish_detail.php?phish_id=9467524,2026-07-01T16:15:45+00:00,yes,2026-09-09T17:02:27+00:00,yes,Other
+9467523,https://gJCrb.nourtperrlio.click#mma@b.com,http://www.phishtank.com/phish_detail.php?phish_id=9467523,2026-07-01T16:15:01+00:00,yes,2026-09-09T17:02:27+00:00,yes,Other
 9467521,https://djverbito.com/mid/index.html,http://www.phishtank.com/phish_detail.php?phish_id=9467521,2026-07-01T16:13:15+00:00,yes,2026-07-01T16:52:40+00:00,yes,"Internal Revenue Service"
 9467520,http://allegrolokalnie.ofera-lokalna6843981.shop,http://www.phishtank.com/phish_detail.php?phish_id=9467520,2026-07-01T15:56:40+00:00,yes,2026-07-01T16:32:47+00:00,yes,Allegro
 9467519,http://allegrolokalnie.pl-5891289512.sbs,http://www.phishtank.com/phish_detail.php?phish_id=9467519,2026-07-01T15:54:33+00:00,yes,2026-07-01T16:32:47+00:00,yes,Allegro
@@ -15755,7 +16204,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9462645,http://allegrolokalnie.pl018986702306.cfd/oferta/1990-polonez-15-do-napraw/01897,http://www.phishtank.com/phish_detail.php?phish_id=9462645,2026-06-25T15:13:56+00:00,yes,2026-06-25T20:22:43+00:00,yes,Allegro
 9462630,https://distribuidora-nacional.duckdns.org/,http://www.phishtank.com/phish_detail.php?phish_id=9462630,2026-06-25T14:48:56+00:00,yes,2026-06-25T20:12:51+00:00,yes,Other
 9462628,https://facturealo160.top/loading.php,http://www.phishtank.com/phish_detail.php?phish_id=9462628,2026-06-25T14:45:54+00:00,yes,2026-06-25T20:03:40+00:00,yes,Amazon.com
-9462620,https://mes-avoirs-sante.com/,http://www.phishtank.com/phish_detail.php?phish_id=9462620,2026-06-25T14:18:10+00:00,yes,2026-06-25T20:03:40+00:00,yes,Other
 9462617,https://mon-espace-assures.com/,http://www.phishtank.com/phish_detail.php?phish_id=9462617,2026-06-25T14:10:29+00:00,yes,2026-06-25T14:23:00+00:00,yes,Other
 9462616,https://mon-espace-assures.com/index.php,http://www.phishtank.com/phish_detail.php?phish_id=9462616,2026-06-25T14:10:19+00:00,yes,2026-06-25T14:23:00+00:00,yes,Other
 9462612,https://sbc-signin-att-net.webflow.io/,http://www.phishtank.com/phish_detail.php?phish_id=9462612,2026-06-25T14:01:13+00:00,yes,2026-06-25T14:23:00+00:00,yes,Other
@@ -16984,9 +17432,7 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9457564,https://auspost.customerserviceqp.com/,http://www.phishtank.com/phish_detail.php?phish_id=9457564,2026-06-19T12:41:52+00:00,yes,2026-06-19T12:52:45+00:00,yes,Other
 9457562,https://auspost.customerserviceqs.com/,http://www.phishtank.com/phish_detail.php?phish_id=9457562,2026-06-19T12:40:16+00:00,yes,2026-06-19T12:52:45+00:00,yes,Other
 9457561,https://auspost.customerserviceqi.com/,http://www.phishtank.com/phish_detail.php?phish_id=9457561,2026-06-19T12:40:03+00:00,yes,2026-06-19T12:52:45+00:00,yes,Other
-9457530,https://dstrb-platfrme006.pro/,http://www.phishtank.com/phish_detail.php?phish_id=9457530,2026-06-19T12:18:46+00:00,yes,2026-06-20T20:52:24+00:00,yes,Amazon.com
 9457529,https://dstrb-platfrme006.pro/loading.php,http://www.phishtank.com/phish_detail.php?phish_id=9457529,2026-06-19T12:18:33+00:00,yes,2026-06-20T22:32:57+00:00,yes,Amazon.com
-9457518,https://dstrb-platfrme010.pro/,http://www.phishtank.com/phish_detail.php?phish_id=9457518,2026-06-19T12:07:11+00:00,yes,2026-06-19T17:22:25+00:00,yes,Amazon.com
 9457517,https://dstrb-platfrme010.pro/loading.php,http://www.phishtank.com/phish_detail.php?phish_id=9457517,2026-06-19T12:06:44+00:00,yes,2026-06-20T22:32:57+00:00,yes,Amazon.com
 9457509,https://maxisot.com/mymaxis,http://www.phishtank.com/phish_detail.php?phish_id=9457509,2026-06-19T12:05:13+00:00,yes,2026-06-19T12:52:45+00:00,yes,Other
 9457505,https://ameli-assurances-sante.com/?useremail=rolp@dmr.ms.gov,http://www.phishtank.com/phish_detail.php?phish_id=9457505,2026-06-19T12:03:02+00:00,yes,2026-06-19T12:52:45+00:00,yes,Other
@@ -17038,6 +17484,7 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9457388,https://sundhed-digital.com/support/billing/,http://www.phishtank.com/phish_detail.php?phish_id=9457388,2026-06-19T09:57:29+00:00,yes,2026-06-19T10:12:56+00:00,yes,Other
 9457383,https://comparable-beige-ghqsab8y.edgeone.dev/,http://www.phishtank.com/phish_detail.php?phish_id=9457383,2026-06-19T09:37:56+00:00,yes,2026-06-19T09:42:24+00:00,yes,Other
 9457364,https://dms.collnect.com/Main/?session=1fa134c223c59003ddc0de0ba857bfd0fab4f201044f5af54f092f0221626793,http://www.phishtank.com/phish_detail.php?phish_id=9457364,2026-06-19T09:17:14+00:00,yes,2026-06-19T09:22:24+00:00,yes,Other
+9457360,https://morgenland.pt/,http://www.phishtank.com/phish_detail.php?phish_id=9457360,2026-06-19T09:11:51+00:00,yes,2026-09-09T17:02:28+00:00,yes,Other
 9457351,https://maxisek.com/mymaxis,http://www.phishtank.com/phish_detail.php?phish_id=9457351,2026-06-19T08:50:30+00:00,yes,2026-06-19T09:22:24+00:00,yes,Other
 9457340,https://www.renouvellement-espace-personnel.com/captcha,http://www.phishtank.com/phish_detail.php?phish_id=9457340,2026-06-19T08:20:30+00:00,yes,2026-06-19T08:42:12+00:00,yes,Netflix
 9457333,https://monespacedfrance.com/index.php,http://www.phishtank.com/phish_detail.php?phish_id=9457333,2026-06-19T08:05:07+00:00,yes,2026-06-19T08:22:31+00:00,yes,Other
@@ -17435,6 +17882,7 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9455778,https://allegrolokalnie.oferta75346279.shop/,http://www.phishtank.com/phish_detail.php?phish_id=9455778,2026-06-17T13:45:58+00:00,yes,2026-06-17T13:52:20+00:00,yes,Allegro
 9455775,https://dstrb-platfrm003.pro/,http://www.phishtank.com/phish_detail.php?phish_id=9455775,2026-06-17T13:42:31+00:00,yes,2026-06-17T17:12:57+00:00,yes,Other
 9455774,https://dstrb-platfrm003.pro/as.php,http://www.phishtank.com/phish_detail.php?phish_id=9455774,2026-06-17T13:41:57+00:00,yes,2026-06-17T16:42:23+00:00,yes,Other
+9455752,https://qbd.soundestlink.com/ce/c/69a52219ffb4156fd1d2588c/6a3141d3b6dc9750e78338b3/6a3141ee0a08ef50f575261b?signature=3d0c131fe1d269e00860ad122211af192a552badd5e46425bb10c552c492d0c8,http://www.phishtank.com/phish_detail.php?phish_id=9455752,2026-06-17T13:08:09+00:00,yes,2026-09-09T17:02:28+00:00,yes,DocuSign
 9455750,https://ledgr-start.zapier.app/en-us,http://www.phishtank.com/phish_detail.php?phish_id=9455750,2026-06-17T13:07:02+00:00,yes,2026-06-17T13:12:48+00:00,yes,Other
 9455749,https://ldgr-cm-start.wixstudio.com/start,http://www.phishtank.com/phish_detail.php?phish_id=9455749,2026-06-17T13:06:47+00:00,yes,2026-06-17T13:12:48+00:00,yes,Other
 9455743,https://firststepschemicalclassificationkit.com/wq2/#email@email.com,http://www.phishtank.com/phish_detail.php?phish_id=9455743,2026-06-17T12:50:46+00:00,yes,2026-06-17T14:52:20+00:00,yes,"Internal Revenue Service"
@@ -17586,7 +18034,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9455144,https://allegro.gay-porevo.buzz,http://www.phishtank.com/phish_detail.php?phish_id=9455144,2026-06-16T18:33:55+00:00,yes,2026-06-16T18:42:23+00:00,yes,Allegro
 9455143,https://dstrb-platfrm012.pro/,http://www.phishtank.com/phish_detail.php?phish_id=9455143,2026-06-16T18:33:08+00:00,yes,2026-06-16T18:42:23+00:00,yes,Other
 9455142,https://dstrb-platfrm012.pro/as.php,http://www.phishtank.com/phish_detail.php?phish_id=9455142,2026-06-16T18:32:58+00:00,yes,2026-06-16T18:42:23+00:00,yes,Other
-9455135,https://dstrb-platfrm004.pro/,http://www.phishtank.com/phish_detail.php?phish_id=9455135,2026-06-16T18:14:02+00:00,yes,2026-06-17T06:52:44+00:00,yes,Other
 9455134,https://dstrb-platfrm004.pro/as.php,http://www.phishtank.com/phish_detail.php?phish_id=9455134,2026-06-16T18:13:53+00:00,yes,2026-06-16T18:32:53+00:00,yes,Other
 9455132,https://shopee.scred.top/,http://www.phishtank.com/phish_detail.php?phish_id=9455132,2026-06-16T18:07:16+00:00,yes,2026-06-16T18:12:50+00:00,yes,Other
 9455116,https://primeamzabo025.pro/,http://www.phishtank.com/phish_detail.php?phish_id=9455116,2026-06-16T17:02:15+00:00,yes,2026-06-16T17:42:27+00:00,yes,Amazon.com
@@ -17858,6 +18305,8 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9453990,https://cbj-portal.pages.dev/,http://www.phishtank.com/phish_detail.php?phish_id=9453990,2026-06-15T13:27:44+00:00,yes,2026-06-15T13:32:41+00:00,yes,Other
 9453985,https://primeamzabo012.pro/,http://www.phishtank.com/phish_detail.php?phish_id=9453985,2026-06-15T13:18:50+00:00,yes,2026-06-15T13:22:32+00:00,yes,Amazon.com
 9453984,https://primeamzabo012.pro/loading.php,http://www.phishtank.com/phish_detail.php?phish_id=9453984,2026-06-15T13:18:36+00:00,yes,2026-06-15T13:22:32+00:00,yes,Amazon.com
+9453983,https://oorth.bablisly.click/10exhyn/691364425d2eafe234edc268.html#BBa@b.com,http://www.phishtank.com/phish_detail.php?phish_id=9453983,2026-06-15T13:05:21+00:00,yes,2026-09-09T17:02:29+00:00,yes,Other
+9453982,https://oorth.bablisly.click/#BBa@b.com,http://www.phishtank.com/phish_detail.php?phish_id=9453982,2026-06-15T13:04:43+00:00,yes,2026-09-09T17:02:29+00:00,yes,Other
 9453974,https://allegrolokalnie.pl-420.sbs,http://www.phishtank.com/phish_detail.php?phish_id=9453974,2026-06-15T12:51:15+00:00,yes,2026-06-15T13:12:51+00:00,yes,Allegro
 9453973,https://farmapay-replica.vercel.app/,http://www.phishtank.com/phish_detail.php?phish_id=9453973,2026-06-15T12:48:54+00:00,yes,2026-06-15T12:52:22+00:00,yes,Other
 9453972,https://primeamzabo010.pro/,http://www.phishtank.com/phish_detail.php?phish_id=9453972,2026-06-15T12:45:01+00:00,yes,2026-06-15T12:52:22+00:00,yes,Amazon.com
@@ -18892,6 +19341,7 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9450159,https://bbva-movil.bolt.host/,http://www.phishtank.com/phish_detail.php?phish_id=9450159,2026-06-11T12:21:29+00:00,yes,2026-06-11T12:32:49+00:00,yes,"Banco Bilbao Vizcaya Argentaria"
 9450155,https://intro-ledzerlive.wixstudio.com/en-us,http://www.phishtank.com/phish_detail.php?phish_id=9450155,2026-06-11T12:13:54+00:00,yes,2026-06-11T12:22:32+00:00,yes,Other
 9450154,http://ldger-livee.wixstudio.com/setup,http://www.phishtank.com/phish_detail.php?phish_id=9450154,2026-06-11T12:13:39+00:00,yes,2026-06-11T12:22:32+00:00,yes,Other
+9450151,https://mailcheck-processing.s3.us-east-1.amazonaws.com/Indexx.html#a@b.com,http://www.phishtank.com/phish_detail.php?phish_id=9450151,2026-06-11T12:12:09+00:00,yes,2026-09-09T17:02:30+00:00,yes,Other
 9450150,https://starto-wallet.wixstudio.com/us-en,http://www.phishtank.com/phish_detail.php?phish_id=9450150,2026-06-11T12:11:53+00:00,yes,2026-06-11T12:22:32+00:00,yes,Other
 9450147,http://ssostarts-trexo--cdn.wixstudio.com/start-io-atart,http://www.phishtank.com/phish_detail.php?phish_id=9450147,2026-06-11T12:11:29+00:00,yes,2026-06-11T12:22:32+00:00,yes,Other
 9450148,https://ssostarts-trexo--cdn.wixstudio.com:443/start-io-atart,http://www.phishtank.com/phish_detail.php?phish_id=9450148,2026-06-11T12:11:29+00:00,yes,2026-06-11T12:22:32+00:00,yes,Other
@@ -20020,6 +20470,8 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9445079,https://michmach.com,http://www.phishtank.com/phish_detail.php?phish_id=9445079,2026-06-05T21:29:07+00:00,yes,2026-06-05T21:32:55+00:00,yes,Other
 9445073,https://eng-ldgercdn.wixstudio.com/us-en,http://www.phishtank.com/phish_detail.php?phish_id=9445073,2026-06-05T21:26:58+00:00,yes,2026-06-05T21:32:55+00:00,yes,Other
 9445071,https://lrsgrd-live.wixstudio.com/logon,http://www.phishtank.com/phish_detail.php?phish_id=9445071,2026-06-05T21:26:35+00:00,yes,2026-06-05T21:32:55+00:00,yes,Other
+9445056,https://open-chtgptrenew.com/refu/chatgpt/,http://www.phishtank.com/phish_detail.php?phish_id=9445056,2026-06-05T21:05:42+00:00,yes,2026-09-09T17:02:30+00:00,yes,Other
+9445055,https://edrone-me.sparkpost.edrone-click.me/f/a/y69GIbEMpPf8UCqa9r2Naw~~/AABX7xA~/dbbMuZMm0wu9giPhuoCJanGz6R9iSyFXNrAaOOFBxE7YTUa7Y2TuTIX2WXz6GGd8ePNuT7bcD95MVW3c4eHOfjFpfuH8bWeSfSAjeWXTEwLxLHUbxSMv0WnLu9_kQKXHBvj--b2re7L05l86UwwhVAncRfoZxUrU9kR850s8JhHpxTU0tNG6dtF-_s-VkfI8LGqccb1j0fpHS9amks_lvVKiq6CmnYvtoYjoGz8Vm43oho69X2ekkxplyrBaR-UQ9sWbQvbyjocsDMYARhXBfUnJj6UU7e84CpWxA-7Nk7Pv8JzuaxAv8_rmpgTXD6MvMDNzlj1uAdU5Nk9-MM_Bk3PDz4qBinhMiLoHXyF82KdIdZ9_YFVdOV49SKCkLcgoWq2lc7hCwsGqkB5JMceWwol85_zvhrqWZwHrPztk6hE8vKgvRjGV4k93fRbLYys2ip8QN7sfg3KC2M6iZ_S3yRk8QsL03LwjtR6U_UyfRatjnYGKvW_pJ4sy73A0u7WfmoM75TcHb3LNveD9fLTebkUnY5yOZjBoh7q0wlsILdEfVIIyeCRQjjGEL6mQSFhh35G-Bb_rL9agRVbP50YFgHIkX7dBPlEte93rvPChy416RBuFnyj1wyFFj-k7tlb8,http://www.phishtank.com/phish_detail.php?phish_id=9445055,2026-06-05T21:05:19+00:00,yes,2026-09-09T17:02:30+00:00,yes,Other
 9445054,https://vimaantech.com,http://www.phishtank.com/phish_detail.php?phish_id=9445054,2026-06-05T21:02:49+00:00,yes,2026-06-05T21:22:21+00:00,yes,Other
 9445050,https://fashionnvren.com,http://www.phishtank.com/phish_detail.php?phish_id=9445050,2026-06-05T21:00:19+00:00,yes,2026-06-05T21:22:21+00:00,yes,Other
 9445042,https://benyanshi.com/,http://www.phishtank.com/phish_detail.php?phish_id=9445042,2026-06-05T20:59:01+00:00,yes,2026-06-05T21:22:21+00:00,yes,Other
@@ -20058,6 +20510,7 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9444807,https://allegrolokalnie.0107027.cfd/oferta/pergola-aluminiowa-4x3-oswietlenie/63936,http://www.phishtank.com/phish_detail.php?phish_id=9444807,2026-06-05T17:23:19+00:00,yes,2026-06-05T17:32:57+00:00,yes,Allegro
 9444803,http://allegro.219487h741.lol/,http://www.phishtank.com/phish_detail.php?phish_id=9444803,2026-06-05T17:21:38+00:00,yes,2026-06-05T17:32:57+00:00,yes,Allegro
 9444804,https://allegro.219487h741.lol/,http://www.phishtank.com/phish_detail.php?phish_id=9444804,2026-06-05T17:21:38+00:00,yes,2026-06-05T17:32:57+00:00,yes,Allegro
+9444790,https://zpr.io/iLqXapkLu8SC,http://www.phishtank.com/phish_detail.php?phish_id=9444790,2026-06-05T17:10:03+00:00,yes,2026-09-09T17:02:30+00:00,yes,DHL
 9444779,https://login.wmckdndp.com/?TsNznOtuy1tk,http://www.phishtank.com/phish_detail.php?phish_id=9444779,2026-06-05T16:52:46+00:00,yes,2026-06-05T17:13:00+00:00,yes,Other
 9444778,https://trezor.article-readusa.com/?p=N0Rr4StohLGIglUkUEXyn_xSHhDFdjy9ElMrMwjIecui-HEv9DFR8yS1KsWHhcQ,http://www.phishtank.com/phish_detail.php?phish_id=9444778,2026-06-05T16:50:32+00:00,yes,2026-06-05T17:13:00+00:00,yes,Other
 9444775,https://bnp-cledigitale.bolt.host/index.html,http://www.phishtank.com/phish_detail.php?phish_id=9444775,2026-06-05T16:42:13+00:00,yes,2026-06-05T16:52:22+00:00,yes,Other
@@ -20092,7 +20545,10 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9444574,https://73ywge.ink/s1fauty4/mT77dQ/4zdjji,http://www.phishtank.com/phish_detail.php?phish_id=9444574,2026-06-05T11:35:30+00:00,yes,2026-06-05T11:52:36+00:00,yes,Other
 9444565,https://dkde-kredit-deutsheinternational.91-218-65-223.plesk.page/intel/,http://www.phishtank.com/phish_detail.php?phish_id=9444565,2026-06-05T11:30:07+00:00,yes,2026-06-05T11:52:36+00:00,yes,Other
 9444564,https://iocmfh84.ink/s1fauty4/mT77dQ/4zdjji,http://www.phishtank.com/phish_detail.php?phish_id=9444564,2026-06-05T11:29:30+00:00,yes,2026-06-05T11:52:36+00:00,yes,Other
+9444562,https://share.google/aPaKk4naRmE27YS5n,http://www.phishtank.com/phish_detail.php?phish_id=9444562,2026-06-05T11:27:57+00:00,yes,2026-09-09T17:02:31+00:00,yes,Other
+9444563,https://www.google.com/share.google?q=aPaKk4naRmE27YS5n,http://www.phishtank.com/phish_detail.php?phish_id=9444563,2026-06-05T11:27:57+00:00,yes,2026-09-09T17:02:31+00:00,yes,Other
 9444561,https://euherd3.ink/s1fauty4/mT77dQ/4zdjji,http://www.phishtank.com/phish_detail.php?phish_id=9444561,2026-06-05T11:27:30+00:00,yes,2026-06-05T11:52:36+00:00,yes,Other
+9444554,https://five661.com/alph/,http://www.phishtank.com/phish_detail.php?phish_id=9444554,2026-06-05T11:24:41+00:00,yes,2026-09-09T17:02:31+00:00,yes,Other
 9444551,https://98wqui.wiki/s1fauty4/mT77dQ/4zdjji,http://www.phishtank.com/phish_detail.php?phish_id=9444551,2026-06-05T11:23:30+00:00,yes,2026-06-08T02:52:36+00:00,yes,Other
 9444549,https://tinyurl.com/5n7jvmmx#?c=ZWltYXN0ZUBzdGlucHJpemEub3Jn,http://www.phishtank.com/phish_detail.php?phish_id=9444549,2026-06-05T11:22:37+00:00,yes,2026-06-05T12:22:22+00:00,yes,Other
 9444546,https://2qgwtw.wiki/s1fauty4/mT77dQ/4zdjji,http://www.phishtank.com/phish_detail.php?phish_id=9444546,2026-06-05T11:19:28+00:00,yes,2026-06-08T02:52:36+00:00,yes,Other
@@ -20260,6 +20716,8 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9443857,https://www.usrkj.com/home,http://www.phishtank.com/phish_detail.php?phish_id=9443857,2026-06-04T15:09:03+00:00,yes,2026-06-04T15:13:04+00:00,yes,Other
 9443855,https://jinriluan.com/?type=verify&amp;key=xyvetwapzc,http://www.phishtank.com/phish_detail.php?phish_id=9443855,2026-06-04T15:08:12+00:00,yes,2026-06-04T15:13:04+00:00,yes,Other
 9443849,https://www-currently-sign-in-fec9a1.webflow.io/,http://www.phishtank.com/phish_detail.php?phish_id=9443849,2026-06-04T14:49:02+00:00,yes,2026-06-04T14:52:36+00:00,yes,Other
+9443798,https://api.gelukkigewinnaars.nl/storage/img/,http://www.phishtank.com/phish_detail.php?phish_id=9443798,2026-06-04T13:44:15+00:00,yes,2026-09-09T17:02:31+00:00,yes,Other
+9443797,https://chocovibes.be/g/,http://www.phishtank.com/phish_detail.php?phish_id=9443797,2026-06-04T13:43:44+00:00,yes,2026-09-09T17:02:31+00:00,yes,Other
 9443789,https://justi-tech.com/XuqMkA4,http://www.phishtank.com/phish_detail.php?phish_id=9443789,2026-06-04T13:33:56+00:00,yes,2026-06-05T11:22:20+00:00,yes,Other
 9443784,https://justi-tech.com/WURccWZ,http://www.phishtank.com/phish_detail.php?phish_id=9443784,2026-06-04T13:31:25+00:00,yes,2026-06-05T11:22:20+00:00,yes,Other
 9443767,https://mail.a1-creditmutuel-fr.s-host.net/,http://www.phishtank.com/phish_detail.php?phish_id=9443767,2026-06-04T13:09:45+00:00,yes,2026-06-04T13:12:46+00:00,yes,Other
@@ -23886,8 +24344,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9426216,https://onlineugyintezes-ugyfelszolgalat.com/support/alert/,http://www.phishtank.com/phish_detail.php?phish_id=9426216,2026-05-17T09:45:31+00:00,yes,2026-05-17T09:52:25+00:00,yes,Other
 9426203,https://espacio-de-renovacion.com/,http://www.phishtank.com/phish_detail.php?phish_id=9426203,2026-05-17T07:52:08+00:00,yes,2026-05-17T08:03:19+00:00,yes,Netflix
 9426198,https://www.mon-colisrelais.com/,http://www.phishtank.com/phish_detail.php?phish_id=9426198,2026-05-17T07:35:55+00:00,yes,2026-05-17T07:42:20+00:00,yes,Other
-9426173,https://my-trustwallet.co.com/,http://www.phishtank.com/phish_detail.php?phish_id=9426173,2026-05-17T05:52:56+00:00,yes,2026-05-24T22:22:32+00:00,yes,Other
-9426171,https://safepal.com.ag/?t=MTc3ODk5NDQzMHxkMzcwOTFlYzM1NDNjZDE3ZmFkYWVlNjY5NGVjYTFkYWZlOGYzNDIwNDAxODcyZWM2MDU2ZDMwNDk4NDQ2NTcx,http://www.phishtank.com/phish_detail.php?phish_id=9426171,2026-05-17T05:51:23+00:00,yes,2026-05-24T22:22:32+00:00,yes,Other
 9426155,https://uas1-connect-portal.info/,http://www.phishtank.com/phish_detail.php?phish_id=9426155,2026-05-17T05:24:37+00:00,yes,2026-05-17T20:22:20+00:00,yes,Other
 9426106,https://bradescochat.apoioexclusivo.com/,http://www.phishtank.com/phish_detail.php?phish_id=9426106,2026-05-16T23:42:04+00:00,yes,2026-05-16T23:52:14+00:00,yes,Other
 9426105,https://netempresa.cadastrointerno.digital/,http://www.phishtank.com/phish_detail.php?phish_id=9426105,2026-05-16T23:41:44+00:00,yes,2026-05-16T23:52:14+00:00,yes,Other
@@ -24933,7 +25389,6 @@ phish_id,url,phish_detail_url,submission_time,verified,verification_time,online,
 9420484,https://netflixbymanoj.vercel.app/,http://www.phishtank.com/phish_detail.php?phish_id=9420484,2026-05-09T22:48:53+00:00,yes,2026-05-09T22:52:17+00:00,yes,Netflix
 9420483,https://ipfs.io/ipfs/bafkreibyljmt5scyuoccu3ucintoqyfi33tvk6gvwng4pniq3pnoahrva4,http://www.phishtank.com/phish_detail.php?phish_id=9420483,2026-05-09T22:45:21+00:00,yes,2026-05-09T22:52:17+00:00,yes,Microsoft
 9420470,http://allegrolokalnie.pl55927954.lat/oferta/kukurin-g4-2025r-264km-przebiegu--custom,http://www.phishtank.com/phish_detail.php?phish_id=9420470,2026-05-09T20:53:47+00:00,yes,2026-05-09T21:02:55+00:00,yes,Allegro
-9420451,https://dpln-guides.com/anomalie-des-neravok/quete/tutorial/,http://www.phishtank.com/phish_detail.php?phish_id=9420451,2026-05-09T19:26:27+00:00,yes,2026-05-22T13:13:04+00:00,yes,Other
 9420441,https://carloseletro.site.cineuai.xyz/,http://www.phishtank.com/phish_detail.php?phish_id=9420441,2026-05-09T18:58:40+00:00,yes,2026-05-09T19:02:49+00:00,yes,Other
 9420436,http://allegro-lokalnie.49239otihy6we9.lat,http://www.phishtank.com/phish_detail.php?phish_id=9420436,2026-05-09T18:55:20+00:00,yes,2026-05-09T19:02:49+00:00,yes,Allegro
 9420434,https://allegro.po83920-3.lat/,http://www.phishtank.com/phish_detail.php?phish_id=9420434,2026-05-09T18:51:11+00:00,yes,2026-05-09T19:02:49+00:00,yes,Allegro
